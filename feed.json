@@ -1,0 +1,738 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Frank Meeuwsen",
+	"icon": "https://micro.blog/frank/avatar.jpg",
+	"home_page_url": "https://frank.micro.blog/",
+	"feed_url": "https://frank.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://frank.micro.blog/2023/11/11/bowie-the-cats.html",
+				
+				"content_html": "<p>Bowie the cat’s first day outside. Freedom awaits!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Bowie the cat’s first day outside. Freedom awaits!\n\n<img src=\"uploads/2023/1c16c1b96c6f4a25a8fc36a3c10cb9b4.jpg\" width=\"337\" height=\"600\" alt=\"\"><img src=\"uploads/2023/2f45e8cbd4d14a5ca5063b445aeb2f96.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-11T12:53:07+01:00",
+				"url": "https://frank.micro.blog/2023/11/11/bowie-the-cats.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/11/default-apps-of.html",
+				"title": "Default Apps of 2023",
+				"content_html": "<p>All of a sudden it is all over my RSS feeds, people blogging about the default apps they use for most of their online activities.  OK, so yeah&hellip; this is apparently a <em>thing</em> and of course I can&rsquo;t be left behind! Ever since the early days of blogging (The shrouded secrets of the past, lores of yore&hellip;) these list have existed and it&rsquo;s always great fun to peruse through them. <a href=\"https://defaults.rknight.me/\">Robb Knight</a> is collecting a list of those who have participated.</p>\n<p>Here are my defaults  in 2023. Personal and professional separated where necessary. I also added one aspirational app for 2024&hellip;</p>\n<ul>\n<li>Mail Client - Fastmail (personal)/Gmail (work)</li>\n<li>Mail Server - Fastmail (personal)/Gmail (work)</li>\n<li>Notes - Obsidian</li>\n<li>To-Do - Reminders (personal)/Todoist (work)</li>\n<li>iPhone Photo Shooting - default app or <a href=\"https://halide.cam/\">Halide</a></li>\n<li>Photo Management - iPhotos</li>\n<li>Calendar - Fastmail (personal)/Google Calendar (work)</li>\n<li>Cloud File Storage - iCloud &amp; Stack</li>\n<li>RSS - <a href=\"https://bazqux.com/\">BazQux</a> &amp; <a href=\"https://voidstern.net/fiery-feeds\">Fiery Feeds</a></li>\n<li>Contacts - Fastmail</li>\n<li>Browser - Brave</li>\n<li>Chat - Signal &amp; Whatsapp (personal) / Slack (work)</li>\n<li>Bookmarks - Brave &amp; <a href=\"https://getdrafts.com/\">Drafts</a></li>\n<li>Read It Later - Readwise &amp; Drafts</li>\n<li>Word Processing - Obsidian (personal)/Google Docs (work)</li>\n<li>Spreadsheets - Google Sheets</li>\n<li>Presentations - Keynote</li>\n<li>Shopping Lists - Pen and paper</li>\n<li>Meal Planning - Pen and paper</li>\n<li>Budgeting and Personal Finance - MijnGeldzaken.nl (roughly translates to My Moneystuff)</li>\n<li>Music - Spotify</li>\n<li>Password Management - 1Password</li>\n<li>Blogging - Drafts, Micro.blog, WordPress</li>\n<li>Clipboard Manager - Paste</li>\n<li>Terminal - iTerm with zsh</li>\n<li>Journaling - Day One</li>\n<li>Automation - Keyboard Maestro</li>\n<li>Launcher - Raycast</li>\n<li>Searchengine - DuckDuckGo</li>\n<li>Aspirational app for 2024 - Emacs</li>\n</ul>\n",
+				"content_text": "All of a sudden it is all over my RSS feeds, people blogging about the default apps they use for most of their online activities.  OK, so yeah... this is apparently a _thing_ and of course I can't be left behind! Ever since the early days of blogging (The shrouded secrets of the past, lores of yore...) these list have existed and it's always great fun to peruse through them. [Robb Knight](https://defaults.rknight.me/) is collecting a list of those who have participated.\n\nHere are my defaults  in 2023. Personal and professional separated where necessary. I also added one aspirational app for 2024...\n\n\n- Mail Client - Fastmail (personal)/Gmail (work)\n- Mail Server - Fastmail (personal)/Gmail (work)\n- Notes - Obsidian\n- To-Do - Reminders (personal)/Todoist (work)\n- iPhone Photo Shooting - default app or [Halide](https://halide.cam/)\n- Photo Management - iPhotos\n- Calendar - Fastmail (personal)/Google Calendar (work)\n- Cloud File Storage - iCloud & Stack\n- RSS - [BazQux](https://bazqux.com/) & [Fiery Feeds](https://voidstern.net/fiery-feeds)\n- Contacts - Fastmail\n- Browser - Brave\n- Chat - Signal & Whatsapp (personal) / Slack (work)\n- Bookmarks - Brave & [Drafts](https://getdrafts.com/)\n- Read It Later - Readwise & Drafts\n- Word Processing - Obsidian (personal)/Google Docs (work)\n- Spreadsheets - Google Sheets\n- Presentations - Keynote\n- Shopping Lists - Pen and paper\n- Meal Planning - Pen and paper\n- Budgeting and Personal Finance - MijnGeldzaken.nl (roughly translates to My Moneystuff)\n- Music - Spotify\n- Password Management - 1Password\n- Blogging - Drafts, Micro.blog, WordPress\n- Clipboard Manager - Paste\n- Terminal - iTerm with zsh\n- Journaling - Day One\n- Automation - Keyboard Maestro\n- Launcher - Raycast\n- Searchengine - DuckDuckGo\n- Aspirational app for 2024 - Emacs\n",
+				"date_published": "2023-11-11T09:42:35+01:00",
+				"url": "https://frank.micro.blog/2023/11/11/default-apps-of.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/11/first-of-days.html",
+				
+				"content_html": "<p>First of 5 days off. No big plans, taking some rest and see what we want and can do at the end of the year.</p>\n",
+				"content_text": "First of 5 days off. No big plans, taking some rest and see what we want and can do at the end of the year.\n",
+				"date_published": "2023-11-11T08:37:44+01:00",
+				"url": "https://frank.micro.blog/2023/11/11/first-of-days.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/10/browsing-in-my.html",
+				
+				"content_html": "<p>Browsing in my RSS feeds and I see this post by <a href=\"https://micro.blog/jack\">@jack</a> <a href=\"https://rudimentarylathe.org/2023/11/reason-i-love-org-mode-no-257-archiving-todos/\">why he loves orgmode for archiving todos</a>. I can relate. Not that I use orgmode. I try every now and then but I get into config-rabbitholes really quick. But since I’m reviewing several parts of my online life, why not give it a go again?</p>\n",
+				"content_text": "Browsing in my RSS feeds and I see this post by [@jack](https://micro.blog/jack) [why he loves orgmode for archiving todos](https://rudimentarylathe.org/2023/11/reason-i-love-org-mode-no-257-archiving-todos/). I can relate. Not that I use orgmode. I try every now and then but I get into config-rabbitholes really quick. But since I’m reviewing several parts of my online life, why not give it a go again?\n",
+				"date_published": "2023-11-10T20:54:54+01:00",
+				"url": "https://frank.micro.blog/2023/11/10/browsing-in-my.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/10/trying-gluon-icro.html",
+				
+				"content_html": "<p>Trying <a href=\"https://micro.blog/gluon\">@gluon</a>, <a href=\"https://micro.blog/icro\">@icro</a> and the official Micro.blog iOS app to see what sticks for me in both reading and writing. Even though I can also use Drafts as my main canvas.</p>\n",
+				"content_text": "Trying [@gluon](https://micro.blog/gluon), [@icro](https://micro.blog/icro) and the official Micro.blog iOS app to see what sticks for me in both reading and writing. Even though I can also use Drafts as my main canvas. \n",
+				"date_published": "2023-11-10T19:15:30+01:00",
+				"url": "https://frank.micro.blog/2023/11/10/trying-gluon-icro.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/10/lets-just-try.html",
+				
+				"content_html": "<p>Let&rsquo;s just try to import <a href=\"https://diggingthedigital.com/2022/\">my WordPress posts from 2022</a> and see what happens. This new account is still fresh enough to break ;-)</p>\n",
+				"content_text": "Let's just try to import [my WordPress posts from 2022](https://diggingthedigital.com/2022/) and see what happens. This new account is still fresh enough to break ;-)\n",
+				"date_published": "2023-11-10T15:31:03+01:00",
+				"url": "https://frank.micro.blog/2023/11/10/lets-just-try.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/10/currently-reading-whole.html",
+				
+				"content_html": "<p>Currently reading: <a href=\"https://micro.blog/books/9780735223950\">Whole Earth</a> by John Markoff 📚</p>\n",
+				"content_text": "Currently reading: [Whole Earth](https://micro.blog/books/9780735223950) by John Markoff 📚\n",
+				"date_published": "2023-11-10T08:09:39+01:00",
+				"url": "https://frank.micro.blog/2023/11/10/currently-reading-whole.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/10/thanks-for-backups.html",
+				
+				"content_html": "<p>Thanks for backups. I still had a <code>backup-microblog.xml</code> lingering on a drive. Now I&rsquo;m importing my old posts from micro.blog from 2017-2018. Because why not?</p>\n",
+				"content_text": "Thanks for backups. I still had a ```backup-microblog.xml``` lingering on a drive. Now I'm importing my old posts from micro.blog from 2017-2018. Because why not? \n",
+				"date_published": "2023-11-10T06:58:31+01:00",
+				"url": "https://frank.micro.blog/2023/11/10/thanks-for-backups.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/10/finished-reading-with.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780759523562\">With the Light: Raising an Autistic Child (With the Light, #1)</a> by Keiko Tobe 📚</p>\n<p>I read this first chapter of the extended manga series some time ago. The story still touches me, about a young family in modern Japan raising a child with autism. In a society where there is little support for autism. The mother does everything possible to give her son a good upbringing and education. There is much ignorance in her environment around autism. Slowly, she meets more like-minded people who accept her son as he is.</p>\n<p>I once found the complete series in a Manga and Anime exhibition in our public library. You can see the size of each volume on the picture below. This exhibition was organized with a local Manga shop who, as I <a href=\"https://www.mangakissa.nl/nieuws/2022/10/19/locatie-pauwstraat-permanent-gesloten-per-1-november\">just found out</a>, have gone out of business in 2022.</p>\n<p>More about the series can be found on <a href=\"https://www.wikiwand.com/en/With_the_Light\">WikiWand</a></p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finished reading: [With the Light: Raising an Autistic Child (With the Light, #1)](https://micro.blog/books/9780759523562) by Keiko Tobe 📚\n\nI read this first chapter of the extended manga series some time ago. The story still touches me, about a young family in modern Japan raising a child with autism. In a society where there is little support for autism. The mother does everything possible to give her son a good upbringing and education. There is much ignorance in her environment around autism. Slowly, she meets more like-minded people who accept her son as he is. \n\nI once found the complete series in a Manga and Anime exhibition in our public library. You can see the size of each volume on the picture below. This exhibition was organized with a local Manga shop who, as I [just found out](https://www.mangakissa.nl/nieuws/2022/10/19/locatie-pauwstraat-permanent-gesloten-per-1-november), have gone out of business in 2022. \n\nMore about the series can be found on [WikiWand](https://www.wikiwand.com/en/With_the_Light)\n\n<img src=\"https://frank.micro.blog/uploads/2023/with-the-light.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-10T06:39:30+01:00",
+				"url": "https://frank.micro.blog/2023/11/10/finished-reading-with.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/10/the-pressure-of.html",
+				
+				"content_html": "<p>The pressure of the <em>first post</em> on a new platform. Even though I was here a few years ago. Now I am back. Let’s see where it takes me.</p>\n",
+				"content_text": "The pressure of the _first post_ on a new platform. Even though I was here a few years ago. Now I am back. Let’s see where it takes me. \n",
+				"date_published": "2023-11-10T05:21:32+01:00",
+				"url": "https://frank.micro.blog/2023/11/10/the-pressure-of.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/04/22/do-i-see.html",
+				
+				"content_html": "<p>Do I see @roelwillems here? Is this the same Roel from way back at Orangevalley?</p>\n",
+				"content_text": "Do I see @roelwillems here? Is this the same Roel from way back at Orangevalley?\n",
+				"date_published": "2018-04-22T07:38:55+01:00",
+				"url": "https://frank.micro.blog/2018/04/22/do-i-see.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/04/22/im-currently-rolling.html",
+				
+				"content_html": "<p>I&rsquo;m currently rolling my own solution to have tagged links in <a href=\"pinboard.in\">Pinboard</a> sent periodically to my Jekyll blog as an individual article in a specific template. <!-- raw HTML omitted --><!-- raw HTML omitted -->I&rsquo;m now wrapping my head around whether I should save these RSS feeditems as array, object or JSON as a buffer. <!-- raw HTML omitted --><!-- raw HTML omitted -->Learning to program is hard! Lots of trial and error but the endresult is very gratifying. It feels good you can make something to scratch your own itch instead of looking for 3rd party solutions.</p>\n",
+				"content_text": "I'm currently rolling my own solution to have tagged links in [Pinboard](pinboard.in) sent periodically to my Jekyll blog as an individual article in a specific template. <br><br>I'm now wrapping my head around whether I should save these RSS feeditems as array, object or JSON as a buffer. <br><br>Learning to program is hard! Lots of trial and error but the endresult is very gratifying. It feels good you can make something to scratch your own itch instead of looking for 3rd party solutions.\n",
+				"date_published": "2018-04-22T07:30:12+01:00",
+				"url": "https://frank.micro.blog/2018/04/22/im-currently-rolling.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/03/24/i-am-searching.html",
+				
+				"content_html": "<p>I am searching on the internets for some solutions on how to include a searchbar and resultspage on my Github-pages flavored Jekyll site. What are the recommendations from the Microblog community on this? lunr.js? Super-search? Simple-jekyll-search?</p>\n",
+				"content_text": "I am searching on the internets for some solutions on how to include a searchbar and resultspage on my Github-pages flavored Jekyll site. What are the recommendations from the Microblog community on this? lunr.js? Super-search? Simple-jekyll-search?\n",
+				"date_published": "2018-03-24T14:55:11+01:00",
+				"url": "https://frank.micro.blog/2018/03/24/i-am-searching.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/02/26/an-excellent-explanation.html",
+				
+				"content_html": "<p>An excellent explanation by <a href=\"https://micro.blog/ron\">@ron</a> on how the Web is for all of us. So why would Google dictate us on HTTPS? I dig the fury in his words in the last part! <a href=\"http://ron.blot.im/convert%20http\">ron.blot.im/convert%2&hellip;</a></p>\n",
+				"content_text": "An excellent explanation by [@ron](https://micro.blog/ron) on how the Web is for all of us. So why would Google dictate us on HTTPS? I dig the fury in his words in the last part! [ron.blot.im/convert%2...](http://ron.blot.im/convert%20http)\n",
+				"date_published": "2018-02-26T22:06:54+01:00",
+				"url": "https://frank.micro.blog/2018/02/26/an-excellent-explanation.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/02/26/i-actually-never.html",
+				
+				"content_html": "<p>I actually never tried the Reblog feature on the Micron app so I just did. Well. It works :-)</p>\n",
+				"content_text": "I actually never tried the Reblog feature on the Micron app so I just did. Well. It works :-)\n",
+				"date_published": "2018-02-26T20:20:43+01:00",
+				"url": "https://frank.micro.blog/2018/02/26/i-actually-never.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/02/26/welcome-to-the.html",
+				
+				"content_html": "<p>&ldquo;Welcome to the Hotel Medium microblog.onemanandhisblog.com&rdquo; (via <a href=\"https://micro.blog/adders\">@adders</a>)</p>\n",
+				"content_text": "\"Welcome to the Hotel Medium microblog.onemanandhisblog.com\" (via [@adders](https://micro.blog/adders))\n",
+				"date_published": "2018-02-26T20:19:36+01:00",
+				"url": "https://frank.micro.blog/2018/02/26/welcome-to-the.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/02/23/my-facebook-account.html",
+				
+				"content_html": "<p>My Facebook account is deleted after a 14 day wait. So. Yeah. Now what?</p>\n",
+				"content_text": "My Facebook account is deleted after a 14 day wait. So. Yeah. Now what?\n",
+				"date_published": "2018-02-23T17:45:03+01:00",
+				"url": "https://frank.micro.blog/2018/02/23/my-facebook-account.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/02/16/we-just-finished.html",
+				
+				"content_html": "<p>We just finished our demo/livingroom in the office. We now have various smart home devices we can hook up to our Olisto app to test and demo. Of course I had to make sure there are comfy chairs. Here&rsquo;s me <em>working</em> hard in our nice IKEA lounge chair. Love this place.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "We just finished our demo/livingroom in the office. We now have various smart home devices we can hook up to our Olisto app to test and demo. Of course I had to make sure there are comfy chairs. Here's me _working_ hard in our nice IKEA lounge chair. Love this place.\n\n<img src=\"http://frank.micro.blog/uploads/2018/03fe25855a.jpg\" width=\"600\" height=\"315\" />\n",
+				"date_published": "2018-02-16T11:04:35+01:00",
+				"url": "https://frank.micro.blog/2018/02/16/we-just-finished.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/02/12/ah-yes-as.html",
+				
+				"content_html": "<p>Ah yes. As always it’s Mr Terpstra to the rescue to get me started with a direction for the Pinboard &gt; Jekyll connection! <a href=\"http://brettterpstra.com/2013/01/15/a-web-excursions-system-for-static-blogs/\">A &ldquo;Web Excursions&rdquo; system for static blogs - BrettTerpstra.com</a></p>\n",
+				"content_text": "Ah yes. As always it’s Mr Terpstra to the rescue to get me started with a direction for the Pinboard > Jekyll connection! [A \"Web Excursions\" system for static blogs - BrettTerpstra.com](http://brettterpstra.com/2013/01/15/a-web-excursions-system-for-static-blogs/)\n",
+				"date_published": "2018-02-12T22:04:07+01:00",
+				"url": "https://frank.micro.blog/2018/02/12/ah-yes-as.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/02/12/i-started-thinking.html",
+				
+				"content_html": "<p>I started thinking about a way to make a clever connection between specific tagged Pinboard entries to a formatted and published blogpost on my Jekyll-based site. Do I need Github hooks? Anything else? Where to start?</p>\n",
+				"content_text": "I started thinking about a way to make a clever connection between specific tagged Pinboard entries to a formatted and published blogpost on my Jekyll-based site. Do I need Github hooks? Anything else? Where to start?\n",
+				"date_published": "2018-02-12T21:31:07+01:00",
+				"url": "https://frank.micro.blog/2018/02/12/i-started-thinking.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/02/10/i-like-this.html",
+				
+				"content_html": "<p>I like this. Too many great quotes and ideas on blogging and selfpublishing to choose from. So I pick this one:</p>\n<blockquote>\n<p>“We need to switch mode from passive to active, from consuming to creating. Start sowing seeds.”</p>\n</blockquote>\n<p><a href=\"https://ia.net/topics/take-the-power-back/\">Take the Power Back – iA</a></p>\n",
+				"content_text": "I like this. Too many great quotes and ideas on blogging and selfpublishing to choose from. So I pick this one:\n\n>“We need to switch mode from passive to active, from consuming to creating. Start sowing seeds.”\n\n [Take the Power Back – iA](https://ia.net/topics/take-the-power-back/)\n",
+				"date_published": "2018-02-10T19:28:05+01:00",
+				"url": "https://frank.micro.blog/2018/02/10/i-like-this.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/02/07/first-post-on.html",
+				
+				"content_html": "<p>First post on the Micron app for Micro.blog. Digging it!</p>\n",
+				"content_text": "First post on the Micron app for Micro.blog. Digging it!\n",
+				"date_published": "2018-02-07T11:50:24+01:00",
+				"url": "https://frank.micro.blog/2018/02/07/first-post-on.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/02/06/my-bloggingstreak-is.html",
+				
+				"content_html": "<p>My bloggingstreak is hard to keep up. Due to family responsibilities I haven’t really written anything the last couple of days. Even half ideas jotted down while in transit don’t get a follow up. Time to refocus.</p>\n",
+				"content_text": "My bloggingstreak is hard to keep up. Due to family responsibilities I haven’t really written anything the last couple of days. Even half ideas jotted down while in transit don’t get a follow up. Time to refocus.\n",
+				"date_published": "2018-02-06T09:53:00+01:00",
+				"url": "https://frank.micro.blog/2018/02/06/my-bloggingstreak-is.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/02/03/i-love-how.html",
+				
+				"content_html": "<p>I love how Robin Rendle explains the upsides and possibilities of RSS in <a href=\"https://robinrendle.com/notes/how-to-read-the-internet/\">How to Read the Internet</a>.\nThanks <a href=\"https://micro.blog/Eli\">@Eli</a> for the pointer!</p>\n",
+				"content_text": "I love how Robin Rendle explains the upsides and possibilities of RSS in [How to Read the Internet](https://robinrendle.com/notes/how-to-read-the-internet/). \nThanks [@Eli](https://micro.blog/Eli) for the pointer!\n",
+				"date_published": "2018-02-03T08:10:41+01:00",
+				"url": "https://frank.micro.blog/2018/02/03/i-love-how.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/02/02/a-warm-welcome.html",
+				
+				"content_html": "<p>A warm welcome from The Netherlands to <a href=\"https://micro.blog/donmelton\">@donmelton</a> on the Microblogs!</p>\n",
+				"content_text": "A warm welcome from The Netherlands to [@donmelton](https://micro.blog/donmelton) on the Microblogs!\n",
+				"date_published": "2018-02-02T19:02:05+01:00",
+				"url": "https://frank.micro.blog/2018/02/02/a-warm-welcome.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/01/26/twitter-has-their.html",
+				
+				"content_html": "<p>Twitter has their suggested users you might follow, Instagram has the list of interesting people/hashtags, Facebook just looks in your brain to see who you might know and Microblog has Discover.</p>\n<p>Mastodon doesn’t have this and I miss it. I need some inspiration thrown at my feet.</p>\n",
+				"content_text": "Twitter has their suggested users you might follow, Instagram has the list of interesting people/hashtags, Facebook just looks in your brain to see who you might know and Microblog has Discover.\n\nMastodon doesn’t have this and I miss it. I need some inspiration thrown at my feet.\n",
+				"date_published": "2018-01-26T18:30:04+01:00",
+				"url": "https://frank.micro.blog/2018/01/26/twitter-has-their.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/01/25/lately-ive-been.html",
+				
+				"content_html": "<p>Lately I’ve been deep in the Internet History Podcast from Brian McCullough. Great episodes ranging from the start of Netscape to Justin Hall as the “first” blogger. Totally love the indievibe we had back then. Find it near a podcast-shop near you!</p>\n",
+				"content_text": "Lately I’ve been deep in the Internet History Podcast from Brian McCullough. Great episodes ranging from the start of Netscape to Justin Hall as the “first” blogger. Totally love the indievibe we had back then. Find it near a podcast-shop near you!\n",
+				"date_published": "2018-01-25T19:22:25+01:00",
+				"url": "https://frank.micro.blog/2018/01/25/lately-ive-been.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/01/21/another-project-to.html",
+				
+				"content_html": "<p>Another project to find out: When my site gets updated by Ownyourgram, it&rsquo;s a different version then my local version. I have my own workflow that doesn&rsquo;t really check to get the latest version first from Github. Is there a way to check this before <code>git push</code> without having to think about fetch and pull?</p>\n",
+				"content_text": "Another project to find out: When my site gets updated by Ownyourgram, it's a different version then my local version. I have my own workflow that doesn't really check to get the latest version first from Github. Is there a way to check this before `git push` without having to think about fetch and pull?\n",
+				"date_published": "2018-01-21T21:11:09+01:00",
+				"url": "https://frank.micro.blog/2018/01/21/another-project-to.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/01/21/kinda-curious-how.html",
+				
+				"content_html": "<p>Kinda curious how MB breaks down to countries. Do you have an idea on that <a href=\"https://micro.blog/manton\">@manton</a>? I think there are at most 20 Dutch people here&hellip;.</p>\n",
+				"content_text": "Kinda curious how MB breaks down to countries. Do you have an idea on that [@manton](https://micro.blog/manton)? I think there are at most 20 Dutch people here....\n",
+				"date_published": "2018-01-21T17:56:26+01:00",
+				"url": "https://frank.micro.blog/2018/01/21/kinda-curious-how.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/01/21/i-think-its.html",
+				
+				"content_html": "<p>I think it’s time to tweak my OwnYourGram account to my blog. I do want all my IG posts local but don’t want to show them by default on my blog and consequentially linked to this place. Back to the drawingboard.</p>\n",
+				"content_text": "I think it’s time to tweak my OwnYourGram account to my blog. I do want all my IG posts local but don’t want to show them by default on my blog and consequentially linked to this place. Back to the drawingboard.\n",
+				"date_published": "2018-01-21T17:13:47+01:00",
+				"url": "https://frank.micro.blog/2018/01/21/i-think-its.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/01/20/finally-visited-the.html",
+				
+				"content_html": "<p>Finally visited the Bonami computer- and consolemuseum in Zwolle today (Netherlands). Had sooooo much fun with my 5 year old son there with both old and new consolegames!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Finally visited the Bonami computer- and consolemuseum in Zwolle today (Netherlands). Had sooooo much fun with my 5 year old son there with both old and new consolegames! \n\n<img src=\"http://frank.micro.blog/uploads/2018/ea53b77547.jpg\" width=\"450\" height=\"600\" />\n",
+				"date_published": "2018-01-20T22:37:24+01:00",
+				"url": "https://frank.micro.blog/2018/01/20/finally-visited-the.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/01/19/blogging-that-muchmaligned.html",
+				
+				"content_html": "<p>&ldquo;Blogging, that much-maligned pastime, is gradually but surely disappearing from the Internet, and so, consequently, is a lot of online freedom and fun.&rdquo;</p>\n<p>Well..they sure know how to work the best tricks from blogs how to get attention ;-)</p>\n<p><a href=\"https://www.newyorker.com/culture/cultural-comment/the-end-of-the-awl-and-the-vanishing-of-freedom-and-fun-from-the-internet\">The End of the Awl and the Vanishing of Freedom and Fun from the Internet</a></p>\n",
+				"content_text": "\"Blogging, that much-maligned pastime, is gradually but surely disappearing from the Internet, and so, consequently, is a lot of online freedom and fun.\"\n\nWell..they sure know how to work the best tricks from blogs how to get attention ;-)\n\n[The End of the Awl and the Vanishing of Freedom and Fun from the Internet](https://www.newyorker.com/culture/cultural-comment/the-end-of-the-awl-and-the-vanishing-of-freedom-and-fun-from-the-internet)\n",
+				"date_published": "2018-01-19T22:26:46+01:00",
+				"url": "https://frank.micro.blog/2018/01/19/blogging-that-muchmaligned.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/01/17/a-dm-only.html",
+				
+				"content_html": "<p>A DM only iOS Twitter app. Does that exist? Not the full timeline. No lists. Just DM. #almostindieweb</p>\n",
+				"content_text": "A DM only iOS Twitter app. Does that exist? Not the full timeline. No lists. Just DM. #almostindieweb\n",
+				"date_published": "2018-01-17T12:05:16+01:00",
+				"url": "https://frank.micro.blog/2018/01/17/a-dm-only.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/01/13/i-have-a.html",
+				
+				"content_html": "<p>I have a stopover in Portland to go to Amsterdam. I flew with a brand new airplane from Alaska Air. Beautiful plane but most of all a great little message from the captain when we unboarded: &ldquo;Be kind to each other&rdquo;. Small yet powerful message.</p>\n",
+				"content_text": "I have a stopover in Portland to go to Amsterdam. I flew with a brand new airplane from Alaska Air. Beautiful plane but most of all a great little message from the captain when we unboarded: \"Be kind to each other\". Small yet powerful message.\n",
+				"date_published": "2018-01-13T21:29:14+01:00",
+				"url": "https://frank.micro.blog/2018/01/13/i-have-a.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/01/03/i-will-be.html",
+				
+				"content_html": "<p>I will be at the CES in Las Vegas next week. We will be one of the startups in the Holland Pavilion. Will I meet some Indiewebbers there? I doubt it&hellip;\nDoes anyone have good off-the-beaten-track Vegas tips? Maybe some running tracks?</p>\n",
+				"content_text": "I will be at the CES in Las Vegas next week. We will be one of the startups in the Holland Pavilion. Will I meet some Indiewebbers there? I doubt it...\nDoes anyone have good off-the-beaten-track Vegas tips? Maybe some running tracks?\n",
+				"date_published": "2018-01-03T18:08:57+01:00",
+				"url": "https://frank.micro.blog/2018/01/03/i-will-be.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2018/01/02/i-still-need.html",
+				
+				"content_html": "<p>I still need to find some time and place to tweak my own blog with the Instagram posts. Not quite happy with how it syndicates to other channels&hellip;</p>\n",
+				"content_text": "I still need to find some time and place to tweak my own blog with the Instagram posts. Not quite happy with how it syndicates to other channels...\n",
+				"date_published": "2018-01-02T14:53:07+01:00",
+				"url": "https://frank.micro.blog/2018/01/02/i-still-need.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/30/heres-a-first.html",
+				
+				"content_html": "<p>Here&rsquo;s a first micropost from Drafts 4 with the Micro Blog Action that&rsquo;s available from the app. Thanks <a href=\"https://micro.blog/colinwalker\">@colinwalker</a> and <a href=\"https://micro.blog/agiletortoise\">@agiletortoise</a></p>\n",
+				"content_text": "Here's a first micropost from Drafts 4 with the Micro Blog Action that's available from the app. Thanks [@colinwalker](https://micro.blog/colinwalker) and [@agiletortoise](https://micro.blog/agiletortoise)\n",
+				"date_published": "2017-12-30T15:53:25+01:00",
+				"url": "https://frank.micro.blog/2017/12/30/heres-a-first.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/29/for-all-here.html",
+				
+				"content_html": "<p>For all here fluent in the Dutch language (all 5 of you? ;-)), a short write up of my incredible adventures to incorporate Instagram on my site. <a href=\"http://diggingthedigital.com/Instagram-en-Micropub/\">diggingthedigital.com/Instagram&hellip;</a></p>\n",
+				"content_text": "For all here fluent in the Dutch language (all 5 of you? ;-)), a short write up of my incredible adventures to incorporate Instagram on my site. [diggingthedigital.com/Instagram...](http://diggingthedigital.com/Instagram-en-Micropub/)\n",
+				"date_published": "2017-12-29T16:45:05+01:00",
+				"url": "https://frank.micro.blog/2017/12/29/for-all-here.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/27/i-am-looking.html",
+				
+				"content_html": "<p>I am looking for some help with micropub endpoints and OwnYourGram. I use <a href=\"https://github.com/voxpelli/webpage-micropub-to-github\">this script</a> on Github to have my own endpoint on my site. But now Instagram posts are posted to my Master branch and not to GH-Pages. Now what?</p>\n",
+				"content_text": "I am looking for some help with micropub endpoints and OwnYourGram. I use [this script](https://github.com/voxpelli/webpage-micropub-to-github) on Github to have my own endpoint on my site. But now Instagram posts are posted to my Master branch and not to GH-Pages. Now what?\n",
+				"date_published": "2017-12-27T07:56:52+01:00",
+				"url": "https://frank.micro.blog/2017/12/27/i-am-looking.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/26/pretty-happy-with.html",
+				
+				"content_html": "<p>Pretty happy with my new Panobooks from Studio Neat.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Pretty happy with my new Panobooks from Studio Neat. \n\n<img src=\"http://frank.micro.blog/uploads/2017/dc125be611.jpg\" width=\"600\" height=\"600\" /><img src=\"http://frank.micro.blog/uploads/2017/5f7e2e7cad.jpg\" width=\"600\" height=\"600\" /><img src=\"http://frank.micro.blog/uploads/2017/ba572ce185.jpg\" width=\"600\" height=\"600\" /><img src=\"http://frank.micro.blog/uploads/2017/20cccf46da.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2017-12-26T15:09:19+01:00",
+				"url": "https://frank.micro.blog/2017/12/26/pretty-happy-with.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/23/yesterday-i-learned.html",
+				
+				"content_html": "<p>Yesterday I learned about the existence of Oh My ZSH. Besides the coolest name in app history, it&rsquo;s a incredible interesting framework to use in iTerm2 and learn more about shell, terminal and bash-files. A nice geeky evening it was!</p>\n",
+				"content_text": "Yesterday I learned about the existence of Oh My ZSH. Besides the coolest name in app history, it's a incredible interesting framework to use in iTerm2 and learn more about shell, terminal and bash-files. A nice geeky evening it was!\n",
+				"date_published": "2017-12-23T12:40:58+01:00",
+				"url": "https://frank.micro.blog/2017/12/23/yesterday-i-learned.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/22/hmmm-for-some.html",
+				
+				"content_html": "<p>hmmm.. for some reason the feed from my test microblog on Github doesn&rsquo;t send the description. Just the title. No link as well.</p>\n",
+				"content_text": "hmmm.. for some reason the feed from my test microblog on Github doesn't send the description. Just the title. No link as well.\n",
+				"date_published": "2017-12-22T22:19:47+01:00",
+				"url": "https://frank.micro.blog/2017/12/22/hmmm-for-some.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/21/i-plan-to.html",
+				
+				"content_html": "<p>I plan to write a Dutch blogpost on Micro.blog today/tomorrow. It depends on how proactive my daughter will be for herself with the preps for het xmas dinner at school ;-)\nAnyway, <a href=\"https://micro.blog/manton\">@manton</a> are you available for a quote or perhaps some insights in first growth? Can I mail you?</p>\n",
+				"content_text": "I plan to write a Dutch blogpost on Micro.blog today/tomorrow. It depends on how proactive my daughter will be for herself with the preps for het xmas dinner at school ;-)\nAnyway, [@manton](https://micro.blog/manton) are you available for a quote or perhaps some insights in first growth? Can I mail you?\n",
+				"date_published": "2017-12-21T10:06:02+01:00",
+				"url": "https://frank.micro.blog/2017/12/21/i-plan-to.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/19/i-am-looking.html",
+				
+				"content_html": "<p>I am looking for proper explanations or code-examples how to make a facepile of my webmentions. I use Jekyll on GH Pages. Any pointers are welcome!</p>\n",
+				"content_text": "I am looking for proper explanations or code-examples how to make a facepile of my webmentions. I use Jekyll on GH Pages. Any pointers are welcome!\n",
+				"date_published": "2017-12-19T09:43:36+01:00",
+				"url": "https://frank.micro.blog/2017/12/19/i-am-looking.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/17/the-word-weblog.html",
+				
+				"content_html": "<p>The word Weblog turns 20 today. Here’s a small part of (Dutch) internethistory written in my <a href=\"http://diggingthedigital.com//weblog-20-jaar/\">weekly digest</a></p>\n",
+				"content_text": "The word Weblog turns 20 today. Here’s a small part of (Dutch) internethistory written in my [weekly digest](http://diggingthedigital.com//weblog-20-jaar/)\n",
+				"date_published": "2017-12-17T10:53:16+01:00",
+				"url": "https://frank.micro.blog/2017/12/17/the-word-weblog.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/14/last-jedi-excellent.html",
+				
+				"content_html": "<p>Last Jedi. Excellent.</p>\n",
+				"content_text": "Last Jedi. Excellent.\n",
+				"date_published": "2017-12-14T23:04:05+01:00",
+				"url": "https://frank.micro.blog/2017/12/14/last-jedi-excellent.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/14/tonight.html",
+				
+				"content_html": "<p>Tonight&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tonight...\n\n<img src=\"http://frank.micro.blog/uploads/2017/8bdb18ecb1.jpg\" width=\"600\" height=\"598\" />\n",
+				"date_published": "2017-12-14T17:32:41+01:00",
+				"url": "https://frank.micro.blog/2017/12/14/tonight.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/11/next-thing-to.html",
+				
+				"content_html": "<p>next thing to find out: Can I set the source of my blog to just the site directory of my Jekyll installation and upload that. As in a separate repository or something. Still learning this whole Github thing&hellip;</p>\n",
+				"content_text": "next thing to find out: Can I set the source of my blog to just the site directory of my Jekyll installation and upload that. As in a separate repository or something. Still learning this whole Github thing...\n",
+				"date_published": "2017-12-11T22:03:48+01:00",
+				"url": "https://frank.micro.blog/2017/12/11/next-thing-to.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/11/working-at-home.html",
+				
+				"content_html": "<p>Working at home next to the xmas tree. Too much snow on the road&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Working at home next to the xmas tree. Too much snow on the road...\n\n<img src=\"http://frank.micro.blog/uploads/2017/a75ed56b78.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2017-12-11T10:27:32+01:00",
+				"url": "https://frank.micro.blog/2017/12/11/working-at-home.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/10/this-evening-i.html",
+				
+				"content_html": "<p>This evening I read up on IOTA, a cryptocurrency for IoT devices. I think. I&rsquo;m not sure <em>what</em> it is anymore since the articles I read are filled with hoopla on The Tangle (some sort of blockchain) and other hyped-up words. Anyone here familiar with IOTA to get me up to speed?</p>\n",
+				"content_text": "This evening I read up on IOTA, a cryptocurrency for IoT devices. I think. I'm not sure _what_ it is anymore since the articles I read are filled with hoopla on The Tangle (some sort of blockchain) and other hyped-up words. Anyone here familiar with IOTA to get me up to speed?\n",
+				"date_published": "2017-12-10T22:25:12+01:00",
+				"url": "https://frank.micro.blog/2017/12/10/this-evening-i.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/09/is-any-of.html",
+				
+				"content_html": "<p>Is any of you familiar with Airtable? I think it&rsquo;s a great app/spreadsheet/database to organize all sorts of stuff. I wrote a (dutch) blogpost on it. <a href=\"http://diggingthedigital.com/airtable/\">diggingthedigital.com/airtable/</a></p>\n",
+				"content_text": "Is any of you familiar with Airtable? I think it's a great app/spreadsheet/database to organize all sorts of stuff. I wrote a (dutch) blogpost on it. [diggingthedigital.com/airtable/](http://diggingthedigital.com/airtable/)\n",
+				"date_published": "2017-12-09T20:36:58+01:00",
+				"url": "https://frank.micro.blog/2017/12/09/is-any-of.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/08/feels-as-far.html",
+				
+				"content_html": "<p>1987 feels as far away for a 14 year old kid today just as 1957 did for me when I was 14 in 1987.</p>\n<p>#morningthoughts</p>\n",
+				"content_text": "1987 feels as far away for a 14 year old kid today just as 1957 did for me when I was 14 in 1987. \n\n#morningthoughts\n",
+				"date_published": "2017-12-08T09:18:50+01:00",
+				"url": "https://frank.micro.blog/2017/12/08/feels-as-far.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/07/utrecht-gets-a.html",
+				
+				"content_html": "<p>Utrecht gets a new central railway station and shopping mall. I drive by every day to get to work and I have to say I am really impressed how it&rsquo;s gonna turn look.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Utrecht gets a new central railway station and shopping mall. I drive by every day to get to work and I have to say I am really impressed how it's gonna turn look. \n\n<img src=\"http://frank.micro.blog/uploads/2017/6e96054153.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2017-12-07T10:03:53+01:00",
+				"url": "https://frank.micro.blog/2017/12/07/utrecht-gets-a.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/12/06/i-just-added.html",
+				
+				"content_html": "<p>I just added a JSON feed to my Jekyll based blog. Took me about five minutes. Without a plugin or difficult configuration. Incredible.</p>\n<p>Diggingthedigital.com/feed.json if you want to add some Dutch blogposts to your media consumption 😂😂😂</p>\n",
+				"content_text": "I just added a JSON feed to my Jekyll based blog. Took me about five minutes. Without a plugin or difficult configuration. Incredible. \n\nDiggingthedigital.com/feed.json if you want to add some Dutch blogposts to your media consumption 😂😂😂\n",
+				"date_published": "2017-12-06T22:14:39+01:00",
+				"url": "https://frank.micro.blog/2017/12/06/i-just-added.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/27/anyone-with-some.html",
+				
+				"content_html": "<p>Anyone with some Webmention experience here? I have the working someway somehow. But is it possible to delete webmentions from my site? On <a href=\"http://diggingthedigital.com/webmentions/\">this post</a> there is a test-webmention I did. Can I delete that? Where?</p>\n",
+				"content_text": "Anyone with some Webmention experience here? I have the working someway somehow. But is it possible to delete webmentions from my site? On [this post](http://diggingthedigital.com/webmentions/) there is a test-webmention I did. Can I delete that? Where?\n",
+				"date_published": "2017-11-27T23:25:44+01:00",
+				"url": "https://frank.micro.blog/2017/11/27/anyone-with-some.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/26/next-task-why.html",
+				
+				"content_html": "<p>Next task: Why doesn&rsquo;t my site show the Twitter avatars in the webmentions? See <a href=\"http://diggingthedigital.com/Jim-en-Andy/\">diggingthedigital.com/Jim-en-An&hellip;</a> as an example&hellip;. Euhm&hellip; can I webmention <a href=\"https://micro.blog/voxpelli\">@voxpelli</a> somehow from here?</p>\n",
+				"content_text": "Next task: Why doesn't my site show the Twitter avatars in the webmentions? See [diggingthedigital.com/Jim-en-An...](http://diggingthedigital.com/Jim-en-Andy/) as an example.... Euhm... can I webmention [@voxpelli](https://micro.blog/voxpelli) somehow from here?\n",
+				"date_published": "2017-11-26T16:58:16+01:00",
+				"url": "https://frank.micro.blog/2017/11/26/next-task-why.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/26/wellit-turns-out.html",
+				
+				"content_html": "<p>Well&hellip;it turns out I just have to question this stuff, start over again and all of a sudden it works. A combination of Bridgy and <a href=\"https://webmention.herokuapp.com/\">webmention.herokuapp.com</a> seems to work. I still need to style everything but the basics work. Not quite sure <em>how</em> but hey&hellip;</p>\n",
+				"content_text": "Well...it turns out I just have to question this stuff, start over again and all of a sudden it works. A combination of Bridgy and [webmention.herokuapp.com](https://webmention.herokuapp.com/) seems to work. I still need to style everything but the basics work. Not quite sure *how* but hey...\n",
+				"date_published": "2017-11-26T16:05:07+01:00",
+				"url": "https://frank.micro.blog/2017/11/26/wellit-turns-out.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/26/how-do-i.html",
+				
+				"content_html": "<p>How do I send myself a webmention to test if the <!-- raw HTML omitted --> works?</p>\n",
+				"content_text": "How do I send myself a webmention to test if the <link rel=webmention> works?\n",
+				"date_published": "2017-11-26T15:54:09+01:00",
+				"url": "https://frank.micro.blog/2017/11/26/how-do-i.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/26/webmentions-i-have.html",
+				
+				"content_html": "<p>Webmentions. I have <em>no</em> idea where to start. I would like to have them on my site (runs on GH pages) instead of Disqus but I can&rsquo;t figure what steps to take. I check out Bridgy, webmention.io, the jekyll plugin. But I can&rsquo;t figure it out. I need a Webmention For Dummies!</p>\n",
+				"content_text": "Webmentions. I have _no_ idea where to start. I would like to have them on my site (runs on GH pages) instead of Disqus but I can't figure what steps to take. I check out Bridgy, webmention.io, the jekyll plugin. But I can't figure it out. I need a Webmention For Dummies!\n",
+				"date_published": "2017-11-26T15:51:51+01:00",
+				"url": "https://frank.micro.blog/2017/11/26/webmentions-i-have.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/26/had-quite-the.html",
+				
+				"content_html": "<p>Had quite the codefight last night (look at me all rhyming and stuff!) to try a new Jekyll theme. I ended up reading up on Git, Ruby, Bundle and Gem. It&rsquo;s nice to DIY but it still so far away from hitting it the big league. And I still don&rsquo;t have a new theme.</p>\n",
+				"content_text": "Had quite the codefight last night (look at me all rhyming and stuff!) to try a new Jekyll theme. I ended up reading up on Git, Ruby, Bundle and Gem. It's nice to DIY but it still so far away from hitting it the big league. And I still don't have a new theme.\n",
+				"date_published": "2017-11-26T13:19:57+01:00",
+				"url": "https://frank.micro.blog/2017/11/26/had-quite-the.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/26/my-sunday-is.html",
+				"title": "My Sunday is a funday already!",
+				"content_html": "<p>This Sunday is off to a good start. Already wrote my weekly digest of interesting links I found and my review of the Jim and Andy documentary on Netflix got retweeted by Netflix. Silo&rsquo;s be damned, it still feels good!</p>\n<p>Links are all in Dutch!\n🗞 <a href=\"http://diggingthedigital.com/leesmap-week-47/\">Weekly &ldquo;leesmap&rdquo;</a>\n🎬 <a href=\"http://diggingthedigital.com/Jim-en-Andy/\">Jim and Andy - The great beyond review</a></p>\n",
+				"content_text": "This Sunday is off to a good start. Already wrote my weekly digest of interesting links I found and my review of the Jim and Andy documentary on Netflix got retweeted by Netflix. Silo's be damned, it still feels good! \n\nLinks are all in Dutch!\n🗞 [Weekly \"leesmap\"](http://diggingthedigital.com/leesmap-week-47/)\n🎬 [Jim and Andy - The great beyond review](http://diggingthedigital.com/Jim-en-Andy/)\n",
+				"date_published": "2017-11-26T11:45:49+01:00",
+				"url": "https://frank.micro.blog/2017/11/26/my-sunday-is.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/24/what-are-your.html",
+				
+				"content_html": "<p>What are your thoughts on webhosting? I currently host my blog at Github Pages which is quite alright. I&rsquo;ve had some experiences with webhosting and VPS, somehow it can get a hassle with those. Hosting at Amazon? What are your ideas?</p>\n",
+				"content_text": "What are your thoughts on webhosting? I currently host my blog at Github Pages which is quite alright. I've had some experiences with webhosting and VPS, somehow it can get a hassle with those. Hosting at Amazon? What are your ideas?\n",
+				"date_published": "2017-11-24T12:39:14+01:00",
+				"url": "https://frank.micro.blog/2017/11/24/what-are-your.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/21/just-to-get.html",
+				
+				"content_html": "<p>Just to get a different perspective on another network then Twitter: What would be <em>your</em> definition of a blog? What elements would that definition hold? Is a blog pure txt/img? Is Instagram a blog? Snapchat? When does a blog become an online magazine?</p>\n",
+				"content_text": "Just to get a different perspective on another network then Twitter: What would be _your_ definition of a blog? What elements would that definition hold? Is a blog pure txt/img? Is Instagram a blog? Snapchat? When does a blog become an online magazine?\n",
+				"date_published": "2017-11-21T14:24:10+01:00",
+				"url": "https://frank.micro.blog/2017/11/21/just-to-get.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/18/ik-heb-geen.html",
+				
+				"content_html": "<p>Ik heb geen idee hoeveel Nederlanders hier zijn (10? 15?) Maar voor jullie heb ik wat uitleg geschreven over de #indieweb termen <a href=\"http://diggingthedigital.com/POSSE-en-PESOS/\">POSSE en PESOS</a>.</p>\n<p>Sorry non-Dutchies. I think Google Translate will be your friend reading what I wrote</p>\n",
+				"content_text": "Ik heb geen idee hoeveel Nederlanders hier zijn (10? 15?) Maar voor jullie heb ik wat uitleg geschreven over de #indieweb termen [POSSE en PESOS](http://diggingthedigital.com/POSSE-en-PESOS/). \n\nSorry non-Dutchies. I think Google Translate will be your friend reading what I wrote\n",
+				"date_published": "2017-11-18T07:50:18+01:00",
+				"url": "https://frank.micro.blog/2017/11/18/ik-heb-geen.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/14/wowthis-new-firefox.html",
+				
+				"content_html": "<p>Wow&hellip;this new Firefox <em>is</em> fast&hellip;</p>\n",
+				"content_text": "Wow...this new Firefox _is_ fast...\n",
+				"date_published": "2017-11-14T23:33:15+01:00",
+				"url": "https://frank.micro.blog/2017/11/14/wowthis-new-firefox.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/12/can-anyone-explain.html",
+				
+				"content_html": "<p>Can anyone explain to me if there is a difference between webmentions and pingbacks? It feels the same to me. Old technology, new funky name.</p>\n",
+				"content_text": "Can anyone explain to me if there is a difference between webmentions and pingbacks? It feels the same to me. Old technology, new funky name.\n",
+				"date_published": "2017-11-12T21:29:15+01:00",
+				"url": "https://frank.micro.blog/2017/11/12/can-anyone-explain.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/12/for-the-dutch.html",
+				
+				"content_html": "<p>For the Dutch microbloggers, here&rsquo;s my readinglist for week 45. Of course with some IndieWeb references like <a href=\"https://micro.blog/c\">@c</a> and <a href=\"https://micro.blog/colinwalker\">@colinwalker</a>&hellip;</p>\n<p><a href=\"http://diggingthedigital.com/leesmap-week-45/\">diggingthedigital.com/leesmap-w&hellip;</a></p>\n",
+				"content_text": "For the Dutch microbloggers, here's my readinglist for week 45. Of course with some IndieWeb references like [@c](https://micro.blog/c) and [@colinwalker](https://micro.blog/colinwalker)... \n\n[diggingthedigital.com/leesmap-w...](http://diggingthedigital.com/leesmap-week-45/)\n",
+				"date_published": "2017-11-12T21:09:05+01:00",
+				"url": "https://frank.micro.blog/2017/11/12/for-the-dutch.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/07/how-nice-to.html",
+				
+				"content_html": "<p>How nice to still be able to add Medium posts with specific tags as a RSS feed in Inoreader.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "How nice to still be able to add Medium posts with specific tags as a RSS feed in Inoreader. \n\n<img src=\"http://frank.micro.blog/uploads/2017/febec59ce4.jpg\" width=\"600\" height=\"267\" />\n",
+				"date_published": "2017-11-07T22:14:16+01:00",
+				"url": "https://frank.micro.blog/2017/11/07/how-nice-to.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/06/great-post-on.html",
+				
+				"content_html": "<p>Great post on <a href=\"http://www.mondo2000.com/2017/08/18/the-7b2-in-handel-gothic-it-is-steampunk/\">Mondo2000</a> on a watch\nIt’s this 7B2 wristwatch, though, that wins my most favor. It’s an analog, single-use tool in a digital world. [&hellip;] unlike my phone, it never watches me watch it.</p>\n",
+				"content_text": "Great post on [Mondo2000](http://www.mondo2000.com/2017/08/18/the-7b2-in-handel-gothic-it-is-steampunk/) on a watch\nIt’s this 7B2 wristwatch, though, that wins my most favor. It’s an analog, single-use tool in a digital world. [...] unlike my phone, it never watches me watch it.\n",
+				"date_published": "2017-11-06T21:52:42+01:00",
+				"url": "https://frank.micro.blog/2017/11/06/great-post-on.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/06/monday-another-day.html",
+				
+				"content_html": "<p>Monday. Another day at the office at Triggi. I hope to feel better later today. Time for some community management now!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Monday. Another day at the office at Triggi. I hope to feel better later today. Time for some community management now!\n\n<img src=\"http://frank.micro.blog/uploads/2017/6dc59ce225.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2017-11-06T10:37:05+01:00",
+				"url": "https://frank.micro.blog/2017/11/06/monday-another-day.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/05/for-the-dutch.html",
+				
+				"content_html": "<p>For the Dutch out here, a small observation of <a href=\"http://diggingthedigital.com/Micropub/\">my first encounter</a> with the Micropub protocol. I&rsquo;m still puzzled to know what is going wrong&hellip;</p>\n",
+				"content_text": "For the Dutch out here, a small observation of [my first encounter](http://diggingthedigital.com/Micropub/) with the Micropub protocol. I'm still puzzled to know what is going wrong...\n",
+				"date_published": "2017-11-05T20:30:51+01:00",
+				"url": "https://frank.micro.blog/2017/11/05/for-the-dutch.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/05/currently-reading-against.html",
+				
+				"content_html": "<p>Currently reading <a href=\"https://www.neustadt.fr/essays/against-a-user-hostile-web/\">&ldquo;Against an Increasingly User-Hostile Web&rdquo;</a></p>\n<p>&ldquo;The major websites of today&rsquo;s web are not built for the visitor, but as means of <em>using</em> her. &quot;</p>\n",
+				"content_text": "Currently reading [\"Against an Increasingly User-Hostile Web\"](https://www.neustadt.fr/essays/against-a-user-hostile-web/)\n\n\"The major websites of today's web are not built for the visitor, but as means of _using_ her. \"\n",
+				"date_published": "2017-11-05T10:16:46+01:00",
+				"url": "https://frank.micro.blog/2017/11/05/currently-reading-against.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/04/ive-come-to.html",
+				
+				"content_html": "<p>I’ve come to the conclusion that I am of age to rather leave a good party early to hang out at home until late. Than stay at said party until late. I’d have my couch win over a barstool every time.\nI also have better beer at home.</p>\n<p>Insert old-man-whining.gif</p>\n",
+				"content_text": "I’ve come to the conclusion that I am of age to rather leave a good party early to hang out at home until late. Than stay at said party until late. I’d have my couch win over a barstool every time. \nI also have better beer at home. \n\nInsert old-man-whining.gif\n",
+				"date_published": "2017-11-04T22:02:05+01:00",
+				"url": "https://frank.micro.blog/2017/11/04/ive-come-to.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/04/one-more-thing.html",
+				
+				"content_html": "<p>One more thing. I have my own blog running on Jekyll at Github pages. Should I use <a href=\"https://github.com/voxpelli/webpage-micropub-to-github\">this service</a> to crosspost from here to my blog? Where to start? &ldquo;Install it like a normal node.js application&rdquo; is magic to me&hellip;</p>\n",
+				"content_text": "One more thing. I have my own blog running on Jekyll at Github pages. Should I use [this service](https://github.com/voxpelli/webpage-micropub-to-github) to crosspost from here to my blog? Where to start? \"Install it like a normal node.js application\" is magic to me...\n",
+				"date_published": "2017-11-04T09:51:18+01:00",
+				"url": "https://frank.micro.blog/2017/11/04/one-more-thing.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/04/saturday-morning-coffee.html",
+				
+				"content_html": "<p><img src=\"https://dsc.cloud/triggi/IMG_1804.JPG\" alt=\"\"></p>\n<p>Saturday morning, coffee and a first draft for my column at <a href=\"http://numrush.nl/\">Numrush</a></p>\n",
+				"content_text": "![](https://dsc.cloud/triggi/IMG_1804.JPG)\n\nSaturday morning, coffee and a first draft for my column at [Numrush](http://numrush.nl/)\n",
+				"date_published": "2017-11-04T09:47:32+01:00",
+				"url": "https://frank.micro.blog/2017/11/04/saturday-morning-coffee.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/04/a-technology-predication.html",
+				
+				"content_html": "<p><a href=\"http://cdevroe.com/2017/11/02/a-technology-predication-time-capsule/\">A technology predication time capsule</a> by <a href=\"https://micro.blog/cdevroe\">@cdevroe</a>. I like the constraint of mass market adoption in his list. I do miss a prediction of ubiquitous smart home/smart city adoption, since that&rsquo;s my line of work</p>\n",
+				"content_text": "[A technology predication time capsule](http://cdevroe.com/2017/11/02/a-technology-predication-time-capsule/) by [@cdevroe](https://micro.blog/cdevroe). I like the constraint of mass market adoption in his list. I do miss a prediction of ubiquitous smart home/smart city adoption, since that's my line of work\n",
+				"date_published": "2017-11-04T07:57:48+01:00",
+				"url": "https://frank.micro.blog/2017/11/04/a-technology-predication.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/03/mighty-interesting-stuff.html",
+				
+				"content_html": "<p><a href=\"https://staltz.com/an-off-grid-social-network.html\">Mighty interesting stuff</a> on Scuttlebutt, a decentralised secure platform. Very inspiring to see how other platforms (like this one) pop up and find a way to exist among the larger ones. With all their quirks and idiosyncracies</p>\n",
+				"content_text": "[Mighty interesting stuff](https://staltz.com/an-off-grid-social-network.html) on Scuttlebutt, a decentralised secure platform. Very inspiring to see how other platforms (like this one) pop up and find a way to exist among the larger ones. With all their quirks and idiosyncracies\n",
+				"date_published": "2017-11-03T15:58:25+01:00",
+				"url": "https://frank.micro.blog/2017/11/03/mighty-interesting-stuff.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/03/thinking-about-a.html",
+				
+				"content_html": "<p>thinking about a column on recent events with indieweb stuff, facebook and the mic-conspiracy, Trump-less Twitter and all that other stuff that&rsquo;s going on everywhere&hellip;</p>\n",
+				"content_text": "thinking about a column on recent events with indieweb stuff, facebook and the mic-conspiracy, Trump-less Twitter and all that other stuff that's going on everywhere...\n",
+				"date_published": "2017-11-03T12:38:50+01:00",
+				"url": "https://frank.micro.blog/2017/11/03/thinking-about-a.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/11/02/i-truly-worry.html",
+				
+				"content_html": "<p>I truly worry more and more on the state of big networks like Facebook. Articles like <a href=\"https://www.theguardian.com/technology/2017/oct/25/facebook-orwellian-journalists-democracy-guatemala-slovakia\">this</a> in The Guardian  about the newsfeedtests if FB in countries are scary&hellip;</p>\n",
+				"content_text": "I truly worry more and more on the state of big networks like Facebook. Articles like [this](https://www.theguardian.com/technology/2017/oct/25/facebook-orwellian-journalists-democracy-guatemala-slovakia) in The Guardian  about the newsfeedtests if FB in countries are scary...\n",
+				"date_published": "2017-11-02T20:15:45+01:00",
+				"url": "https://frank.micro.blog/2017/11/02/i-truly-worry.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/10/28/whats-my-usecase.html",
+				"title": "What's my usecase for Microblog?",
+				"content_html": "<p>With one day left in my trial account for Micro.blog I need to figure out what my usecase would be for this. I already have my own Jekyll-based site on <a href=\"http://diggingthedigital.com/.\">diggingthedigital.com/.</a> So another blog would be no use for me.\nI like some of the other conversations going on here but do I need to pay to see and participate in it? That is not quite clear to me.\nWhat would 5 dollar a month buy me that a free micro.blog account or my current blog doesn&rsquo;t have? Is there a free micro.blog account? What does it have and what does it lack?</p>\n<p>I have no problem to support indie developers but I already have some Patreon backings going for other developers. Choices.\nIt all boils down to communicating what your service has to offer. Now it is unclear to me. The <a href=\"http://help.micro.blog/\">Help-page</a> doesn&rsquo;t give a hint either.</p>\n<p>I think I just wait and see what happens.</p>\n",
+				"content_text": "With one day left in my trial account for Micro.blog I need to figure out what my usecase would be for this. I already have my own Jekyll-based site on [diggingthedigital.com/.](http://diggingthedigital.com/.) So another blog would be no use for me. \nI like some of the other conversations going on here but do I need to pay to see and participate in it? That is not quite clear to me. \nWhat would 5 dollar a month buy me that a free micro.blog account or my current blog doesn't have? Is there a free micro.blog account? What does it have and what does it lack?\n\nI have no problem to support indie developers but I already have some Patreon backings going for other developers. Choices. \nIt all boils down to communicating what your service has to offer. Now it is unclear to me. The [Help-page](http://help.micro.blog/) doesn't give a hint either. \n\nI think I just wait and see what happens.\n",
+				"date_published": "2017-10-28T07:51:53+01:00",
+				"url": "https://frank.micro.blog/2017/10/28/whats-my-usecase.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/10/27/as-ice-cube.html",
+				
+				"content_html": "<p>As Ice Cube would say, today was a good day. Started with a run in the park. Did some fun support &amp; community work for Triggi. Had a nice lunch with the missus. Made pizza with and for the kids.</p>\n<p>Time for Stranger Things!</p>\n",
+				"content_text": "As Ice Cube would say, today was a good day. Started with a run in the park. Did some fun support & community work for Triggi. Had a nice lunch with the missus. Made pizza with and for the kids. \n\nTime for Stranger Things!\n",
+				"date_published": "2017-10-27T18:19:13+01:00",
+				"url": "https://frank.micro.blog/2017/10/27/as-ice-cube.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/10/26/im-still-figuring.html",
+				
+				"content_html": "<p>I’m still figuring out how “owning your own content” helps me to engage on other networks. The startingpoint of IndieWeb always seems to be me starting something. Which is not always the case. I respond, retweet, favorite, build upon. How does that work? #IndieQuestions</p>\n",
+				"content_text": "I’m still figuring out how “owning your own content” helps me to engage on other networks. The startingpoint of IndieWeb always seems to be me starting something. Which is not always the case. I respond, retweet, favorite, build upon. How does that work? #IndieQuestions\n",
+				"date_published": "2017-10-26T08:40:15+01:00",
+				"url": "https://frank.micro.blog/2017/10/26/im-still-figuring.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/10/25/as-a-keyboard.html",
+				
+				"content_html": "<p>As a keyboard lover and support agent or our app, I&rsquo;d love to have a better naming-scheme for the various emoji. Instead of typing :wink: and :crying: I&rsquo;d rather have consistency such as :face-wink: and :face-crying:</p>\n<p>But hey&hellip;that&rsquo;s just me.</p>\n",
+				"content_text": "As a keyboard lover and support agent or our app, I'd love to have a better naming-scheme for the various emoji. Instead of typing :wink: and :crying: I'd rather have consistency such as :face-wink: and :face-crying:\n\nBut hey...that's just me.\n",
+				"date_published": "2017-10-25T11:03:32+01:00",
+				"url": "https://frank.micro.blog/2017/10/25/as-a-keyboard.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/10/24/after-a-brief.html",
+				
+				"content_html": "<p>After a brief hiatus I will resume running again tomorrow at 6 AM. Step one: Don’t make me think about my clothes this early. Make sure they’re ready.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "After a brief hiatus I will resume running again tomorrow at 6 AM. Step one: Don’t make me think about my clothes this early. Make sure they’re ready. \n\n<img src=\"http://frank.micro.blog/uploads/2017/09deddcc1b.jpg\" width=\"600\" height=\"600\" />\n",
+				"date_published": "2017-10-24T22:30:42+01:00",
+				"url": "https://frank.micro.blog/2017/10/24/after-a-brief.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/10/23/voor-de-nederlandse.html",
+				
+				"content_html": "<p>Voor de Nederlandse microbloggers, hier is een blogpost met links naar mijn Numrush columns. Hoe meta wil je het hebben :-)</p>\n<p><a href=\"http://diggingthedigital.com/Numrush-columns/\">diggingthedigital.com/Numrush-c&hellip;</a></p>\n",
+				"content_text": "Voor de Nederlandse microbloggers, hier is een blogpost met links naar mijn Numrush columns. Hoe meta wil je het hebben :-)\n\n[diggingthedigital.com/Numrush-c...](http://diggingthedigital.com/Numrush-columns/)\n",
+				"date_published": "2017-10-23T20:03:02+01:00",
+				"url": "https://frank.micro.blog/2017/10/23/voor-de-nederlandse.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/10/22/this-is-an.html",
+				
+				"content_html": "<p><a href=\"http://boffosocko.com/2017/10/20/indieweb-the-book/\">this is</a> an interesting project.</p>\n<p><a href=\"http://boffosocko.com/2017/10/20/indieweb-the-book/\">Indieweb: the book</a>. I would read it. Missed it long enough.</p>\n",
+				"content_text": "[this is](http://boffosocko.com/2017/10/20/indieweb-the-book/) an interesting project. \n\n[Indieweb: the book](http://boffosocko.com/2017/10/20/indieweb-the-book/). I would read it. Missed it long enough.\n",
+				"date_published": "2017-10-22T21:53:21+01:00",
+				"url": "https://frank.micro.blog/2017/10/22/this-is-an.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/10/22/so-hey-this.html",
+				
+				"content_html": "<p>So hey. This is me. Riding the microblog wave for now. Saying hi to <a href=\"https://micro.blog/manton\">@manton</a> to let him know I exist in this space.</p>\n<p>Now what?</p>\n",
+				"content_text": "So hey. This is me. Riding the microblog wave for now. Saying hi to [@manton](https://micro.blog/manton) to let him know I exist in this space. \n\nNow what?\n",
+				"date_published": "2017-10-22T21:49:18+01:00",
+				"url": "https://frank.micro.blog/2017/10/22/so-hey-this.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/10/22/everyone-should-blog.html",
+				"title": "Everyone should blog?",
+				"content_html": "<p>According to Jack, we <a href=\"https://jack.baty.net/2017/i-just-want-everyone-to-start-blogging-again/\">should</a>. But meh&hellip; we had that hype 15 years ago. Too much hassle for a lot of people. They want to connect. They want a familiar place. Innovation and upgrades when they log in again.\nI know about the Indieweb. I’ve had my fair share of discussions on blogs vs social. But here’s the thing, times have changed. Mobile won. Facebook won. Instagram will win. For the coming decade. Something else comes along and that will win. Indie blogs will never win. And that’s a good thing.</p>\n",
+				"content_text": "According to Jack, we [should](https://jack.baty.net/2017/i-just-want-everyone-to-start-blogging-again/). But meh... we had that hype 15 years ago. Too much hassle for a lot of people. They want to connect. They want a familiar place. Innovation and upgrades when they log in again. \nI know about the Indieweb. I’ve had my fair share of discussions on blogs vs social. But here’s the thing, times have changed. Mobile won. Facebook won. Instagram will win. For the coming decade. Something else comes along and that will win. Indie blogs will never win. And that’s a good thing.\n",
+				"date_published": "2017-10-22T21:48:05+01:00",
+				"url": "https://frank.micro.blog/2017/10/22/everyone-should-blog.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/10/22/had-this-amazing.html",
+				
+				"content_html": "<p>Had this amazing <a href=\"https://untappd.com/b/mikkeller-beer-geek-breakfast/179\">Beer Geek Breakfast by Mikkeler</a> last night. Worth trying out if you run into one!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Had this amazing [Beer Geek Breakfast by Mikkeler](https://untappd.com/b/mikkeller-beer-geek-breakfast/179) last night. Worth trying out if you run into one!\n\n<img src=\"http://frank.micro.blog/uploads/2017/39d1d5a2a8.jpg\" width=\"450\" height=\"600\" />\n",
+				"date_published": "2017-10-22T10:53:01+01:00",
+				"url": "https://frank.micro.blog/2017/10/22/had-this-amazing.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/10/22/sundays-are-good.html",
+				
+				"content_html": "<p>Sundays are good for catching up on my RSS-subscriptions (<a href=\"https://www.inoreader.com\">InoReader</a> is my favorite reader of the week, all bow down to the OPML export options to migrate fast)</p>\n<p>Since I work in the IoT/Smart home industry there&rsquo;s new products and services popping up every other day it seems. Some of my favorites from this morning</p>\n<ul>\n<li><a href=\"http://www.stephensonstrategies.com/mycroft-brings-open-source-revolution-to-home-assistants/\">Mycroft Open Source Home Assistant</a></li>\n<li><a href=\"https://www.postscapes.com/pulse/smart-security-camera-maker-buddyguard-raises-4m/\">BuddyGuard smart security</a></li>\n<li><a href=\"https://www.wareable.com/wearable-tech/nba-court-ar-vr-smart-home-139\">NBA Connected tech</a></li>\n<li><a href=\"https://www.wareable.com/sport/jawku-speed-wearable-wristband-5250\">Jawku Speed wristband for runners</a></li>\n</ul>\n<p>There&rsquo;s so much to invent in this world&hellip;.</p>\n",
+				"content_text": "Sundays are good for catching up on my RSS-subscriptions ([InoReader](https://www.inoreader.com) is my favorite reader of the week, all bow down to the OPML export options to migrate fast)\n\nSince I work in the IoT/Smart home industry there's new products and services popping up every other day it seems. Some of my favorites from this morning\n\n* [Mycroft Open Source Home Assistant](http://www.stephensonstrategies.com/mycroft-brings-open-source-revolution-to-home-assistants/)\n* [BuddyGuard smart security](https://www.postscapes.com/pulse/smart-security-camera-maker-buddyguard-raises-4m/)\n* [NBA Connected tech](https://www.wareable.com/wearable-tech/nba-court-ar-vr-smart-home-139)\n* [Jawku Speed wristband for runners](https://www.wareable.com/sport/jawku-speed-wearable-wristband-5250)\n\nThere's so much to invent in this world....\n",
+				"date_published": "2017-10-22T10:49:11+01:00",
+				"url": "https://frank.micro.blog/2017/10/22/sundays-are-good.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2017/10/19/is-this-thing.html",
+				"title": "Is this thing on?",
+				"content_html": "<p>Hello? Hello? Is this thing on? 1,2,1,2&hellip;</p>\n<h2 id=\"hey-ho-lets-go\">Hey ho let&rsquo;s go!</h2>\n",
+				"content_text": "Hello? Hello? Is this thing on? 1,2,1,2...\n\n## Hey ho let's go!\n",
+				"date_published": "2017-10-19T14:56:19+01:00",
+				"url": "https://frank.micro.blog/2017/10/19/is-this-thing.html"
+			}
+	]
+}
