@@ -7,6 +7,95 @@
 	"items": [
 		
 			{
+				"id": "http://frank.micro.blog/2023/11/25/it-took-me.html",
+				
+				"content_html": "<p>It took me a few years but I finally bit the bullet and bought <a href=\"https://culturedcode.com/things/\">Things</a> (both iOS and MacOS) with their Black Friday sale. It&rsquo;s one of the best designed task-apps in the field. I tried and seen almost all big task managers over the years. And I know the success of your productivity comes not from an app but from your own relation with the projects and tasks. Plus your dedication to just do it. I do think a well-thought app helps in the process.</p>\n<p>And yes, I still have <a href=\"https://diggingthedigital.com/bookmark-task-management-using-emacs-and-org-mode/\">a soft spot</a> for the trojan but proven task-methods in <a href=\"http://doc.norang.ca/org-mode.html\">orgmode</a>.</p>\n",
+				"content_text": "It took me a few years but I finally bit the bullet and bought [Things](https://culturedcode.com/things/) (both iOS and MacOS) with their Black Friday sale. It's one of the best designed task-apps in the field. I tried and seen almost all big task managers over the years. And I know the success of your productivity comes not from an app but from your own relation with the projects and tasks. Plus your dedication to just do it. I do think a well-thought app helps in the process. \n\nAnd yes, I still have [a soft spot](https://diggingthedigital.com/bookmark-task-management-using-emacs-and-org-mode/) for the trojan but proven task-methods in [orgmode](http://doc.norang.ca/org-mode.html). \n",
+				"date_published": "2023-11-25T08:59:42+01:00",
+				"url": "https://frankmeeuwsen.com/2023/11/25/it-took-me.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/22/with-a-night.html",
+				
+				"content_html": "<p>With a night of election results on the TV, reading up on <a href=\"https://til.tips/\">til.tips</a>. I think there are some DNS issues since not all links work yet. (@SimonWoods / <a href=\"https://micro.blog/TIL\">@TIL</a> )</p>\n",
+				"content_text": "With a night of election results on the TV, reading up on [til.tips](https://til.tips/). I think there are some DNS issues since not all links work yet. (@SimonWoods / [@TIL](https://micro.blog/TIL) ) \n",
+				"date_published": "2023-11-22T20:41:57+01:00",
+				"url": "https://frankmeeuwsen.com/2023/11/22/with-a-night.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/22/today-its-election.html",
+				
+				"content_html": "<p>Today it’s Election Day in the Netherlands. We vote for a new government (hopefully…). In my hometown Utrecht you can vote at the concert-venue Tivoli Vredenburg, right next to my hero Mr. Eddie Vedder from Pearl Jam. Let’s hope it helps for a more progressive and future-forward government.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Today it’s Election Day in the Netherlands. We vote for a new government (hopefully…). In my hometown Utrecht you can vote at the concert-venue Tivoli Vredenburg, right next to my hero Mr. Eddie Vedder from Pearl Jam. Let’s hope it helps for a more progressive and future-forward government. \n\n<img src=\"uploads/2023/75398a20e9f149d8b7986a688162c458.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"date_published": "2023-11-22T12:47:10+01:00",
+				"url": "https://frankmeeuwsen.com/2023/11/22/today-its-election.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/21/next-steps-for.html",
+				"title": "Next steps for blogrolls",
+				"content_html": "<p>This is <a href=\"https://feedland.blog/2023/11/19/the-magic-of-reading-lists/\">really interesting</a>, how Feedland and OPML will work with a combination of categories.</p>\n<blockquote>\n<p>Suppose I subscribe to all three of these OPML files, then if you look at the bloggers category for my FeedLand, you’ll get a combination of all three lists, and whatever feeds I’ve subscribed to individually and assigned the bloggers category.</p>\n</blockquote>\n<p>I will work on the OPML-file in the coming days and assign various categories, thanks for the incentive <a href=\"https://micro.blog/dave\">@dave</a> and <a href=\"https://micro.blog/cagrimmett\">@cagrimmett</a>. I would also love to find a way how I can programmatically output my OPML-based blogroll as HTML on micro.blog. Any thoughts on this from the microblog hivemind?</p>\n",
+				"content_text": "This is [really interesting](https://feedland.blog/2023/11/19/the-magic-of-reading-lists/), how Feedland and OPML will work with a combination of categories.  \r\n\r\n> Suppose I subscribe to all three of these OPML files, then if you look at the bloggers category for my FeedLand, you’ll get a combination of all three lists, and whatever feeds I’ve subscribed to individually and assigned the bloggers category.\r\n\r\nI will work on the OPML-file in the coming days and assign various categories, thanks for the incentive [@dave](https://micro.blog/dave) and [@cagrimmett](https://micro.blog/cagrimmett). I would also love to find a way how I can programmatically output my OPML-based blogroll as HTML on micro.blog. Any thoughts on this from the microblog hivemind?\n",
+				"date_published": "2023-11-21T22:53:00+01:00",
+				"url": "https://frankmeeuwsen.com/2023/11/21/next-steps-for.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/21/walking-to-work.html",
+				
+				"content_html": "<p>Walking to work this morning, so my back gets more exercise. It’s always nice to get a fresh coffee at my favorite <a href=\"https://thevillagecoffee.nl/\">The Village Coffee and Music</a>. Good people, fine coffee and nice music.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Walking to work this morning, so my back gets more exercise. It’s always nice to get a fresh coffee at my favorite [The Village Coffee and Music](https://thevillagecoffee.nl/). Good people, fine coffee and nice music. \n\n<img src=\"uploads/2023/af94137dbfdd49e3ab2039bd535c1bb8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-11-21T10:14:45+01:00",
+				"url": "https://frankmeeuwsen.com/2023/11/21/walking-to-work.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/19/watching-an-incredible.html",
+				
+				"content_html": "<p>📺 Watching an incredible fun interview by 12 year old Logan from Ireland with punklegend Ian Mackaye (Minor Threat, Fugazi)</p>\n<p>“Punk is defined by one line: ‘Because we said so’”</p>\n<p><a href=\"https://youtu.be/j2i4karXr0Q?si=XEiyn-yY_Zb520kG\">youtu.be/j2i4karXr&hellip;</a></p>\n",
+				"content_text": "📺 Watching an incredible fun interview by 12 year old Logan from Ireland with punklegend Ian Mackaye (Minor Threat, Fugazi) \n\n“Punk is defined by one line: ‘Because we said so’”\n\n[youtu.be/j2i4karXr...](https://youtu.be/j2i4karXr0Q?si=XEiyn-yY_Zb520kG)\n",
+				"date_published": "2023-11-19T23:06:52+01:00",
+				"url": "https://frankmeeuwsen.com/2023/11/19/watching-an-incredible.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/19/how-drummer-and.html",
+				"title": "How Drummer and Micro.blog interop",
+				"content_html": "<p>Since I was playing around with the <a href=\"http://docserver.scripting.com/drummer/blogging.opml\">Drummer outliner</a>, I thought I&rsquo;d try to see how the <a href=\"https://spectrum.ieee.org/doctorow-interoperability\">interoperability</a> between Micro.blog and Drummer works.</p>\n<p>Well, it <em>works</em>, but I was quite surprised to see how my <a href=\"http://oldschool.scripting.com/frank@frankmeeuwsen.com/\">complete Drummer blog</a> has been transferred to Micro.blog now. I&rsquo;m not quite sure how I feel about that. Maybe I should read the instructions first before just trying stuff (you know me…) but I was under the impression I would only post the latest post from Drummer to Micro.blog. It doesn&rsquo;t. It posts the complete outline you send to it.</p>\n<p>In 2021 <a href=\"https://frankmeeuwsen.com/2021/11/14/an-update-to.html\">I wrote a script</a> to send <em>individual</em> Drummer posts to WordPress. Perhaps I could rewrite it for Micro.blog as well. The basics are mostly the same, it&rsquo;s the endpoint that&rsquo;s different.</p>\n<p>Anyway, it is good to see there are even more possibilities to post on your microblog. Not that you should use them all. I just love a good and diverse ecosystem.</p>\n",
+				"content_text": "Since I was playing around with the [Drummer outliner](http://docserver.scripting.com/drummer/blogging.opml), I thought I'd try to see how the [interoperability](https://spectrum.ieee.org/doctorow-interoperability) between Micro.blog and Drummer works. \n\nWell, it _works_, but I was quite surprised to see how my [complete Drummer blog](http://oldschool.scripting.com/frank@frankmeeuwsen.com/) has been transferred to Micro.blog now. I'm not quite sure how I feel about that. Maybe I should read the instructions first before just trying stuff (you know me…) but I was under the impression I would only post the latest post from Drummer to Micro.blog. It doesn't. It posts the complete outline you send to it. \n\nIn 2021 [I wrote a script](https://frankmeeuwsen.com/2021/11/14/an-update-to.html) to send _individual_ Drummer posts to WordPress. Perhaps I could rewrite it for Micro.blog as well. The basics are mostly the same, it's the endpoint that's different. \n\nAnyway, it is good to see there are even more possibilities to post on your microblog. Not that you should use them all. I just love a good and diverse ecosystem. \n",
+				"date_published": "2023-11-19T09:41:00+01:00",
+				"url": "https://frankmeeuwsen.com/2023/11/19/how-drummer-and.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/19/just-a-small.html",
+				
+				"content_html": "<p>Just a small Sunday morning test to see how Drummer and Micro.blog work together. Edit: It just works. Nice.</p>\n",
+				"content_text": "Just a small Sunday morning test to see how Drummer and Micro.blog work together. Edit: It just works. Nice. \n",
+				"date_published": "2023-11-19T09:26:17+01:00",
+				"url": "https://frankmeeuwsen.com/2023/11/19/just-a-small.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/18/here-we-are.html",
+				
+				"content_html": "<p>Here we are. One year later. Testing all sorts of OPML editors to see if Drummer can help to be a central hub for blogrolls. I think it can&hellip;</p>\n",
+				"content_text": "Here we are. One year later. Testing all sorts of OPML editors to see if Drummer can help to be a central hub for blogrolls. I think it can...\n",
+				"date_published": "2023-11-18T18:47:15+01:00",
+				"url": "https://frankmeeuwsen.com/2023/11/18/here-we-are.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/18/bluesky-moves-towards.html",
+				"title": "Bluesky moves towards federation",
+				"content_html": "<p>More interesting news from Bluesky: <a href=\"https://blueskyweb.xyz/blog/11-15-2023-toward-federation\">Toward Federation and an Open Network</a>. A significant portion of my Twitter network has migrated to Bluesky. While I don&rsquo;t feel as comfortable there, I do miss this old network being around. However, if Bluesky evolves into a truly open network, I can utilize my Micro.blog account to follow them again and they can follow my micro.blog account. In essence, I don&rsquo;t need to be actively present on Bluesky to access engaging content. Long live Federation!</p>\n",
+				"content_text": "More interesting news from Bluesky: [Toward Federation and an Open Network](https://blueskyweb.xyz/blog/11-15-2023-toward-federation). A significant portion of my Twitter network has migrated to Bluesky. While I don't feel as comfortable there, I do miss this old network being around. However, if Bluesky evolves into a truly open network, I can utilize my Micro.blog account to follow them again and they can follow my micro.blog account. In essence, I don't need to be actively present on Bluesky to access engaging content. Long live Federation!\n",
+				"date_published": "2023-11-18T10:23:00+01:00",
+				"url": "https://frankmeeuwsen.com/2023/11/18/bluesky-moves-towards.html",
+				"tags": ["bookmarks"]
+			},
+			{
+				"id": "http://frank.micro.blog/2023/11/18/playing-around-with.html",
+				
+				"content_html": "<p>Playing around with <a href=\"https://Feedland.com\">Feedland.com</a> and OPML. Now that Feedland&rsquo;s identityserver is WordPress ánd we know <a href=\"https://www.theverge.com/2023/11/17/23964580/tumblr-downscaling-smaller-social-media-site\">Tumblr is betting big on growing small</a> (both are Automattic companies), it&rsquo;s pretty interesting to see how these small pieces will be loosely joined&hellip;</p>\n",
+				"content_text": "Playing around with [Feedland.com](https://Feedland.com) and OPML. Now that Feedland's identityserver is WordPress ánd we know [Tumblr is betting big on growing small](https://www.theverge.com/2023/11/17/23964580/tumblr-downscaling-smaller-social-media-site) (both are Automattic companies), it's pretty interesting to see how these small pieces will be loosely joined...\n",
+				"date_published": "2023-11-18T09:47:32+01:00",
+				"url": "https://frankmeeuwsen.com/2023/11/18/playing-around-with.html"
+			},
+			{
 				"id": "http://frank.micro.blog/2023/11/18/todays-plan-was.html",
 				
 				"content_html": "<p>Today&rsquo;s plan was to visit <a href=\"https://helldorado.nl/\">Helldorado Festival</a> in Eindhoven. A full day of loud music and good food. Due to the lingering back pain though, it is not wise to be around thousands of head banging, moshpitting and shoulder-slapping rockers. Too bad, I really looked forward to seeing Life of Agony, Peter Pan Speedrock, Prong, Speedmobile and many, many others. I got to sell my tickets, so there&rsquo;s a silver lining. To get an idea of the festival, check their Instagram page with <a href=\"https://www.instagram.com/p/CzbXN3vPIEM/\">an after movie</a> of last year&rsquo;s edition.</p>\n",
@@ -124,7 +213,8 @@
 				"content_html": "<p>I have no idea from where <a href=\"https://journal.paoloamoroso.com/how-i-discover-content-from-interesting-people\">this blogpost</a> got into my 20+ Sunday-afternoon-random-tab-extravaganza but Paolo exactly describes how I do my exploring and spelunking on the web. I just click links. From status posts to blogs to &ldquo;about&rdquo;-pages. From there to other networks, blogrolls, categories, tags, lists, &ldquo;side projects&rdquo;, work-related blogs and so on&hellip; It is the <em>best</em> way to discover new stuff on the web.</p>\n",
 				"content_text": "I have no idea from where [this blogpost](https://journal.paoloamoroso.com/how-i-discover-content-from-interesting-people) got into my 20+ Sunday-afternoon-random-tab-extravaganza but Paolo exactly describes how I do my exploring and spelunking on the web. I just click links. From status posts to blogs to \"about\"-pages. From there to other networks, blogrolls, categories, tags, lists, \"side projects\", work-related blogs and so on... It is the _best_ way to discover new stuff on the web. \n",
 				"date_published": "2023-11-12T17:01:20+01:00",
-				"url": "https://frankmeeuwsen.com/2023/11/12/i-have-no.html"
+				"url": "https://frankmeeuwsen.com/2023/11/12/i-have-no.html",
+				"tags": ["bookmarks"]
 			},
 			{
 				"id": "http://frank.micro.blog/2023/11/12/hi-sod-what.html",
@@ -196,7 +286,8 @@
 				"content_html": "<p>Browsing in my RSS feeds and I see this post by <a href=\"https://micro.blog/jack\">@jack</a> <a href=\"https://rudimentarylathe.org/2023/11/reason-i-love-org-mode-no-257-archiving-todos/\">why he loves orgmode for archiving todos</a>. I can relate. Not that I use orgmode. I try every now and then but I get into config-rabbitholes really quick. But since I’m reviewing several parts of my online life, why not give it a go again?</p>\n",
 				"content_text": "Browsing in my RSS feeds and I see this post by [@jack](https://micro.blog/jack) [why he loves orgmode for archiving todos](https://rudimentarylathe.org/2023/11/reason-i-love-org-mode-no-257-archiving-todos/). I can relate. Not that I use orgmode. I try every now and then but I get into config-rabbitholes really quick. But since I’m reviewing several parts of my online life, why not give it a go again?\n",
 				"date_published": "2023-11-10T20:54:54+01:00",
-				"url": "https://frankmeeuwsen.com/2023/11/10/browsing-in-my.html"
+				"url": "https://frankmeeuwsen.com/2023/11/10/browsing-in-my.html",
+				"tags": ["bookmarks"]
 			},
 			{
 				"id": "http://frank.micro.blog/2023/11/10/trying-gluon-icro.html",
@@ -245,6 +336,742 @@
 				"content_text": "The pressure of the _first post_ on a new platform. Even though I was here a few years ago. Now I am back. Let’s see where it takes me. \n",
 				"date_published": "2023-11-10T05:21:32+01:00",
 				"url": "https://frankmeeuwsen.com/2023/11/10/the-pressure-of.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/12/05/that-was-a.html",
+				
+				"content_html": "<p>That was a first! I was typing the below words on December 5th but hit Publish somewhere around midnight so the serverclock got all dizzy and didn&rsquo;t know what to do. Ah well just throw an error and see what happens! Maybe this post will fix it like magic&hellip;</p>\n",
+				"content_text": "That was a first! I was typing the below words on December 5th but hit Publish somewhere around midnight so the serverclock got all dizzy and didn't know what to do. Ah well just throw an error and see what happens! Maybe this post will fix it like magic...\n",
+				"date_published": "2022-12-06T00:03:47+01:00",
+				"url": "https://frankmeeuwsen.com/2022/12/06/that-was-a.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/12/05/its-done-with.html",
+				
+				"content_html": "<p>It&rsquo;s done with the black magic from syndicated links, webmentions and some other stuff I still don&rsquo;t quite understand.</p>\n",
+				"content_text": "It's done with the black magic from syndicated links, webmentions and some other stuff I still don't quite understand. \n",
+				"date_published": "2022-12-06T00:00:17+01:00",
+				"url": "https://frankmeeuwsen.com/2022/12/06/its-done-with.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/12/05/on-the-other.html",
+				
+				"content_html": "<p>On the other hand, on my WordPress blog I have a two-way conversation. Reactions, boosts and likes are channeled back to my own domain. On Drummer this is not yet possible (I think?)</p>\n",
+				"content_text": "On the other hand, on my WordPress blog I have a two-way conversation. Reactions, boosts and likes are channeled back to my own domain. On Drummer this is not yet possible (I think?)\n",
+				"date_published": "2022-12-05T23:59:18+01:00",
+				"url": "https://frankmeeuwsen.com/2022/12/05/on-the-other.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/12/05/this-might-even.html",
+				
+				"content_html": "<p>this might even make Drummer more interesting for fast updates I can share on the federated open web.</p>\n",
+				"content_text": "this might even make Drummer more interesting for fast updates I can share on the federated open web. \n",
+				"date_published": "2022-12-05T23:58:46+01:00",
+				"url": "https://frankmeeuwsen.com/2022/12/05/this-might-even.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/12/05/well-that-seems.html",
+				
+				"content_html": "<p>Well, that seems to work just fine. You can see the toot on this page: <!-- raw HTML omitted --><a href=\"https://indieweb.social/@frank/109463430859280446\">https://indieweb.social/@frank/109463430859280446</a><!-- raw HTML omitted --></p>\n",
+				"content_text": "Well, that seems to work just fine. You can see the toot on this page: <a href=\"https://indieweb.social/@frank/109463430859280446\">https://indieweb.social/@frank/109463430859280446</a>\n",
+				"date_published": "2022-12-05T23:57:33+01:00",
+				"url": "https://frankmeeuwsen.com/2022/12/05/well-that-seems.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/12/05/so-here-we.html",
+				
+				"content_html": "<p>So here we are, testing a new <!-- raw HTML omitted -->FeedtoMasto<!-- raw HTML omitted --> script from Dave Winer. From any webfeed, post directly to Mastodon. It looks pretty easy to setup and with a few tweaks in the config.json I got it working on Glitch.com. Onwards!</p>\n",
+				"content_text": "So here we are, testing a new <a href=\"https://github.com/scripting/feedToMasto\">FeedtoMasto</a> script from Dave Winer. From any webfeed, post directly to Mastodon. It looks pretty easy to setup and with a few tweaks in the config.json I got it working on Glitch.com. Onwards!\n",
+				"date_published": "2022-12-05T23:26:42+01:00",
+				"url": "https://frankmeeuwsen.com/2022/12/05/so-here-we.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/12/02/klotecorona.html",
+				"title": "Klotecorona. ",
+				"content_html": "<p>Helaas is de stevige griep overgegaan in een vole positieve besmetting. 5 Dagen niet naar buiten dus! En vandaag veel uitgezocht hoe we het hier thuis moeten doen met besmettingen die al bijna zijn afgelopen of misschien nog kunnen komen. De conclusie na een lang gesprek met de GGD: We mogen wel bij elkaar zijn in 1 ruimte hier binnen, maar we moeten vooral opletten of we klachten krijgen die bij een besmetting kunnen horen.</p>\n<p>Dus als onze oudste nu nog klachtenvrij is en dat blijft zo, dan mag zij gewoon naar buiten. Wij houden wel wat afstand van elkaar maar we hoeven niet in isolatie.</p>\n<p>Sowieso was de isolatie van vrouw en zoon deze week niet echt nodig blijkt nu. Als we maar opletten bij klachten</p>\n<p>Wat ik dus niet goed genoeg heb gedaan. Want ik ben nu ook besmet.</p>\n<p>De jongste zoon is klachtenvrij en mag weer naar school als dat zo blijft. Ondanks dat ik nog wel besmet ben.</p>\n<p>Het is allemaal wat&hellip;</p>\n",
+				"content_text": "Helaas is de stevige griep overgegaan in een vole positieve besmetting. 5 Dagen niet naar buiten dus! En vandaag veel uitgezocht hoe we het hier thuis moeten doen met besmettingen die al bijna zijn afgelopen of misschien nog kunnen komen. De conclusie na een lang gesprek met de GGD: We mogen wel bij elkaar zijn in 1 ruimte hier binnen, maar we moeten vooral opletten of we klachten krijgen die bij een besmetting kunnen horen. \n\nDus als onze oudste nu nog klachtenvrij is en dat blijft zo, dan mag zij gewoon naar buiten. Wij houden wel wat afstand van elkaar maar we hoeven niet in isolatie. \n\nSowieso was de isolatie van vrouw en zoon deze week niet echt nodig blijkt nu. Als we maar opletten bij klachten\n\nWat ik dus niet goed genoeg heb gedaan. Want ik ben nu ook besmet. \n\nDe jongste zoon is klachtenvrij en mag weer naar school als dat zo blijft. Ondanks dat ik nog wel besmet ben. \n\nHet is allemaal wat...\n",
+				"date_published": "2022-12-02T18:24:30+01:00",
+				"url": "https://frankmeeuwsen.com/2022/12/02/klotecorona.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/12/02/080636.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/sudoku.png\" />\n",
+				"date_published": "2022-12-02T08:06:36+01:00",
+				"url": "https://frankmeeuwsen.com/2022/12/02/080636.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/12/02/ik-heb-al.html",
+				
+				"content_html": "<p>Ik heb al veel Sudoku&rsquo;s gespeeld, maar dat het misgaat in het laatste vakje van de <!-- raw HTML omitted -->NRC Sudoku<!-- raw HTML omitted --> vandaag is wel erg uniek.</p>\n",
+				"content_text": "Ik heb al veel Sudoku's gespeeld, maar dat het misgaat in het laatste vakje van de <a href=\"https://www.nrc.nl/nieuws/2022/12/02/sudoku-a4150168?utm_source=SIM&utm_medium=email&utm_campaign=nrcavond&utm_content=&utm_term=20221202\">NRC Sudoku</a> vandaag is wel erg uniek. \n",
+				"date_published": "2022-12-02T08:05:27+01:00",
+				"url": "https://frankmeeuwsen.com/2022/12/02/ik-heb-al.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/12/01/een-nieuwe-maand.html",
+				
+				"content_html": "<p>Een nieuwe maand en meteen lig ik weer ziek thuis. Na de besmetting van de jongste en mijn vrouw, heb ik nu zelf een stevige griep te pakken. Vervelend. Maar het is niet anders. Rust!</p>\n",
+				"content_text": "Een nieuwe maand en meteen lig ik weer ziek thuis. Na de besmetting van de jongste en mijn vrouw, heb ik nu zelf een stevige griep te pakken. Vervelend. Maar het is niet anders. Rust!\n",
+				"date_published": "2022-12-01T10:52:11+01:00",
+				"url": "https://frankmeeuwsen.com/2022/12/01/een-nieuwe-maand.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/11/30/river-cross.html",
+				"title": "River Cross",
+				"content_html": "<p>Wie mij kent weet, ik ben een groot fan van Pearl Jam. Hun muziek heeft me door mijn hele leven geholpen. De teksten, de fans, de tours, de muziek, de volhardenheid van de band.</p>\n<p>Zojuist hoorde ik het nummer River Cross van hun laatste album Gigaton. Al weer 2 jaar oud. De tekst en het pompende geluid van de organ komen zo stevig binnen bij me.</p>\n<p>Let it be a lie that all futures die</p>\n<p>While the government thrives on discontent</p>\n<p>And there&rsquo;s no such thing as clear</p>\n<p>Proselytizing and profitizing</p>\n<p>As our will all but disappears</p>\n<p><!-- raw HTML omitted -->Kijk en luister zelf<!-- raw HTML omitted -->.</p>\n",
+				"content_text": "Wie mij kent weet, ik ben een groot fan van Pearl Jam. Hun muziek heeft me door mijn hele leven geholpen. De teksten, de fans, de tours, de muziek, de volhardenheid van de band. \n\nZojuist hoorde ik het nummer River Cross van hun laatste album Gigaton. Al weer 2 jaar oud. De tekst en het pompende geluid van de organ komen zo stevig binnen bij me. \n\nLet it be a lie that all futures die\n\nWhile the government thrives on discontent\n\nAnd there's no such thing as clear\n\nProselytizing and profitizing\n\nAs our will all but disappears\n\n<a href=\"https://www.youtube.com/watch?v=XvRuZIyV1Eo&feature=youtu.be\">Kijk en luister zelf</a>.\n",
+				"date_published": "2022-11-30T18:30:26+01:00",
+				"url": "https://frankmeeuwsen.com/2022/11/30/river-cross.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/11/30/de-wijze-waarop.html",
+				
+				"content_html": "<p>De wijze waarop je in FeedLand een eigen &ldquo;<!-- raw HTML omitted -->newsproduct<!-- raw HTML omitted -->&rdquo; kunt maken geeft wel een mogelijkheid om bv een losse pagina te maken met alle feeds die ik produceer. Van blog tot linkblog tot Mastodon tot hardlopen etc.</p>\n",
+				"content_text": "De wijze waarop je in FeedLand een eigen \"<a href=\"http://docs.feedland.org/newsProducts.opml\">newsproduct</a>\" kunt maken geeft wel een mogelijkheid om bv een losse pagina te maken met alle feeds die ik produceer. Van blog tot linkblog tot Mastodon tot hardlopen etc. \n",
+				"date_published": "2022-11-30T14:33:25+01:00",
+				"url": "https://frankmeeuwsen.com/2022/11/30/de-wijze-waarop.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/11/30/feedland-testen.html",
+				"title": "FeedLand testen",
+				"content_html": "<p>Zo&rsquo;n dag om <!-- raw HTML omitted -->FeedLand<!-- raw HTML omitted --> eens te testen. En dan kom je automatisch weer bij Drummer en Radio3 uit natuurlijk.</p>\n<p>De eenvoud om hier iets te posten, dat kan WordPress nog steeds niet evenaren. Maar ondanks mijn koppeling tussen Drummer en WordPress gebruik ik dit toch onvoldoende. Er is dus ergens nog een hobbel om &ldquo;even&rdquo; iets te posten op mijn blog.</p>\n<p>De vorm? Het feit dat een notitie makkelijk tussen andere langere posts kan komen? Omdat op die manier de focus van het blog weer wat verwaterd? Al zou dat me niet moeten tegenhouden.</p>\n<p>Altijd weer al die gedachten over online publiceren!</p>\n",
+				"content_text": "Zo'n dag om <a href=\"http://feedland.org/\">FeedLand</a> eens te testen. En dan kom je automatisch weer bij Drummer en Radio3 uit natuurlijk. \n\nDe eenvoud om hier iets te posten, dat kan WordPress nog steeds niet evenaren. Maar ondanks mijn koppeling tussen Drummer en WordPress gebruik ik dit toch onvoldoende. Er is dus ergens nog een hobbel om \"even\" iets te posten op mijn blog. \n\nDe vorm? Het feit dat een notitie makkelijk tussen andere langere posts kan komen? Omdat op die manier de focus van het blog weer wat verwaterd? Al zou dat me niet moeten tegenhouden. \n\nAltijd weer al die gedachten over online publiceren!\n",
+				"date_published": "2022-11-30T14:28:55+01:00",
+				"url": "https://frankmeeuwsen.com/2022/11/30/feedland-testen.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/08/28/overstappen-op-glasvezel.html",
+				"title": "Overstappen op glasvezel. ",
+				"content_html": "<p>Inmiddels heb ik een vergelijkend warenonderzoek gedaan om over te stappen op glasvezel internet op ons adres. T-Mobile stopt met hun DSL verbinding. Ik heb een mooie aanbieding van ze gekregen waar de andere aanbieders niet tegenop konden. Zelfs niet inclusief cashback en kortingen. T-Mobile werkt al jaren zoals het hoort. Zo eens, twee keer per jaar zijn er wat strubbelingen. Maar verder werkt het. En zo zou internet (en TV!) moeten zijn, it just works.</p>\n<p>Het liefst zou een lokale aanbieder hebben, of een buurtcollectief wat voor een goede glasvezelverbinding zorgt. Ik heb het nog niet kunnen vinden. Natuurlijk is T-Mobile net zo&rsquo;n winstgedreven organisatie als Ziggo of KPN. Sinds ik Ben Tarnoff&rsquo;s Internet for the People (website <!-- raw HTML omitted -->auteur<!-- raw HTML omitted -->/<!-- raw HTML omitted -->boek<!-- raw HTML omitted -->) heb gelezen, ben ik er nog meer van overtuigd dat het basisprincipe van internettoegang moet veranderen. Niet gebaseerd op winstmaximalisatie maar als publieke nutsvoorziening. Maar ja&hellip; overheid en ICT-trajecten&hellip;</p>\n",
+				"content_text": "Inmiddels heb ik een vergelijkend warenonderzoek gedaan om over te stappen op glasvezel internet op ons adres. T-Mobile stopt met hun DSL verbinding. Ik heb een mooie aanbieding van ze gekregen waar de andere aanbieders niet tegenop konden. Zelfs niet inclusief cashback en kortingen. T-Mobile werkt al jaren zoals het hoort. Zo eens, twee keer per jaar zijn er wat strubbelingen. Maar verder werkt het. En zo zou internet (en TV!) moeten zijn, it just works. \n\nHet liefst zou een lokale aanbieder hebben, of een buurtcollectief wat voor een goede glasvezelverbinding zorgt. Ik heb het nog niet kunnen vinden. Natuurlijk is T-Mobile net zo'n winstgedreven organisatie als Ziggo of KPN. Sinds ik Ben Tarnoff's Internet for the People (website <a href=\"https://www.bentarnoff.com/\">auteur</a>/<a href=\"https://www.versobooks.com/books/3927-internet-for-the-people#:~:text=Reviews,that%20have%20remade%20our%20lives.\">boek</a>) heb gelezen, ben ik er nog meer van overtuigd dat het basisprincipe van internettoegang moet veranderen. Niet gebaseerd op winstmaximalisatie maar als publieke nutsvoorziening. Maar ja... overheid en ICT-trajecten...\n",
+				"date_published": "2022-08-28T17:13:34+01:00",
+				"url": "https://frankmeeuwsen.com/2022/08/28/overstappen-op-glasvezel.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/08/28/oudmedewerkers-van-instagram.html",
+				
+				"content_html": "<p>Oud-medewerkers van Instagram, Tesla, Google, Snap, Slack, Pinterest en Amazon besluiten een nieuwe browser te maken. <!-- raw HTML omitted -->Arc<!-- raw HTML omitted -->. Ik ben benieuwd of het wat is! Er is namelijk een wachtlijst. Lekker hip hoor.</p>\n",
+				"content_text": "Oud-medewerkers van Instagram, Tesla, Google, Snap, Slack, Pinterest en Amazon besluiten een nieuwe browser te maken. <a href=\"https://thebrowser.company/\">Arc</a>. Ik ben benieuwd of het wat is! Er is namelijk een wachtlijst. Lekker hip hoor. \n",
+				"date_published": "2022-08-28T13:05:55+01:00",
+				"url": "https://frankmeeuwsen.com/2022/08/28/oudmedewerkers-van-instagram.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/08/27/om-de-een.html",
+				
+				"content_html": "<p>Om de een of andere reden zit er altijd teveel tijd tussen de momenten dat ik zoiets doe. En dan moet ik steeds weer uitvogelen hoe ik het voor elkaar moet krijgen&hellip;</p>\n",
+				"content_text": "Om de een of andere reden zit er altijd teveel tijd tussen de momenten dat ik zoiets doe. En dan moet ik steeds weer uitvogelen hoe ik het voor elkaar moet krijgen...\n",
+				"date_published": "2022-08-27T14:31:01+01:00",
+				"url": "https://frankmeeuwsen.com/2022/08/27/om-de-een.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/08/27/vandaag-zit-ik.html",
+				
+				"content_html": "<p>Vandaag zit ik weer eens te puzzelen met Glitch, Cloudflare en Drummer. Zouden ze zijn te koppelen voor een eigen domein?</p>\n",
+				"content_text": "Vandaag zit ik weer eens te puzzelen met Glitch, Cloudflare en Drummer. Zouden ze zijn te koppelen voor een eigen domein?\n",
+				"date_published": "2022-08-27T14:20:11+01:00",
+				"url": "https://frankmeeuwsen.com/2022/08/27/vandaag-zit-ik.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/08/26/de-vakantie-zit.html",
+				"title": "De vakantie zit er op. Wat zal ik nu eens gaan doen? ",
+				"content_html": "<p>In elk geval zijn er weer genoeg blogsystemen en -ontwikkelingen om te onderzoeken en te proberen. Nu nog de tijd vinden! :-)</p>\n",
+				"content_text": "In elk geval zijn er weer genoeg blogsystemen en -ontwikkelingen om te onderzoeken en te proberen. Nu nog de tijd vinden! :-)\n",
+				"date_published": "2022-08-26T08:24:54+01:00",
+				"url": "https://frankmeeuwsen.com/2022/08/26/de-vakantie-zit.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/08/25/yep-woodstock-trainwreck.html",
+				
+				"content_html": "<p>Yep. Woodstock &lsquo;99 Trainwreck op Netflix laat zien wat een shitshow het toen was. Maar ze laten één optreden niet zien wat nog meer dan Limp Bizkit de boel liet ontploffen. Rage Against The Machine met een brandende Amerikaanse vlag op het podium. Check</p>\n",
+				"content_text": "Yep. Woodstock '99 Trainwreck op Netflix laat zien wat een shitshow het toen was. Maar ze laten één optreden niet zien wat nog meer dan Limp Bizkit de boel liet ontploffen. Rage Against The Machine met een brandende Amerikaanse vlag op het podium. Check \n",
+				"date_published": "2022-08-25T23:01:19+01:00",
+				"url": "https://frankmeeuwsen.com/2022/08/25/yep-woodstock-trainwreck.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/03/18/het-is-mark.html",
+				
+				"content_html": "<p>Het is <!-- raw HTML omitted -->Mark Twain<!-- raw HTML omitted --> die dit zei inderdaad.</p>\n",
+				"content_text": "Het is <a href=\"https://www.goodreads.com/quotes/21422-i-didn-t-have-time-to-write-a-short-letter-so\">Mark Twain</a> die dit zei inderdaad. \n",
+				"date_published": "2022-03-18T13:28:45+01:00",
+				"url": "https://frankmeeuwsen.com/2022/03/18/het-is-mark.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/03/18/er-is-altijd.html",
+				
+				"content_html": "<p>Er is altijd genoeg om over te schrijven maar zo weinig tijd om dat doordacht en voor ene publiek te doen. Daarom blijft het overal zo stil. Soms wat losse blurbs als deze om toch het gevoel te hebben nog altijd iets te publiceren. Maar een werkelijk samenhangend verhaal. Dat kost tijd. En zoals een befaamd schrijver al eens zei (Mark Twain?) Ik zou je een korte brief schrijven maar ik heb te weinig tijd.</p>\n",
+				"content_text": "Er is altijd genoeg om over te schrijven maar zo weinig tijd om dat doordacht en voor ene publiek te doen. Daarom blijft het overal zo stil. Soms wat losse blurbs als deze om toch het gevoel te hebben nog altijd iets te publiceren. Maar een werkelijk samenhangend verhaal. Dat kost tijd. En zoals een befaamd schrijver al eens zei (Mark Twain?) Ik zou je een korte brief schrijven maar ik heb te weinig tijd. \n",
+				"date_published": "2022-03-18T13:27:02+01:00",
+				"url": "https://frankmeeuwsen.com/2022/03/18/er-is-altijd.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/03/18/goodmorning-punks.html",
+				
+				"content_html": "<p>Goodmorning punks!</p>\n",
+				"content_text": "Goodmorning punks!\n",
+				"date_published": "2022-03-18T06:45:21+01:00",
+				"url": "https://frankmeeuwsen.com/2022/03/18/goodmorning-punks.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/02/22/as-with-all.html",
+				
+				"content_html": "<p>As with all new blogsystems, I try them, get excited and then I forget about them because I have my own site with WordPress. But to be honest, Drummer is still one of the easiest and approachable blogging systems. It just works. You log in with your Twitter account and you&rsquo;re good to go.</p>\n",
+				"content_text": "As with all new blogsystems, I try them, get excited and then I forget about them because I have my own site with WordPress. But to be honest, Drummer is still one of the easiest and approachable blogging systems. It just works. You log in with your Twitter account and you're good to go. \n",
+				"date_published": "2022-02-22T09:11:45+01:00",
+				"url": "https://frankmeeuwsen.com/2022/02/22/as-with-all.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/02/22/what-would-make.html",
+				
+				"content_html": "<p>What would make it interesting is when Twitter really rolls out their Twitter articles that they&rsquo;re testing now. How would this relate to a lot of blogging platforms? Will it be open? Will there be interoperability? I&rsquo;m not sure. If it were Meta I would say &ldquo;never in a million years&rdquo;. But with Twitter, you never know&hellip;</p>\n",
+				"content_text": "What would make it interesting is when Twitter really rolls out their Twitter articles that they're testing now. How would this relate to a lot of blogging platforms? Will it be open? Will there be interoperability? I'm not sure. If it were Meta I would say \"never in a million years\". But with Twitter, you never know...\n",
+				"date_published": "2022-02-22T09:10:18+01:00",
+				"url": "https://frankmeeuwsen.com/2022/02/22/what-would-make.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2022/02/22/oh-it-has.html",
+				
+				"content_html": "<p>Oh it has been some time.</p>\n",
+				"content_text": "Oh it has been some time.\n",
+				"date_published": "2022-02-22T09:09:14+01:00",
+				"url": "https://frankmeeuwsen.com/2022/02/22/oh-it-has.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/12/18/nieuwe-ontwikkelingen-rondom.html",
+				
+				"content_html": "<p>Nieuwe ontwikkelingen rondom de fundamenten van het web. Of dat nu gaat over interoperabiliteit, toegankelijkheid van informatie of digitaal eigenaarschap.</p>\n",
+				"content_text": "Nieuwe ontwikkelingen rondom de fundamenten van het web. Of dat nu gaat over interoperabiliteit, toegankelijkheid van informatie of digitaal eigenaarschap. \n",
+				"date_published": "2021-12-18T08:15:17+01:00",
+				"url": "https://frankmeeuwsen.com/2021/12/18/nieuwe-ontwikkelingen-rondom.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/12/18/maar-goed-daarnaast.html",
+				
+				"content_html": "<p>Maar goed. Daarnaast hou ik ook de koersen van bitcoin en andere crypto in de gaten. En lees ik bij over Web3 en NFT.</p>\n",
+				"content_text": "Maar goed. Daarnaast hou ik ook de koersen van bitcoin en andere crypto in de gaten. En lees ik bij over Web3 en NFT. \n",
+				"date_published": "2021-12-18T08:14:50+01:00",
+				"url": "https://frankmeeuwsen.com/2021/12/18/maar-goed-daarnaast.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/12/18/waar-ik-dit.html",
+				
+				"content_html": "<p>Waar ik dit weekend wel eens naar wil kijken is het <!-- raw HTML omitted -->Tweets.opml<!-- raw HTML omitted --> project van Dave Winer. En van dezelfde man zijn <!-- raw HTML omitted -->Daytona Search project<!-- raw HTML omitted -->. Ik zag het langs de zijlijn langskomen en ben benieuwd wat het doet en waarom</p>\n",
+				"content_text": "Waar ik dit weekend wel eens naar wil kijken is het <a href=\"http://tweets.opml.org/\">Tweets.opml</a> project van Dave Winer. En van dezelfde man zijn <a href=\"http://docserver.scripting.com/drummer/search.opml\">Daytona Search project</a>. Ik zag het langs de zijlijn langskomen en ben benieuwd wat het doet en waarom\n",
+				"date_published": "2021-12-18T08:14:10+01:00",
+				"url": "https://frankmeeuwsen.com/2021/12/18/waar-ik-dit.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/12/18/het-is-niet.html",
+				
+				"content_html": "<p>Het is niet dat ik stilzit omdat het hier stil is. Of op een andere plek. Maar soms zijn er gewoon andere zaken gaande waarbij ik niet direct denk om iets te posten. Het kan verkeren. Dat weet ik inmiddels al 20 jaar. Een dagelijkse blogger zal ik wel nooit worden.</p>\n",
+				"content_text": "Het is niet dat ik stilzit omdat het hier stil is. Of op een andere plek. Maar soms zijn er gewoon andere zaken gaande waarbij ik niet direct denk om iets te posten. Het kan verkeren. Dat weet ik inmiddels al 20 jaar. Een dagelijkse blogger zal ik wel nooit worden. \n",
+				"date_published": "2021-12-18T08:13:08+01:00",
+				"url": "https://frankmeeuwsen.com/2021/12/18/het-is-niet.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/12/02/decentralized-knowledge-management.html",
+				"title": "Decentralized Knowledge Management and Web3",
+				"content_html": "<p>So here&rsquo;s the thing. A lot is being said and written about this Web3 thing. A lot of people seem to know what it is. A whole lot more have no clue.</p>\n<p>I am somewhat inbetween. That&rsquo;s why I&rsquo;m glad with posts like Amit&rsquo;s &ldquo;<!-- raw HTML omitted -->Thoughts on Web3<!-- raw HTML omitted -->&rdquo; and Robin Sloan&rsquo;s &ldquo;<!-- raw HTML omitted -->Notes on Web3<!-- raw HTML omitted -->&rdquo;.</p>\n<p>They give me context, ideas, points of view I might consider exploring</p>\n<p>I like to explore this in my own environment, <!-- raw HTML omitted -->Obsidian<!-- raw HTML omitted -->.</p>\n<p>In Obsidian I can build my own web of thoughts, ideas, connect different sentences, blocks, paragraphs.</p>\n<p>And with it, build my own train of thought on this topic. I can build my own topicmap and get a stance on this very important subject (sarcasm not included)</p>\n<p>Now&hellip;I can link to Amit&rsquo;s post and Robin&rsquo;s post. Or I could download a local version in Markdown and import it in my Obsidian.</p>\n<p>But why not have some sort of inclusion of Amit&rsquo;s OPML file of his post in my Obsidian outliner? And have Robin&rsquo;s posts divided per paragraph in an outliner?</p>\n<p>That way I can transclude the interesting blocks, build upon it and expand on their thinking.</p>\n<p>Even better, when I want to publish from Obsidian to my own site, it could include the relevant blocks from their post as well</p>\n<p>And even alert them with a webmention I posted something about a topic and I linked to them. So they can include my post and build upon it.</p>\n<p>Decentralized Knowledge Management!</p>\n",
+				"content_text": "So here's the thing. A lot is being said and written about this Web3 thing. A lot of people seem to know what it is. A whole lot more have no clue.\n\nI am somewhat inbetween. That's why I'm glad with posts like Amit's \"<a href=\"https://ol.amitgawande.com/2021/11/30/004427.html?title=thoughtsOnWeb3\">Thoughts on Web3</a>\" and Robin Sloan's \"<a href=\"https://society.robinsloan.com/archive/notes-on-web3/\">Notes on Web3</a>\". \n\nThey give me context, ideas, points of view I might consider exploring\n\nI like to explore this in my own environment, <a href=\"https://obsidian.md\">Obsidian</a>. \n\nIn Obsidian I can build my own web of thoughts, ideas, connect different sentences, blocks, paragraphs. \n\nAnd with it, build my own train of thought on this topic. I can build my own topicmap and get a stance on this very important subject (sarcasm not included)\n\nNow...I can link to Amit's post and Robin's post. Or I could download a local version in Markdown and import it in my Obsidian. \n\nBut why not have some sort of inclusion of Amit's OPML file of his post in my Obsidian outliner? And have Robin's posts divided per paragraph in an outliner?\n\nThat way I can transclude the interesting blocks, build upon it and expand on their thinking. \n\nEven better, when I want to publish from Obsidian to my own site, it could include the relevant blocks from their post as well\n\nAnd even alert them with a webmention I posted something about a topic and I linked to them. So they can include my post and build upon it.\n\nDecentralized Knowledge Management!\n",
+				"date_published": "2021-12-02T12:09:52+01:00",
+				"url": "https://frankmeeuwsen.com/2021/12/02/decentralized-knowledge-management.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/27/na-een-middag.html",
+				
+				"content_html": "<p>Na een middag chauffeuren voor het hockeyteam, en aanmoedigen langs de lijn zit de dag</p>\n",
+				"content_text": "Na een middag chauffeuren voor het hockeyteam, en aanmoedigen langs de lijn zit de dag\n",
+				"date_published": "2021-11-27T21:07:22+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/27/na-een-middag.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/27/het-is-weekend.html",
+				
+				"content_html": "<p>Het is weekend, het is slecht weer en ik ben te vroeg wakker. Mooi tijd om eens rustig wat RSS feeds te lezen en mijn <!-- raw HTML omitted -->wekelijkse nieuwsbrief<!-- raw HTML omitted --> voor maandag al voor te bereiden</p>\n",
+				"content_text": "Het is weekend, het is slecht weer en ik ben te vroeg wakker. Mooi tijd om eens rustig wat RSS feeds te lezen en mijn <a href=\"http://nieuws.diggingthedigital.com/\">wekelijkse nieuwsbrief</a> voor maandag al voor te bereiden\n",
+				"date_published": "2021-11-27T08:24:55+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/27/het-is-weekend.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/25/nike-in-roblox.html",
+				"title": "Nike in Roblox",
+				"content_html": "<p>Adformatie <!-- raw HTML omitted -->bericht er vandaag over<!-- raw HTML omitted -->, Nike heeft haar eigen wereld in Roblox. Dit populaire spelplatform krijgt meer en meer aandacht van merken. Opvallend is wat Nike doet om virtueel aan real life te verbinden</p>\n<p>&ldquo;Nike wil die doelgroep aansporen om meer te bewegen door ze spelletjes te laten doen op hun smartphone. De bewegings- en versnellingssensoren in een smartphone kunnen de activiteit van de gebruiker doorzetten naar Roblox. Zo kan de gebruiker in<!-- raw HTML omitted --> het echt bewegen om in Roblox verre sprongen te maken<!-- raw HTML omitted --> of te sprinten. Dit soort activiteiten kunnen voorkomen dat gamers lange tijd stil voor de computer zitten.&rdquo;</p>\n<p>Dat is nou een slimme manier om technologie in te zetten. Ik heb ook al even in Nikeland rond gelopen en ben onder de indruk van de grootte, de kwaliteit én de drukte in de wereld. Mooi!</p>\n",
+				"content_text": "Adformatie <a href=\"https://www.adformatie.nl/gedragsverandering/nike-gebruikt-populaire-game-roblox-om-bewegen-te-promoten?tid=TIDP1801000X28BB3CAB0DC649709D0385A1FD80B39CYI5&utm_campaign=ADF_NB%20Adformatie%20dag&utm_medium=email&utm_source=SMG&utm_content=1546_25%20nov%20(wk%2047)\">bericht er vandaag over</a>, Nike heeft haar eigen wereld in Roblox. Dit populaire spelplatform krijgt meer en meer aandacht van merken. Opvallend is wat Nike doet om virtueel aan real life te verbinden \n\n\"Nike wil die doelgroep aansporen om meer te bewegen door ze spelletjes te laten doen op hun smartphone. De bewegings- en versnellingssensoren in een smartphone kunnen de activiteit van de gebruiker doorzetten naar Roblox. Zo kan de gebruiker in<b> het echt bewegen om in Roblox verre sprongen te maken</b> of te sprinten. Dit soort activiteiten kunnen voorkomen dat gamers lange tijd stil voor de computer zitten.\"\n\nDat is nou een slimme manier om technologie in te zetten. Ik heb ook al even in Nikeland rond gelopen en ben onder de indruk van de grootte, de kwaliteit én de drukte in de wereld. Mooi!\n",
+				"date_published": "2021-11-25T09:27:45+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/25/nike-in-roblox.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/19/screenshot-uit-de.html",
+				
+				"content_html": "<p>Screenshot uit de editor dat voorgaande in Markdown is geschreven. <em>It just works!</em></p>\n",
+				"content_text": "Screenshot uit de editor dat voorgaande in Markdown is geschreven. _It just works!_\n",
+				"date_published": "2021-11-19T16:43:22+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/19/screenshot-uit-de.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/19/164304.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/Screenshot-Drummer-20211119164246.png\" />\n",
+				"date_published": "2021-11-19T16:43:04+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/19/164304.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/19/zo-te-zien.html",
+				
+				"content_html": "<p>Zo te zien is Dave bezig om <a href=\"https://github.com/scripting/drummerRFC/issues/14\">Markdown support</a> toe te voegen aan Drummer en Old School. <em>Samen</em> met de community zoeken ze uit  wat de beste manier is. Dat is altijd de beste manier.</p>\n",
+				"content_text": "Zo te zien is Dave bezig om [Markdown support](https://github.com/scripting/drummerRFC/issues/14) toe te voegen aan Drummer en Old School. _Samen_ met de community zoeken ze uit  wat de beste manier is. Dat is altijd de beste manier. \n",
+				"date_published": "2021-11-19T16:40:59+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/19/zo-te-zien.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/14/an-update-to.html",
+				"title": "An update to the Drummer to WordPress script",
+				"content_html": "<p>A few weeks ago <!-- raw HTML omitted -->I published a Drumkit script<!-- raw HTML omitted --> that lets you publish your post from Drummer to WordPress. It works fine, but I had one small bug I needed to fix and one nice-to-have for myself. I can say I fixed both!</p>\n<p>First, in the original Drumkit script I have a few lines with HTML in it. When you have an (inline) image in your post, you want it to show properly on your WordPress blog. So I surrounded it with the basic tags for an image. Unfortunately Drummer, where the script lives, mangles this HTML every now and again. It tries to render the HTML when you open the script and it adds a few characters. It was all kind of weird. An to be honest, using HTML in a script like this never felt good to me.</p>\n<p>So when I read about <!-- raw HTML omitted -->Dave&rsquo;s plans<!-- raw HTML omitted --> to include Markdown support an idea hit me. My WordPress blog supports Markdown as well. So why not send the blogpost as Markdown and let WordPress figure it all out? So that&rsquo;s what I did, especially with the images. Instead of using HTML in the script, I surround the image with the Markdown equivalent.</p>\n<p>Since I don&rsquo;t pay enough attention to filenames, they sometimes can have spaces in them. I had to replace these with <code>%20</code> so my Markdown processor in WordPress will not choke on it. Thank you for <!-- raw HTML omitted -->multipleReplaceAll<!-- raw HTML omitted --> in the Drumkit scripting language.</p>\n<p>The second thing I wanted is to add a link back from the WordPress post to my Oldschool blog. I had some great help from Dave and Amit to figure out how to build the URL to my post. <!-- raw HTML omitted -->This script from Amit<!-- raw HTML omitted --> was all I needed. It just worked. I added the script to mine, build a small link back to the original blogpost and I can publish it.</p>\n<p><!-- raw HTML omitted -->Here is my new script<!-- raw HTML omitted --> to publish from Drummer to WordPress, using Markdown and have a link back to the original!</p>\n<p><!-- raw HTML omitted -->Update<!-- raw HTML omitted -->: Here&rsquo;s <!-- raw HTML omitted -->the same post on my WordPress blog<!-- raw HTML omitted -->. Isn&rsquo;t it great how the web works?</p>\n",
+				"content_text": "A few weeks ago <a href=\"http://oldschool.scripting.com/frankmeeuwsen/2021/10/23/065437.html?title=publishToWordpressWithDrummer\">I published a Drumkit script</a> that lets you publish your post from Drummer to WordPress. It works fine, but I had one small bug I needed to fix and one nice-to-have for myself. I can say I fixed both!\n\nFirst, in the original Drumkit script I have a few lines with HTML in it. When you have an (inline) image in your post, you want it to show properly on your WordPress blog. So I surrounded it with the basic tags for an image. Unfortunately Drummer, where the script lives, mangles this HTML every now and again. It tries to render the HTML when you open the script and it adds a few characters. It was all kind of weird. An to be honest, using HTML in a script like this never felt good to me.\n\nSo when I read about <a href=\"http://scripting.com/drummer/blog/2021/11/13/163211.html?title=markdownAsAnInterchangeFormat\">Dave's plans</a> to include Markdown support an idea hit me. My WordPress blog supports Markdown as well. So why not send the blogpost as Markdown and let WordPress figure it all out? So that's what I did, especially with the images. Instead of using HTML in the script, I surround the image with the Markdown equivalent. \n\nSince I don't pay enough attention to filenames, they sometimes can have spaces in them. I had to replace these with `%20` so my Markdown processor in WordPress will not choke on it. Thank you for <a href=\"http://docserver.scripting.com/?verb=string.multipleReplaceAll\">multipleReplaceAll</a> in the Drumkit scripting language.\n\nThe second thing I wanted is to add a link back from the WordPress post to my Oldschool blog. I had some great help from Dave and Amit to figure out how to build the URL to my post. <a href=\"https://www.amitgawande.com/2021/10/23/getting-post-url.html\">This script from Amit</a> was all I needed. It just worked. I added the script to mine, build a small link back to the original blogpost and I can publish it. \n\n<a href=\"https://gist.github.com/frankmeeuwsen/4d6d514539661d660285497eff53557d\">Here is my new script</a> to publish from Drummer to WordPress, using Markdown and have a link back to the original! \n\n<b>Update</b>: Here's <a href=\"https://diggingthedigital.com/an-update-to-the-drummer-to-wordpress-script/\">the same post on my WordPress blog</a>. Isn't it great how the web works?\n",
+				"date_published": "2021-11-14T11:47:29+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/14/an-update-to.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/13/since-i-am.html",
+				"title": "Since I am part of the Oldschool Drummer Reading List...",
+				"content_html": "<p>Maybe someone from the community can help me out as well with this strange timezone/hour offset problem I have with Drummer and/or Oldschool. <!-- raw HTML omitted -->The full explanation is on Github<!-- raw HTML omitted -->. With screenshots and test scripts.</p>\n<p>Bottomline: Hours jump from the correct time to one hour behind. And I can&rsquo;t understand why.</p>\n<p>But then again, I&rsquo;m more of a <!-- raw HTML omitted -->poet than a plumber<!-- raw HTML omitted -->&hellip;</p>\n",
+				"content_text": "Maybe someone from the community can help me out as well with this strange timezone/hour offset problem I have with Drummer and/or Oldschool. <a href=\"http://oldschooldrummers.andysylvester.com/\">The full explanation is on Github</a>. With screenshots and test scripts. \n\nBottomline: Hours jump from the correct time to one hour behind. And I can't understand why.\n\nBut then again, I'm more of a <a href=\"http://scripting.com/2021/11/06/160253.html?title=poetsAndPlumbers\">poet than a plumber</a>...\n",
+				"date_published": "2021-11-13T19:38:09+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/13/since-i-am.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/13/heres-another-post.html",
+				"title": "Here's another post to explain the problem",
+				"content_html": "<p>With a title and a text!</p>\n",
+				"content_text": "With a title and a text!\n",
+				"date_published": "2021-11-13T19:05:09+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/13/heres-another-post.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/13/here-is-a.html",
+				"title": "Here is a post with a title",
+				"content_html": "<p>To see if we can debug this thing!</p>\n",
+				"content_text": "To see if we can debug this thing!\n",
+				"date_published": "2021-11-13T09:28:44+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/13/here-is-a.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/13/today-is-aaron.html",
+				
+				"content_html": "<p>Today is Aaron Swartz&rsquo; Day. A time to remember <!-- raw HTML omitted -->the Internet&rsquo;s Own Boy<!-- raw HTML omitted -->!</p>\n",
+				"content_text": "Today is Aaron Swartz' Day. A time to remember <a href=\"https://archive.org/details/TheInternetsOwnBoyTheStoryOfAaronSwartz\">the Internet's Own Boy</a>!\n",
+				"date_published": "2021-11-13T08:01:34+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/13/today-is-aaron.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/13/ook-nog-iets.html",
+				
+				"content_html": "<p>Ook nog iets wat ik misschien dit weekend kan bouwen. Binnen mijn Drummer-WordPress koppeling <!-- raw HTML omitted -->een link terug sturen<!-- raw HTML omitted --> vanaf mijn WordPress blog naar Drummer.</p>\n",
+				"content_text": "Ook nog iets wat ik misschien dit weekend kan bouwen. Binnen mijn Drummer-WordPress koppeling <a href=\"https://github.com/scripting/drummerSupport/issues/108\">een link terug sturen</a> vanaf mijn WordPress blog naar Drummer.\n",
+				"date_published": "2021-11-13T07:39:05+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/13/ook-nog-iets.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/13/het-is-de.html",
+				
+				"content_html": "<p>Het is de vraag hoelang dit blijft werken. Want bij Revue zijn ze ook niet gek. Die zullen het niet tof vinden om als doorvoerluik te worden gebruikt.</p>\n",
+				"content_text": "Het is de vraag hoelang dit blijft werken. Want bij Revue zijn ze ook niet gek. Die zullen het niet tof vinden om als doorvoerluik te worden gebruikt. \n",
+				"date_published": "2021-11-13T07:37:23+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/13/het-is-de.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/13/het-zou-toch.html",
+				
+				"content_html": "<p>Het zou toch mooi zijn als het allemaal eenvoudiger kon.</p>\n",
+				"content_text": "Het zou toch mooi zijn als het allemaal eenvoudiger kon. \n",
+				"date_published": "2021-11-13T07:36:51+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/13/het-zou-toch.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/13/dus-heb-ik.html",
+				
+				"content_html": "<p>Dus heb ik via Zapier een koppeling gemaakt waarbij nieuwe Revue abonnees worden doorgesluisd naar mijn Mailerlite database.</p>\n",
+				"content_text": "Dus heb ik via Zapier een koppeling gemaakt waarbij nieuwe Revue abonnees worden doorgesluisd naar mijn Mailerlite database.\n",
+				"date_published": "2021-11-13T07:36:20+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/13/dus-heb-ik.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/13/alleen-ik-gebruik.html",
+				
+				"content_html": "<p>Alleen, ik gebruik Newsletter Glue op mijn eigen WordPress blog. Nieuwsbrieven worden via Mailerlite verstuurd.</p>\n",
+				"content_text": "Alleen, ik gebruik Newsletter Glue op mijn eigen WordPress blog. Nieuwsbrieven worden via Mailerlite verstuurd. \n",
+				"date_published": "2021-11-13T07:35:59+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/13/alleen-ik-gebruik.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/13/omdat-revue-nu.html",
+				
+				"content_html": "<p>Omdat Revue nu onderdeel is van Twitter, kun je eenvoudig abonnees aan een Revue nieuwsbrief koppelen</p>\n",
+				"content_text": "Omdat Revue nu onderdeel is van Twitter, kun je eenvoudig abonnees aan een Revue nieuwsbrief koppelen\n",
+				"date_published": "2021-11-13T07:35:21+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/13/omdat-revue-nu.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/13/een-dag-die.html",
+				
+				"content_html": "<p>Een dag die rustig begint. In stilte, terwijl de rest van het gezin nog slaapt. Het eerste wat ik eens heb gedaan is <!-- raw HTML omitted -->de mogelijkheid open gezet<!-- raw HTML omitted --> om direct via Twitter op mijn nieuwsbrief te abonneren.</p>\n",
+				"content_text": "Een dag die rustig begint. In stilte, terwijl de rest van het gezin nog slaapt. Het eerste wat ik eens heb gedaan is <a href=\"https://twitter.com/frankmeeuwsen/status/1459403381378895872\">de mogelijkheid open gezet</a> om direct via Twitter op mijn nieuwsbrief te abonneren.\n",
+				"date_published": "2021-11-13T07:34:01+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/13/een-dag-die.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/11/volgens-mij-is.html",
+				
+				"content_html": "<p>Volgens mij is het inmiddels al 3 maanden geleden dat ik helemaal alleen thuis was. MIjn lief is naar kantoor, kinderen op school. En ik zit in een leeg huis. Dat is echt heel lekker zo nu en dan.</p>\n",
+				"content_text": "Volgens mij is het inmiddels al 3 maanden geleden dat ik helemaal alleen thuis was. MIjn lief is naar kantoor, kinderen op school. En ik zit in een leeg huis. Dat is echt heel lekker zo nu en dan. \n",
+				"date_published": "2021-11-11T09:16:00+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/11/volgens-mij-is.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/10/waarom-kost-werken.html",
+				
+				"content_html": "<p>Waarom kost werken in het CMS van klanten altijd meer tijd dan je vooraf denkt dat het zou zijn&hellip; De hele ochtend al bezig om pagina&rsquo;s voor een komende campagne in orde te maken. Wat klonk als &ldquo;een paar afbeeldingen&rdquo; aanpassen is inmiddels Photoshop, nieuwe beelden zoeken, andere crops maken, tweetaligheid en teruglinks van artikelen naar andere artikelen om het spinnenweb van de campagne in stand te houden. In twee talen.</p>\n",
+				"content_text": "Waarom kost werken in het CMS van klanten altijd meer tijd dan je vooraf denkt dat het zou zijn... De hele ochtend al bezig om pagina's voor een komende campagne in orde te maken. Wat klonk als \"een paar afbeeldingen\" aanpassen is inmiddels Photoshop, nieuwe beelden zoeken, andere crops maken, tweetaligheid en teruglinks van artikelen naar andere artikelen om het spinnenweb van de campagne in stand te houden. In twee talen. \n",
+				"date_published": "2021-11-10T14:08:13+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/10/waarom-kost-werken.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/10/auto.html",
+				"title": "Auto",
+				"content_html": "<p>Onze oude Volvo moest voor de jaarlijkse onderhoudsbeurt naar de garage. Ik krijg zojuist de diagnose wat er aan moet gebeuren en de kans is groot dat dit het laatste jaar is met een auto. De kosten zijn echt gigantisch, naast belasting en parkeervergunning. Dat is het voor ons niet meer waard.</p>\n<p>Maar nu nog uitzoeken of het slim is de auto nu te verkopen of toch nog wat te repareren en dan te verkopen&hellip;</p>\n",
+				"content_text": "Onze oude Volvo moest voor de jaarlijkse onderhoudsbeurt naar de garage. Ik krijg zojuist de diagnose wat er aan moet gebeuren en de kans is groot dat dit het laatste jaar is met een auto. De kosten zijn echt gigantisch, naast belasting en parkeervergunning. Dat is het voor ons niet meer waard.\n\nMaar nu nog uitzoeken of het slim is de auto nu te verkopen of toch nog wat te repareren en dan te verkopen...\n",
+				"date_published": "2021-11-10T12:46:34+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/10/auto.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/09/oude-notitieboeken.html",
+				"title": "Oude notitieboeken",
+				"content_html": "<p>Tijdens mijn lunch lees ik wat oudere blogposts in mijn feedreader. <!-- raw HTML omitted -->Het verhaal van Alex over zijn oude notitieboeken<!-- raw HTML omitted --> raakt een snaar bij me. Het is heel herkenbaar. Ik heb eveneens een stapel oude notitieboeken die ik op werk heb gebruikt. Zoals Alex het mooi zegt.</p>\n<p>&ldquo;The bulk of entries are transient, stuff that needed to be done that week, meetings about it, updates, which whilst important at the time, the information tends to become meaningless over time. However, within it are useful items - what did I accomplish, updates and records of long running projects, and good reference information that I&rsquo;ve captured. It is this information that I&rsquo;m wondering about.&rdquo;</p>\n<p>Ik ken dit gevoel. Steeds als ik de stapel notitieboeken zie denk ik, &ldquo;ik moet er nog eens door bladeren en zien of er iets van waarde in staat wat ik nog kan hergebruiken&rdquo;</p>\n<!-- raw HTML omitted -->\n<p>Zie hier een deel van de notitieboeken die op mijn bureau liggen. Ik mis de gewoonte van Alex om elke dag te schrijven wat hij die dag heeft gedaan op werkgebied. Ik schrijf wel uren, maar omschrijf het te weinig voor mezelf. Het zou me al snel de Weekly Notes kunnen geven die veel andere bloggers hebben.</p>\n<p>En misschien moet ik maar hetzelfde doen als Alex. Het van me afzetten en de notitieboeken bij het oud papier doen. Dan is het uit mijn systeem.</p>\n",
+				"content_text": "Tijdens mijn lunch lees ik wat oudere blogposts in mijn feedreader. <a href=\"https://alexjj.com/2021/11/04/115353.html?title=theLongevityOfPhysicalNotebooksAndTheirContent\">Het verhaal van Alex over zijn oude notitieboeken</a> raakt een snaar bij me. Het is heel herkenbaar. Ik heb eveneens een stapel oude notitieboeken die ik op werk heb gebruikt. Zoals Alex het mooi zegt.\n\n\"The bulk of entries are transient, stuff that needed to be done that week, meetings about it, updates, which whilst important at the time, the information tends to become meaningless over time. However, within it are useful items - what did I accomplish, updates and records of long running projects, and good reference information that I've captured. It is this information that I'm wondering about.\"\n\nIk ken dit gevoel. Steeds als ik de stapel notitieboeken zie denk ik, \"ik moet er nog eens door bladeren en zien of er iets van waarde in staat wat ik nog kan hergebruiken\"\n\n\n\n<img src=\"https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/IMG_0777.JPG\" />\n\nZie hier een deel van de notitieboeken die op mijn bureau liggen. Ik mis de gewoonte van Alex om elke dag te schrijven wat hij die dag heeft gedaan op werkgebied. Ik schrijf wel uren, maar omschrijf het te weinig voor mezelf. Het zou me al snel de Weekly Notes kunnen geven die veel andere bloggers hebben. \n\nEn misschien moet ik maar hetzelfde doen als Alex. Het van me afzetten en de notitieboeken bij het oud papier doen. Dan is het uit mijn systeem.\n",
+				"date_published": "2021-11-09T12:30:21+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/09/oude-notitieboeken.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/09/energiemarkt.html",
+				"title": "Energiemarkt ",
+				"content_html": "<p>Wat me deze dagen nog wel het meeste bezighoudt zijn de gewijzigde gas en stroomprijzen. Door een gedwongen overstap van Welkom Energie naar Eneco ben ik in 48 uur bijgelezen wat een ellende die energiemarkt is. Ons maandvoorschot is met 160 euro gestegen, meer dan 100% stijging.</p>\n<p>We zijn hopelijk nog op tijd overgestapt van Eneco naar een andere leverancier, Oxxio. Een submerk onder Eneco maar wel met iets vriendelijker prijzen. Nu nog maar een prijsstijging van 60 euro per maand.</p>\n<p>Het zijn van die zaken waar ik eigenlijk niet over na wil denken of mee bezig wil zijn. Ik heb al genoeg te doen</p>\n",
+				"content_text": "Wat me deze dagen nog wel het meeste bezighoudt zijn de gewijzigde gas en stroomprijzen. Door een gedwongen overstap van Welkom Energie naar Eneco ben ik in 48 uur bijgelezen wat een ellende die energiemarkt is. Ons maandvoorschot is met 160 euro gestegen, meer dan 100% stijging.\n\nWe zijn hopelijk nog op tijd overgestapt van Eneco naar een andere leverancier, Oxxio. Een submerk onder Eneco maar wel met iets vriendelijker prijzen. Nu nog maar een prijsstijging van 60 euro per maand. \n\nHet zijn van die zaken waar ik eigenlijk niet over na wil denken of mee bezig wil zijn. Ik heb al genoeg te doen\n",
+				"date_published": "2021-11-09T11:16:45+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/09/energiemarkt.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/11/09/als-het-werk.html",
+				
+				"content_html": "<p>Als het werk weer toeneemt, neemt het losjes schrijven af. Dat merk ik wel weer. Terwijl er genoeg in mijn hoofd rondspeelt om eens op te schrijven. Snel weer de tijd voor nemen.</p>\n",
+				"content_text": "Als het werk weer toeneemt, neemt het losjes schrijven af. Dat merk ik wel weer. Terwijl er genoeg in mijn hoofd rondspeelt om eens op te schrijven. Snel weer de tijd voor nemen. \n",
+				"date_published": "2021-11-09T11:13:45+01:00",
+				"url": "https://frankmeeuwsen.com/2021/11/09/als-het-werk.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/29/happy-birthday-internet.html",
+				"title": "Happy Birthday Internet!",
+				"content_html": "<p>At 10:30 p.m., 29 October 1969, the first ARPANET message was sent from this UCLA site to the Stanford Research Institute. Based on packet switching and dynamic resource allocation, the sharing of information digitally from this first node of ARPANET launched the Internet revolution.(<!-- raw HTML omitted -->Source<!-- raw HTML omitted -->)</p>\n<p>That first message? &ldquo;Lo&rdquo;. They <!-- raw HTML omitted -->tried<!-- raw HTML omitted --> to send &ldquo;Login&rdquo;, but the computer crashed.</p>\n<p>But, happy birthday internet!</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "At 10:30 p.m., 29 October 1969, the first ARPANET message was sent from this UCLA site to the Stanford Research Institute. Based on packet switching and dynamic resource allocation, the sharing of information digitally from this first node of ARPANET launched the Internet revolution.(<a href=\"https://ethw.org/Milestones:Birthplace_of_the_Internet,_1969\">Source</a>)\n\nThat first message? \"Lo\". They <a href=\"https://www.nsf.gov/news/special_reports/nsf-net/textonly/60s.jsp\">tried</a> to send \"Login\", but the computer crashed. \n\nBut, happy birthday internet!\n\n\n\n<img src=\"https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/The Internet is amazing.jpg\" />\n",
+				"date_published": "2021-10-29T15:25:05+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/29/happy-birthday-internet.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/26/not-lost-on.html",
+				"title": "Not lost on Lost",
+				"content_html": "<p>I&rsquo;m re-watching the great TV show Lost, which originally aired from 2004 - 2010. It&rsquo;s currently on Disney+ and I always loved this show. Yes, it has it&rsquo;s weird seasons but I persevered. It is great to see these old characters back in action, I love how I can read up on sites like <!-- raw HTML omitted -->Lostpedia<!-- raw HTML omitted -->. But even better is to rewatch some of the weirdest episodes. Like <!-- raw HTML omitted -->S3:E14 Exposé<!-- raw HTML omitted -->, with the backstory of two seemingly random characters, Nikki and Paolo.</p>\n<p>I couldn&rsquo;t quite recall this episode but I love to read back <!-- raw HTML omitted -->old blogposts<!-- raw HTML omitted --> (even <!-- raw HTML omitted -->essays<!-- raw HTML omitted -->) on how this episode didn&rsquo;t really fit in. Except it did. I loved it. It shows how the makers played with us fans through the years. They experimented, they found new alleys to tell a story again.</p>\n<p>This episode gave a few of the greatest lines in Lost history. Thanks to Sawyer, Nikki and of course Arzt, who gets a bigger part then how we originally met him.</p>\n<!-- raw HTML omitted -->\n<!-- raw HTML omitted -->\n<p>You understand from all this, yes, I am still a big fan of Lost. Even after all those years.</p>\n",
+				"content_text": "I'm re-watching the great TV show Lost, which originally aired from 2004 - 2010. It's currently on Disney+ and I always loved this show. Yes, it has it's weird seasons but I persevered. It is great to see these old characters back in action, I love how I can read up on sites like <a href=\"https://lostpedia.fandom.com\">Lostpedia</a>. But even better is to rewatch some of the weirdest episodes. Like <a href=\"https://lostpedia.fandom.com/wiki/Expos%C3%A9\">S3:E14 Exposé</a>, with the backstory of two seemingly random characters, Nikki and Paolo. \n\nI couldn't quite recall this episode but I love to read back <a href=\"https://www.avclub.com/lost-classic-expose-1798184272\">old blogposts</a> (even <a href=\"https://cultural-learnings.com/category/lost/\">essays</a>) on how this episode didn't really fit in. Except it did. I loved it. It shows how the makers played with us fans through the years. They experimented, they found new alleys to tell a story again. \n\nThis episode gave a few of the greatest lines in Lost history. Thanks to Sawyer, Nikki and of course Arzt, who gets a bigger part then how we originally met him. \n\n\n\n<img src=\"https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/Nikki20211026230307.png\" />\n\n\n\n<img src=\"https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/Arzt20211026230503.png\" />\n\nYou understand from all this, yes, I am still a big fan of Lost. Even after all those years.\n",
+				"date_published": "2021-10-26T21:53:43+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/26/not-lost-on.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/26/backup-van-drummer.html",
+				"title": "Backup van Drummer files",
+				"content_html": "<p>Het is allemaal marginaal, maar toch fijn dat het kan. Dankzij <!-- raw HTML omitted -->een eenvoudig script<!-- raw HTML omitted --> heb ik nu de backup en remote opslag van relevante Drummer files geautomatiseerd. Elke paar uur haalt mijn laptop automatisch de OPML bestanden op en plaatst ze in een Github repo. Het zijn van die kleine handelingen die je computer sneller en beter kan doen dan jij zelf. En met wat ontdekkingsdrift heb je er vaak geen uitgebreide backup apps voor nodig. Alleen een script van een paar regels.</p>\n",
+				"content_text": "Het is allemaal marginaal, maar toch fijn dat het kan. Dankzij <a href=\"https://alexjj.com/2021/10/20/092941.html?title=drummerBlogBackups\">een eenvoudig script</a> heb ik nu de backup en remote opslag van relevante Drummer files geautomatiseerd. Elke paar uur haalt mijn laptop automatisch de OPML bestanden op en plaatst ze in een Github repo. Het zijn van die kleine handelingen die je computer sneller en beter kan doen dan jij zelf. En met wat ontdekkingsdrift heb je er vaak geen uitgebreide backup apps voor nodig. Alleen een script van een paar regels.\n",
+				"date_published": "2021-10-26T20:23:26+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/26/backup-van-drummer.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/26/194757.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/The Internet is amazing.jpg\" />\n",
+				"date_published": "2021-10-26T19:47:57+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/26/194757.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/26/give-the-drummer.html",
+				"title": "Give the drummer some",
+				"content_html": "<p>If you&rsquo;re wondering why I named this blog the way it&rsquo;s named. The first I thought of when I heard the name of the service was this old song by Ultramagnetic MC&rsquo;s</p>\n<p>Listen to the song and perhaps you&rsquo;ll hear a line that has been sampled by the Prodigy, years and years later&hellip;</p>\n",
+				"content_text": "If you're wondering why I named this blog the way it's named. The first I thought of when I heard the name of the service was this old song by Ultramagnetic MC's\n\nListen to the song and perhaps you'll hear a line that has been sampled by the Prodigy, years and years later...\n",
+				"date_published": "2021-10-26T15:16:12+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/26/give-the-drummer.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/26/markdown-to-opml.html",
+				"title": "Markdown to OPML",
+				"content_html": "<p>Am I figuring out how to convert Markdown files from eg. Obsidian to OPML so I could import them in Drummer?</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Am I figuring out how to convert Markdown files from eg. Obsidian to OPML so I could import them in Drummer? \n\n\n\n<img src=\"https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/Maaaayyyyybe.gif\" />\n",
+				"date_published": "2021-10-26T15:10:35+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/26/markdown-to-opml.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/24/meer-fans-van.html",
+				"title": "Meer fans van Obsidian",
+				"content_html": "<p>Sinds ik afscheid nam van Evernote heb ik een paar andere tools geprobeerd om mijn notities, aantekeningen en losse gedachten bij te houden. Roam en Notion sprongen het meest in het oog. Maar inmiddels ben ik al lange tijd groot fan van Obsidian.</p>\n<p>De grote voordelen voor mij zijn dat het lokaal draait en vooral tekst is. Natuurlijk is Notion of Craft fantastisch om eigen systemen mee in elkaar te klikken. Als zoiets lokaal zou draaien, met eigen backup mogelijkheden, dan zou ik het direct kopen en installeren.</p>\n<p>Obsidian is voor mij een heel handig kladblok en archief tegelijk. Ik kan snel een outline maken voor een nieuwsbrief. Ik hou er aantekeningen van gesprekken in bij. Ik verbind losse artikelen aan elkaar door middel van backlinks. Zo bouw ik een offline en privé Frankopedia op.</p>\n<p>Waar ik uiteindelijk wil eindigen is een systeem dat naadloos aansluit bij mijn online aanwezigheid. Ik kies wat ik wil publiceren en als mogelijk is er een constante koppeling tussen Obsidian en mijn site.</p>\n<p>Ik ben blij dat ik mensen als Martijn Aslander en Joost Plattel in mijn netwerk heb. Martijn kan als geen ander <!-- raw HTML omitted -->enthousiast uitleggen<!-- raw HTML omitted --> waarom tools als Obsidian zo relevant zijn in de huidige kennis-samenleving. Joost draagt bij aan de community met een <!-- raw HTML omitted -->Obsidian plugin<!-- raw HTML omitted --> waarmee je je eigen verzameling slim kunt ontsluiten.</p>\n<p>Op 20 november is <!-- raw HTML omitted -->de derde NL Obsidian Meetup.<!-- raw HTML omitted --> Virtueel natuurlijk. Schuif aan!</p>\n",
+				"content_text": "Sinds ik afscheid nam van Evernote heb ik een paar andere tools geprobeerd om mijn notities, aantekeningen en losse gedachten bij te houden. Roam en Notion sprongen het meest in het oog. Maar inmiddels ben ik al lange tijd groot fan van Obsidian. \n\nDe grote voordelen voor mij zijn dat het lokaal draait en vooral tekst is. Natuurlijk is Notion of Craft fantastisch om eigen systemen mee in elkaar te klikken. Als zoiets lokaal zou draaien, met eigen backup mogelijkheden, dan zou ik het direct kopen en installeren. \n\nObsidian is voor mij een heel handig kladblok en archief tegelijk. Ik kan snel een outline maken voor een nieuwsbrief. Ik hou er aantekeningen van gesprekken in bij. Ik verbind losse artikelen aan elkaar door middel van backlinks. Zo bouw ik een offline en privé Frankopedia op. \n\nWaar ik uiteindelijk wil eindigen is een systeem dat naadloos aansluit bij mijn online aanwezigheid. Ik kies wat ik wil publiceren en als mogelijk is er een constante koppeling tussen Obsidian en mijn site. \n\nIk ben blij dat ik mensen als Martijn Aslander en Joost Plattel in mijn netwerk heb. Martijn kan als geen ander <a href=\"https://world.hey.com/martijnaslander/obsidian-een-paar-weken-na-de-eerste-start-6fea790e\">enthousiast uitleggen</a> waarom tools als Obsidian zo relevant zijn in de huidige kennis-samenleving. Joost draagt bij aan de community met een <a href=\"https://jplattel.nl/post/2021-01-28-obsidian-query-plugin-published/\">Obsidian plugin</a> waarmee je je eigen verzameling slim kunt ontsluiten. \n\nOp 20 november is <a href=\"https://www.zylstra.org/blog/2021/10/3e-nederlandstalige-obsidian-meet-up/\">de derde NL Obsidian Meetup.</a> Virtueel natuurlijk. Schuif aan!\n",
+				"date_published": "2021-10-24T10:06:17+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/24/meer-fans-van.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/23/great-script-by.html",
+				
+				"content_html": "<p>Great <!-- raw HTML omitted -->script by Amit<!-- raw HTML omitted --> to get the post URL of earlier articles. The date-part in his script inspires me to construct a proper date for my WordPress publishing. We&rsquo;re all building together here.</p>\n",
+				"content_text": "Great <a href=\"https://www.amitgawande.com/2021/10/23/getting-post-url.html\">script by Amit</a> to get the post URL of earlier articles. The date-part in his script inspires me to construct a proper date for my WordPress publishing. We're all building together here. \n",
+				"date_published": "2021-10-23T21:48:04+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/23/great-script-by.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/23/how-should-i.html",
+				
+				"content_html": "<p>How should I call the script? WordPress <!-- raw HTML omitted -->has a history<!-- raw HTML omitted --> of naming their releases after famous jazz musicians. Since we are on the Drummer here. I feel there has to be some sort of jazz-related connection in the name of the script.</p>\n",
+				"content_text": "How should I call the script? WordPress <a href=\"https://wordpress.org/about/history/\">has a history</a> of naming their releases after famous jazz musicians. Since we are on the Drummer here. I feel there has to be some sort of jazz-related connection in the name of the script.\n",
+				"date_published": "2021-10-23T11:24:09+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/23/how-should-i.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/23/i-added-a.html",
+				
+				"content_html": "<p>I added a few more items to <!-- raw HTML omitted -->my improvised DrummerWP-backlog<!-- raw HTML omitted -->. It&rsquo;s great to write a script. It&rsquo;s another thing to publish it and see what can be improved. I also started <!-- raw HTML omitted -->a thread<!-- raw HTML omitted --> on the Drummer RFC. Feel free to discuss and bring your ideas to the table.</p>\n",
+				"content_text": "I added a few more items to <a href=\"http://oldschool.scripting.com/frankmeeuwsen/2021/10/23/065437.html?title=publishToWordpressWithDrummer#a070603\">my improvised DrummerWP-backlog</a>. It's great to write a script. It's another thing to publish it and see what can be improved. I also started <a href=\"https://github.com/scripting/drummerRFC/issues/1\">a thread</a> on the Drummer RFC. Feel free to discuss and bring your ideas to the table. \n",
+				"date_published": "2021-10-23T11:21:27+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/23/i-added-a.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/23/i-have-to.html",
+				
+				"content_html": "<p>I have to be honest, it&rsquo;s great to see this script <!-- raw HTML omitted -->used in the wild<!-- raw HTML omitted --> only an hour or so after publishing. Thanks for the support John!</p>\n",
+				"content_text": "I have to be honest, it's great to see this script <a href=\"https://johnjohnston.info/blog/drummer-to-wordpress/\">used in the wild</a> only an hour or so after publishing. Thanks for the support John! \n",
+				"date_published": "2021-10-23T11:17:09+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/23/i-have-to.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/23/publish-to-wordpress.html",
+				"title": "Publish to WordPress with Drummer",
+				"content_html": "<p>Why not crosspost to your WordPress blog with your Drummer CMS? When you publish a new thought on your Drummer blog, you can also post it on WordPress? I think I have a first version of a script in Drummer that makes this possible. It makes use of the <!-- raw HTML omitted -->global root object<!-- raw HTML omitted --> to store sensitive data of your WordPress installation, like the endpoint and an authorization password.</p>\n<p>Here is <!-- raw HTML omitted -->a short video<!-- raw HTML omitted --> how the script works (for some reason the embedded version doesn&rsquo;t work. Probably some https-hoopla).</p>\n<p><!-- raw HTML omitted -->Update nov 25th<!-- raw HTML omitted -->: Check out <!-- raw HTML omitted -->my follow-up post<!-- raw HTML omitted --> with slight improvements to the original script!</p>\n<p><!-- raw HTML omitted -->Caveat<!-- raw HTML omitted -->: I am not a programmer, the loop I wrote is pretty crude and could be done more efficient and nicer I think.</p>\n<p>So first in Drummer, you need to open your root-file through File &gt; Special Files</p>\n<!-- raw HTML omitted -->\n<p>Create a data-object called env and add your endpoint and WordPress Application Password in the format <!-- raw HTML omitted -->user:password<!-- raw HTML omitted -->.</p>\n<p>Add <!-- raw HTML omitted -->this script<!-- raw HTML omitted --> to your Scripts menu and name it whatever you like. You could comment out line  42 (xhr.send(JSON.stringify(data));) to play around with the script first and see what it does.</p>\n<p>First, the script checks if you&rsquo;re on the headline where the title of your post goes. If the cursor is on the right place, it takes all the children of this node and loops over them. If it&rsquo;s not, you&rsquo;ll get a warning and loop out of the script.</p>\n<p>The loop also checks if there is an image or inlineImage present in the attributes.</p>\n<p>Next I build the data-object I want to send to my WordPress endpoint.</p>\n<p>I set up an XMLHttp request. Again, many roads lead to the same result. This is just an example I found online and re-used it.</p>\n<p>When the call to WordPress is successful, I use the response from WordPress to open the new post in Draft mode in a new tab. I could also open it in the editor, whatever your choice is.</p>\n<p>I also add an attribute to the headline with the WordPress id. This might come in handy later for updates or any other connection between Drummer and WordPress.</p>\n<p>This is all very much work in progress. A lot of stuff is not ironed out yet. Again, I am not a programmer. I just Stack-Overflow my way around here&hellip;What needs to be done:</p>\n<p>I only go one level deep to get all the text. I need some sort of recursion when I walk through the outline to get all the text.</p>\n<p>In the loop to create the text, I check for image and inlineImage in two separate if&rsquo;s. I feel this can be done more gentle.</p>\n<p>I don&rsquo;t check for other attributes like urlVideo or enclosure.</p>\n<p>I&rsquo;d love to add the publish date from Drummer as the date in WordPress as well. But dates in Javascript are not my cup of tea.</p>\n<p>I post everything in one category. It would be nice to choose a category before publishing.</p>\n<p>No tags. Yet.</p>\n<p>I post everything in Draft first. It could toggle between draft and publish immediately. Use the OPML attributes for the headline to do this.</p>\n<p>When you secure your WordPress installation and disable the REST API for unauthorized visitors, the script doesn&rsquo;t work. Need to figure this out.</p>\n<p>This script only works when your Drummer post has a title. A micropost gives an error.</p>\n<p>No real error-handling. The browser console is your friend, as is console.log.</p>\n<p>So there you have it. This is the first version of my Drummer to WordPress script. Let me know what you think and especially what should be improved!</p>\n<p>Yes, this post is also published (and slightly editted) on my <!-- raw HTML omitted -->WordPress blog<!-- raw HTML omitted -->!</p>\n",
+				"content_text": "Why not crosspost to your WordPress blog with your Drummer CMS? When you publish a new thought on your Drummer blog, you can also post it on WordPress? I think I have a first version of a script in Drummer that makes this possible. It makes use of the <a href=\"http://docserver.scripting.com/drummer/scripting.opml#1629216924000\">global root object</a> to store sensitive data of your WordPress installation, like the endpoint and an authorization password. \n\nHere is <a href=\"https://youtu.be/_QTwmc_i8nQ\">a short video</a> how the script works (for some reason the embedded version doesn't work. Probably some https-hoopla).\n\n<b>Update nov 25th</b>: Check out <a href=\"http://oldschool.scripting.com/frankmeeuwsen/2021/11/14/104729.html?title=anUpdateToTheDrummerToWordpressScript\">my follow-up post</a> with slight improvements to the original script!\n\n<b>Caveat</b>: I am not a programmer, the loop I wrote is pretty crude and could be done more efficient and nicer I think. \n\nSo first in Drummer, you need to open your root-file through File > Special Files \n\n\n\n<img src=\"https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/Screenshot-Drummer-20211023091151.png\" />\n\nCreate a data-object called env and add your endpoint and WordPress Application Password in the format <i>user:password</i>.\n\nAdd <a href=\"https://gist.github.com/frankmeeuwsen/840ad9415446b389b2a431afeb0dad37\">this script</a> to your Scripts menu and name it whatever you like. You could comment out line  42 (xhr.send(JSON.stringify(data));) to play around with the script first and see what it does.\n\nFirst, the script checks if you're on the headline where the title of your post goes. If the cursor is on the right place, it takes all the children of this node and loops over them. If it's not, you'll get a warning and loop out of the script. \n\nThe loop also checks if there is an image or inlineImage present in the attributes. \n\nNext I build the data-object I want to send to my WordPress endpoint. \n\nI set up an XMLHttp request. Again, many roads lead to the same result. This is just an example I found online and re-used it.  \n\nWhen the call to WordPress is successful, I use the response from WordPress to open the new post in Draft mode in a new tab. I could also open it in the editor, whatever your choice is. \n\nI also add an attribute to the headline with the WordPress id. This might come in handy later for updates or any other connection between Drummer and WordPress.\n\nThis is all very much work in progress. A lot of stuff is not ironed out yet. Again, I am not a programmer. I just Stack-Overflow my way around here...What needs to be done:\n\nI only go one level deep to get all the text. I need some sort of recursion when I walk through the outline to get all the text.\n\nIn the loop to create the text, I check for image and inlineImage in two separate if's. I feel this can be done more gentle. \n\nI don't check for other attributes like urlVideo or enclosure. \n\nI'd love to add the publish date from Drummer as the date in WordPress as well. But dates in Javascript are not my cup of tea.\n\nI post everything in one category. It would be nice to choose a category before publishing.\n\nNo tags. Yet. \n\nI post everything in Draft first. It could toggle between draft and publish immediately. Use the OPML attributes for the headline to do this.\n\nWhen you secure your WordPress installation and disable the REST API for unauthorized visitors, the script doesn't work. Need to figure this out.\n\nThis script only works when your Drummer post has a title. A micropost gives an error. \n\nNo real error-handling. The browser console is your friend, as is console.log. \n\nSo there you have it. This is the first version of my Drummer to WordPress script. Let me know what you think and especially what should be improved!\n\nYes, this post is also published (and slightly editted) on my <a href=\"https://diggingthedigital.com/publish-to-wordpress-with-drummer/\">WordPress blog</a>!\n",
+				"date_published": "2021-10-23T07:54:37+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/23/publish-to-wordpress.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/22/adding-an-image.html",
+				"title": "Adding an image browser for Public Folder and Drummer",
+				"content_html": "<p>When I saw <!-- raw HTML omitted -->John&rsquo;s script<!-- raw HTML omitted --> for building an image browser in Drummer from Flickr photos I figured it should be possible to use the PublicFolder JSON log as a source.</p>\n<p>Ofcourse it is. I used the JSON.parse scripting to get every node. Build some checks to see if the uploaded image has an URL. See screenshot below</p>\n<!-- raw HTML omitted -->\n<p>You can copy and play around with the script on <!-- raw HTML omitted -->this public Gist at Github<!-- raw HTML omitted -->. Have fun and let me know when you expand it with new possibilities!</p>\n",
+				"content_text": "When I saw <a href=\"https://github.com/scripting/drummerSupport/issues/83#issuecomment-945160221\">John's script</a> for building an image browser in Drummer from Flickr photos I figured it should be possible to use the PublicFolder JSON log as a source. \n\nOfcourse it is. I used the JSON.parse scripting to get every node. Build some checks to see if the uploaded image has an URL. See screenshot below\n\n\n\n<img src=\"https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/Screenshot-Drummer-20211022120349.png\" />\n\nYou can copy and play around with the script on <a href=\"https://gist.github.com/frankmeeuwsen/209c02409cadca42de466744beb8bff2\">this public Gist at Github</a>. Have fun and let me know when you expand it with new possibilities!\n",
+				"date_published": "2021-10-22T10:49:39+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/22/adding-an-image.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/22/public-folder-en.html",
+				"title": "Public Folder en Drummer",
+				"content_html": "<p>Als alles goed werkt heb ik nu zelfs Public Folder werkend, het open source Dropbox uit het Dave Winer Universe.</p>\n<p>Hiermee kan ik eenvoudig afbeeldingen op AWS plaatsen en via een script direct bij de post plaatsen</p>\n<!-- raw HTML omitted -->\n<p>Boem! 💥</p>\n<p>Links voor de gevorderden: Hier vind je <!-- raw HTML omitted -->Public Folder<!-- raw HTML omitted --> met de uitleg voor een JSON file in S3 bij AWS. En <!-- raw HTML omitted -->het script<!-- raw HTML omitted --> van Amit kun je zelf wat tweaken in Drummer.</p>\n<p>Let op, bovenstaande vereist wat voorkennis van zowel Drummer, S3 en Public Folder. Het is geen Lego wat je in elkaar klikt. Nog niet.</p>\n",
+				"content_text": "Als alles goed werkt heb ik nu zelfs Public Folder werkend, het open source Dropbox uit het Dave Winer Universe. \n\nHiermee kan ik eenvoudig afbeeldingen op AWS plaatsen en via een script direct bij de post plaatsen\n\n\n\n<img src=\"https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/gif_067.gif\" />\n\nBoem! 💥\n\nLinks voor de gevorderden: Hier vind je <a href=\"http://this.how/publicFolder/#1634847088000\">Public Folder</a> met de uitleg voor een JSON file in S3 bij AWS. En <a href=\"https://github.com/scripting/drummerSupport/issues/83#issuecomment-949242204\">het script</a> van Amit kun je zelf wat tweaken in Drummer.\n\nLet op, bovenstaande vereist wat voorkennis van zowel Drummer, S3 en Public Folder. Het is geen Lego wat je in elkaar klikt. Nog niet.\n",
+				"date_published": "2021-10-22T09:34:24+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/22/public-folder-en.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/22/de-slegte-heeft.html",
+				
+				"content_html": "<p>De Slegte heeft een <!-- raw HTML omitted -->mooi inkijkexemplaar<!-- raw HTML omitted -->.</p>\n",
+				"content_text": "De Slegte heeft een <a href=\"http://www.deslegte.com/files/samples/books/9789462583412.pdf\">mooi inkijkexemplaar</a>.\n",
+				"date_published": "2021-10-22T08:53:32+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/22/de-slegte-heeft.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/22/gisteren-in-de.html",
+				
+				"content_html": "<p>Gisteren in de bibliotheek zag ik dit boek liggen. De achtergrond verhalen bij alle 119 songs van Jimi Hendrix. Het was te groot voor me om mee te nemen met de 6 andere boeken die ik al had. Maar hij staat nu op mijn verlanglijst om eens te lenen en rustig door te nemen.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Gisteren in de bibliotheek zag ik dit boek liggen. De achtergrond verhalen bij alle 119 songs van Jimi Hendrix. Het was te groot voor me om mee te nemen met de 6 andere boeken die ik al had. Maar hij staat nu op mijn verlanglijst om eens te lenen en rustig door te nemen. \n\n<img src=\"https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/IMG_0694.jpeg\" />\n",
+				"date_published": "2021-10-22T08:49:13+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/22/gisteren-in-de.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/22/schrijven-in-drummer.html",
+				"title": "Schrijven in Drummer",
+				"content_html": "<p>De afgelopen week heb ik Dave Winer&rsquo;s Drummer getest op verschillende <!-- raw HTML omitted -->schrijfmomenten<!-- raw HTML omitted -->. Als ik snel iets wilde publiceren, als ik een gedachte had die er uit moest. Om iets te delen. Afbeeldingen plaatsen.</p>\n<p>Mijn persoonlijke ervaringen zijn wisselend. Ik vind het schrijven in een Outline format echt een ander gevoel geven. Veel meer een <!-- raw HTML omitted -->stream of thoughts<!-- raw HTML omitted --> dan een vooraf opgezette blogpost.</p>\n<p>Voor een doorgewinterde content-marketeer is Drummer en schrijven in outlines niets. Je uitzicht op het scherm is namelijk geen pagina die je vult met koppen, subkoppen, opmaak, illustraties etc.</p>\n<p>Het is een reeks losse zinnen die na publicatie één geheel worden.</p>\n<p>Bewijs</p>\n<!-- raw HTML omitted -->\n<p>Maar zoals Amit Gawande zegt in <!-- raw HTML omitted -->zijn blogpost<!-- raw HTML omitted -->:</p>\n<p>You are writing in perpetual draft mode. It keeps saving while you build on your thoughts. No going back to a post list and worrying about what posts to write next. Keep writing, publish when you think you are done</p>\n<p>Daar heeft hij groot gelijk in. Je bouwt op je eigen gedachten. Je schrijft veel meer voor jezelf dan voor een publiek. Dat is een groot verschil met bijvoorbeeld WordPress of andere blog CMS&rsquo;en. Met Drummer is je moederschip nog meer jouw moederschip.</p>\n<!-- raw HTML omitted -->\n<p>Het is goed om te zien dat de community rondom Drummer langzaam groeit en men elkaar helpt met de eerste stappen. Dave Winer zelf <!-- raw HTML omitted -->laat weten<!-- raw HTML omitted --> dat de verschillende error-rapporten hem boven het hoofd groeien. Alles is open source, dus in theorie kan iedereen de fouten in de software verbeteren. In de praktijk zal dat altijd een te kleine groep blijven.</p>\n<p>Drummer mist tot op heden ook elke moderne feature die een contentmarketeer of meer gevorderde blogger wel wenst.</p>\n<p>Geen ingebouwde analytics</p>\n<p>Geen ingebouwde SEO</p>\n<p>Geen ingebouwde share images voor social</p>\n<p>Mist een goede imagebrowser/image uploader (maar daar wordt aan gewerkt)</p>\n<p>Geen reactie mogelijkheid</p>\n<p>Geen ingebouwde share mogelijkheden</p>\n<p>Zeer beperkte theme mogelijkheden. Alleen als je zelf host en bereid bent in de code te duiken</p>\n<p>Maakt het dan een minder blogsysteem? Niet in de minste plaats. Ik denk dat er zeker ruimte voor is. Er zijn voldoende schrijvers of aspirerende schrijvers die graag iets willen publiceren maar al benauwd krijgen bij een blogsysteem wat bovenstaande allemaal wel heeft.</p>\n<p>Mensen die gewoon iets willen schrijven en publiceren. Zonder zich druk te maken over social, over statistieken, over instellingen. Met Drummer start je op en je bent live. Het heeft bewust weinig franje.</p>\n<p>Drummer is geen systeem wat ik constant zou gebruiken, maar de manier van schrijven kan voor sommige formats goed werken. Schrijven in outlines is een manier van schrijven die ik ook wel in WordPress terug zou willen zien.</p>\n<p>Of een koppeling tussen Outline software en WordPress. Wie weet wat er nog komt.</p>\n",
+				"content_text": "De afgelopen week heb ik Dave Winer's Drummer getest op verschillende <i>schrijfmomenten</i>. Als ik snel iets wilde publiceren, als ik een gedachte had die er uit moest. Om iets te delen. Afbeeldingen plaatsen. \n\nMijn persoonlijke ervaringen zijn wisselend. Ik vind het schrijven in een Outline format echt een ander gevoel geven. Veel meer een <i>stream of thoughts</i> dan een vooraf opgezette blogpost. \n\nVoor een doorgewinterde content-marketeer is Drummer en schrijven in outlines niets. Je uitzicht op het scherm is namelijk geen pagina die je vult met koppen, subkoppen, opmaak, illustraties etc. \n\nHet is een reeks losse zinnen die na publicatie één geheel worden. \n\nBewijs\n\n<img src=\"https://publicfolderfm2021.s3.eu-central-1.amazonaws.com/uploads/Screenshot-Drummer-20211022092226.png\" />\n\nMaar zoals Amit Gawande zegt in <a href=\"https://ol.amitgawande.com/2021/10/21/163615.html?title=benefitsOfWritingWithDrummer#a164250\">zijn blogpost</a>: \n\nYou are writing in perpetual draft mode. It keeps saving while you build on your thoughts. No going back to a post list and worrying about what posts to write next. Keep writing, publish when you think you are done\n\nDaar heeft hij groot gelijk in. Je bouwt op je eigen gedachten. Je schrijft veel meer voor jezelf dan voor een publiek. Dat is een groot verschil met bijvoorbeeld WordPress of andere blog CMS'en. Met Drummer is je moederschip nog meer jouw moederschip. \n\n<img src=\"https://diggingthedigital.com/wp-content/uploads/Led_Zeppelin_-_Mothership_cover.jpg\" />\n\nHet is goed om te zien dat de community rondom Drummer langzaam groeit en men elkaar helpt met de eerste stappen. Dave Winer zelf <a href=\"http://scripting.com/drummer/blog/2021/10/21/141207.html?title=imNotKeepingUpWithTheErrorReports\">laat weten</a> dat de verschillende error-rapporten hem boven het hoofd groeien. Alles is open source, dus in theorie kan iedereen de fouten in de software verbeteren. In de praktijk zal dat altijd een te kleine groep blijven. \n\nDrummer mist tot op heden ook elke moderne feature die een contentmarketeer of meer gevorderde blogger wel wenst. \n\nGeen ingebouwde analytics\n\nGeen ingebouwde SEO\n\nGeen ingebouwde share images voor social\n\nMist een goede imagebrowser/image uploader (maar daar wordt aan gewerkt)\n\nGeen reactie mogelijkheid\n\nGeen ingebouwde share mogelijkheden\n\nZeer beperkte theme mogelijkheden. Alleen als je zelf host en bereid bent in de code te duiken\n\nMaakt het dan een minder blogsysteem? Niet in de minste plaats. Ik denk dat er zeker ruimte voor is. Er zijn voldoende schrijvers of aspirerende schrijvers die graag iets willen publiceren maar al benauwd krijgen bij een blogsysteem wat bovenstaande allemaal wel heeft. \n\nMensen die gewoon iets willen schrijven en publiceren. Zonder zich druk te maken over social, over statistieken, over instellingen. Met Drummer start je op en je bent live. Het heeft bewust weinig franje. \n\nDrummer is geen systeem wat ik constant zou gebruiken, maar de manier van schrijven kan voor sommige formats goed werken. Schrijven in outlines is een manier van schrijven die ik ook wel in WordPress terug zou willen zien. \n\nOf een koppeling tussen Outline software en WordPress. Wie weet wat er nog komt.\n",
+				"date_published": "2021-10-22T08:19:24+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/22/schrijven-in-drummer.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/20/vergunningen-als-rss.html",
+				"title": "Vergunningen als RSS feed",
+				"content_html": "<p>In onze buurt wordt veel verbouwd. Projectontwikkelaars en snelle handelaren kopen oudere panden op, splitsen ze, zetten er wat goedkope werkkrachten in om de boel te verbouwen en binnen een paar weken staat er een nieuw huis. Of eigenlijk, een pand met meerdere appartementen. Die niet voor een zacht prijsje worden verhuurd. Het is een ontwikkeling die moeilijk is te stoppen, die landelijk plaatsvindt. Maar zeker in onze buurt, de Schilderswijk in Utrecht.</p>\n<!-- raw HTML omitted -->\n<p>Nu dreigt een ouder pand om de hoek hetzelfde lot. Met als grote verschil dat wij en onze buren er direct hinder van ondervinden. Verlies van daglicht in de achtertuin, minder privacy door de bouw van appartementen die op onze tuinen uitkijken, meer parkeerdruk in de straat.</p>\n<p>Voor het eerst in mijn leven heb ik een bezwaar aangetekend bij de gemeente. Een rituele handeling wat me officieel een oudere brommerige buurtbewoner maakt vrees ik. Ik ben gelukkig niet alleen. Met de buren hebben we massaal bezwaar aangetekend tegen de vergunning die dreigt te worden afgegeven.</p>\n<p>Het hele proces loopt al sinds de zomer. En het blijft de overheid, het gaat allemaal niet zo snel. Er is tot op heden nog geen besluit genomen. Sterker nog, het beslissingstraject is met 6 weken verlengd.</p>\n<p>Die berichtgeving is te vinden op de site van de overheid, de <!-- raw HTML omitted -->Officiële Bekendmakingen<!-- raw HTML omitted -->. Hier kun je zoeken op straatnaam, dossiernummer, kenmerken, noem maar op.</p>\n<p>En wat ik dan nog eigenlijk het leukste vind, is dat de zoekresultaten als RSS feed zijn op te slaan. Heerlijk. Ik krijg u automatisch een melding als er iets nieuws is op het dossiernummer van de vergunning. Zo zie je maar, het is een kleine moeite om een feed te genereren van de informatie op je site. Maar je kunt er altijd nieuwe vrienden mee maken.</p>\n",
+				"content_text": "In onze buurt wordt veel verbouwd. Projectontwikkelaars en snelle handelaren kopen oudere panden op, splitsen ze, zetten er wat goedkope werkkrachten in om de boel te verbouwen en binnen een paar weken staat er een nieuw huis. Of eigenlijk, een pand met meerdere appartementen. Die niet voor een zacht prijsje worden verhuurd. Het is een ontwikkeling die moeilijk is te stoppen, die landelijk plaatsvindt. Maar zeker in onze buurt, de Schilderswijk in Utrecht.\n\n<img src=\"https://diggingthedigital.com/wp-content/uploads/Screenshot-Zoekresultaat-Overheid.nl-Officile-bekendmakingen-20211020093422.png\" />\n\nNu dreigt een ouder pand om de hoek hetzelfde lot. Met als grote verschil dat wij en onze buren er direct hinder van ondervinden. Verlies van daglicht in de achtertuin, minder privacy door de bouw van appartementen die op onze tuinen uitkijken, meer parkeerdruk in de straat. \n\nVoor het eerst in mijn leven heb ik een bezwaar aangetekend bij de gemeente. Een rituele handeling wat me officieel een oudere brommerige buurtbewoner maakt vrees ik. Ik ben gelukkig niet alleen. Met de buren hebben we massaal bezwaar aangetekend tegen de vergunning die dreigt te worden afgegeven. \n\nHet hele proces loopt al sinds de zomer. En het blijft de overheid, het gaat allemaal niet zo snel. Er is tot op heden nog geen besluit genomen. Sterker nog, het beslissingstraject is met 6 weken verlengd. \n\nDie berichtgeving is te vinden op de site van de overheid, de <a href=\"https://www.officielebekendmakingen.nl/\">Officiële Bekendmakingen</a>. Hier kun je zoeken op straatnaam, dossiernummer, kenmerken, noem maar op. \n\nEn wat ik dan nog eigenlijk het leukste vind, is dat de zoekresultaten als RSS feed zijn op te slaan. Heerlijk. Ik krijg u automatisch een melding als er iets nieuws is op het dossiernummer van de vergunning. Zo zie je maar, het is een kleine moeite om een feed te genereren van de informatie op je site. Maar je kunt er altijd nieuwe vrienden mee maken.\n",
+				"date_published": "2021-10-20T08:22:49+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/20/vergunningen-als-rss.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/19/small-pieces-loosely.html",
+				"title": "Small pieces loosely joined",
+				"content_html": "<p>It&rsquo;s always special to see history repeating. Again, with Drummer and some of the Indieweb building blocks, it should be possible to both send and receive webmentions. <!-- raw HTML omitted -->Telegraph.io<!-- raw HTML omitted --> is a nice service to act as an intermediairy for the transport of webmentions in both ways. Even receiving webmentions on this blog should be possible. You can use Telegraph to <!-- raw HTML omitted -->receive Webmentions<!-- raw HTML omitted --> when your site is linked to by any website tracked by <!-- raw HTML omitted -->Superfeedr<!-- raw HTML omitted -->, even if that site doesn&rsquo;t send Webmentions itself!</p>\n<p>Webmentions are still something I need to get my head wrapped around everytime I work with them. I just need to test it and see if it works.</p>\n",
+				"content_text": "It's always special to see history repeating. Again, with Drummer and some of the Indieweb building blocks, it should be possible to both send and receive webmentions. <a href=\"https://telegraph.p3k.io/\">Telegraph.io</a> is a nice service to act as an intermediairy for the transport of webmentions in both ways. Even receiving webmentions on this blog should be possible. You can use Telegraph to <a href=\"https://telegraph.p3k.io/superfeedr\">receive Webmentions</a> when your site is linked to by any website tracked by <a href=\"https://superfeedr.com/tracker\">Superfeedr</a>, even if that site doesn't send Webmentions itself! \n\nWebmentions are still something I need to get my head wrapped around everytime I work with them. I just need to test it and see if it works.\n",
+				"date_published": "2021-10-19T21:55:00+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/19/small-pieces-loosely.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/19/wow-dus-het.html",
+				
+				"content_html": "<p>Wow. Dus het werkt. Nu zou het nog mooi zijn om met de Scripting taal in Drummer automatisch webmentions te sturen naar Telegraph als ik iets publiceer. Het ontvangen van webmentions vereist wat meer denkwerk. Want daar heb ik op deze site minimaal een webmention endpoint nodig. En die heb ik niet. En ik heb nog geen idee hoe ik die zou kunnen krijgen.</p>\n",
+				"content_text": "Wow. Dus het werkt. Nu zou het nog mooi zijn om met de Scripting taal in Drummer automatisch webmentions te sturen naar Telegraph als ik iets publiceer. Het ontvangen van webmentions vereist wat meer denkwerk. Want daar heb ik op deze site minimaal een webmention endpoint nodig. En die heb ik niet. En ik heb nog geen idee hoe ik die zou kunnen krijgen. \n",
+				"date_published": "2021-10-19T20:55:21+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/19/wow-dus-het.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/19/205331.html",
+				
+				"content_html": "<p>Bewijs dat de webmention is ontvangen op mijn eigen blog.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bewijs dat de webmention is ontvangen op mijn eigen blog. \n\n<img src=\"https://diggingthedigital.com/wp-content/uploads/Screenshot-Comments-‹-Digging-the-Digital-—-WordPress-20211019215103.png\" />\n",
+				"date_published": "2021-10-19T20:53:31+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/19/205331.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/19/bewijs-dat-de.html",
+				
+				"content_html": "<p>Bewijs dat de webmention is verstuurd</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Bewijs dat de webmention is verstuurd\n\n<img src=\"https://diggingthedigital.com/wp-content/uploads/Screenshot-Webmention-Details-20211019215015.png\" />\n",
+				"date_published": "2021-10-19T20:53:17+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/19/bewijs-dat-de.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/19/maar-als-ik.html",
+				
+				"content_html": "<p>Maar als ik de link aanpas naar <a href=\"http://oldschool.scripting.com/frankmeeuwsen/2021/10/19.html\">oldschool.scripting.com/frankmeeu&hellip;</a> dan werkt het ineens wel prima!</p>\n",
+				"content_text": "Maar als ik de link aanpas naar [oldschool.scripting.com/frankmeeu...](http://oldschool.scripting.com/frankmeeuwsen/2021/10/19.html) dan werkt het ineens wel prima!\n",
+				"date_published": "2021-10-19T20:52:39+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/19/maar-als-ik.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/19/whoop-nieuwe-update.html",
+				
+				"content_html": "<p>Whoop! Nieuwe update! Om de een of andere reden werkt de combinatie Webmentions en eigen domein nog niet helemaal lekker. Toen ik bij Telegraph de URL <a href=\"http://frankmeeuwsen.xyz/2021/10/19.html\">frankmeeuwsen.xyz/2021/10/1&hellip;</a> gaf als bron, kreeg ik een foutmelding. Daar zou geen link zijn naar mijn Digging the Digital blog.</p>\n",
+				"content_text": "Whoop! Nieuwe update! Om de een of andere reden werkt de combinatie Webmentions en eigen domein nog niet helemaal lekker. Toen ik bij Telegraph de URL [frankmeeuwsen.xyz/2021/10/1...](http://frankmeeuwsen.xyz/2021/10/19.html) gaf als bron, kreeg ik een foutmelding. Daar zou geen link zijn naar mijn Digging the Digital blog. \n",
+				"date_published": "2021-10-19T20:51:17+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/19/whoop-nieuwe-update.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/19/204444.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n",
+				"content_text": "\n\n<img src=\"https://diggingthedigital.com/wp-content/uploads/Screenshot-Send-a-Webmention-with-Telegraph-20211019213743.png\" />\n",
+				"date_published": "2021-10-19T20:44:44+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/19/204444.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/19/webmentions-via-een.html",
+				"title": "Webmentions via een andere service",
+				"content_html": "<p>Het is altijd goed om te testen of ik webmentions kan versturen vanaf hier naar <!-- raw HTML omitted -->mijn eigen site<!-- raw HTML omitted -->, via een service als Telegraph. Door na publicatie deze permalink te knopen aan een link op mijn eigen blog. Eens zien wat er gebeurt&hellip;</p>\n<p>Nou&hellip; niets dus. Ik krijg een foutmelding van Telegraph dat op de Permalink geen link naar mijn eigen site is te vinden. Ugh. Laat maar.</p>\n",
+				"content_text": "Het is altijd goed om te testen of ik webmentions kan versturen vanaf hier naar <a href=\"https://diggingthedigital.com/\">mijn eigen site</a>, via een service als Telegraph. Door na publicatie deze permalink te knopen aan een link op mijn eigen blog. Eens zien wat er gebeurt...\n\nNou... niets dus. Ik krijg een foutmelding van Telegraph dat op de Permalink geen link naar mijn eigen site is te vinden. Ugh. Laat maar.\n",
+				"date_published": "2021-10-19T20:36:08+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/19/webmentions-via-een.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/19/webmentions-on-drummer.html",
+				"title": "Webmentions on Drummer?",
+				"content_html": "<p>So actually one of the most interesting technologies coming from the Indieweb community is the <!-- raw HTML omitted -->Webmention<!-- raw HTML omitted -->. In it&rsquo;s most simplest terms, it is a way of alerting other writers you have linked to them through the use of a simple protocol. It is even possible to create conversations on multiple domains. Without the need to be on one silo, say Facebook or Twitter. We can all communicate through our own domains and blogs. To me it feels like OPML and Drummer is an ideal candidate for the use of webmentions instead of plain old comments. When I link to another Drummer blog, it could be alerted through an Instant Outliner in it&rsquo;s own CMS. It can link back to the original, show the link, do whatever is necessary with it. Webmentions and (instant) Outliners feel like a natural fit. But I am not tech-savvy enough to build the connections myself.</p>\n<!-- raw HTML omitted -->\n<p>The interesting part is not only to find the community on Drummer blogs, but expand beyond that. I could link to my own blog and have it send a Webmention. So I can link back from my blog to this post automatically. Drummer could support webmentions from it&rsquo;s core or maybe through the use of some scripting and OPML headers. Again, I am not quite sure what is possible, but since there are more people on Drummer blogs that are familiar with the Indieweb buildingblocks, maybe we can build some more?</p>\n<p>I <!-- raw HTML omitted -->started a thread<!-- raw HTML omitted --> on the Drummer Support Github community to see what&rsquo;s possible.</p>\n",
+				"content_text": "So actually one of the most interesting technologies coming from the Indieweb community is the <a href=\"https://indieweb.org/webmention\">Webmention</a>. In it's most simplest terms, it is a way of alerting other writers you have linked to them through the use of a simple protocol. It is even possible to create conversations on multiple domains. Without the need to be on one silo, say Facebook or Twitter. We can all communicate through our own domains and blogs. To me it feels like OPML and Drummer is an ideal candidate for the use of webmentions instead of plain old comments. When I link to another Drummer blog, it could be alerted through an Instant Outliner in it's own CMS. It can link back to the original, show the link, do whatever is necessary with it. Webmentions and (instant) Outliners feel like a natural fit. But I am not tech-savvy enough to build the connections myself. \n\n<img src=\"https://indieweb.org/images/thumb/3/3c/webmention-logo.svg/100px-webmention-logo.svg.png\" />\n\nThe interesting part is not only to find the community on Drummer blogs, but expand beyond that. I could link to my own blog and have it send a Webmention. So I can link back from my blog to this post automatically. Drummer could support webmentions from it's core or maybe through the use of some scripting and OPML headers. Again, I am not quite sure what is possible, but since there are more people on Drummer blogs that are familiar with the Indieweb buildingblocks, maybe we can build some more? \n\nI <a href=\"https://github.com/scripting/drummerSupport/issues/85\">started a thread</a> on the Drummer Support Github community to see what's possible.\n",
+				"date_published": "2021-10-19T15:38:52+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/19/webmentions-on-drummer.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/19/are-there-actually.html",
+				
+				"content_html": "<p>Are there actually more Dutch Drummer bloggers? The community that publishes on the Oldskool Scripting server (<!-- raw HTML omitted -->proxy source<!-- raw HTML omitted -->) is growing but it looks like it&rsquo;s most US based? I am always curious for other Drummer bloggers from the lowlands!</p>\n",
+				"content_text": "Are there actually more Dutch Drummer bloggers? The community that publishes on the Oldskool Scripting server (<a href=\"http://oldschooldrummers.andysylvester.com/\">proxy source</a>) is growing but it looks like it's most US based? I am always curious for other Drummer bloggers from the lowlands! \n",
+				"date_published": "2021-10-19T15:15:14+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/19/are-there-actually.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/14/en-een-paar.html",
+				
+				"content_html": "<p>En een paar minuten later valt het kwartje. Dave Winer is behoorlijk tegenstander van het gebruik van https. En laat het domein frankmeeuwsen.xyz nu standaard naar https gaan. Dus ja, dan gaat alles niet zo lekker werken. Als je nu naar <!-- raw HTML omitted --><a href=\"http://frankmeeuwsen.xyz\">http://frankmeeuwsen.xyz</a><!-- raw HTML omitted --> gaat zie je dit blog verschijnen. Yes!</p>\n",
+				"content_text": "En een paar minuten later valt het kwartje. Dave Winer is behoorlijk tegenstander van het gebruik van https. En laat het domein frankmeeuwsen.xyz nu standaard naar https gaan. Dus ja, dan gaat alles niet zo lekker werken. Als je nu naar <a href=\"http://frankmeeuwsen.xyz\">http://frankmeeuwsen.xyz</a> gaat zie je dit blog verschijnen. Yes!\n",
+				"date_published": "2021-10-14T20:11:17+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/14/en-een-paar.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/14/er-gebeurt-een.html",
+				
+				"content_html": "<p>Er gebeurt een hoop in de eerste week van DrummerCMS. Ik <!-- raw HTML omitted -->lees dat het nu nog eenvoudiger<!-- raw HTML omitted --> is om je eigen domein aan een Drummer blog te koppelen. Dat was precies wat ik nog voor elkaar wilde krijgen. In combinatie met de PagePark installatie op Glitch heb ik het voor elkaar. Maar het werkt allemaal heel traag. Misschien dat ik nog eens een apart klein servertje optuig om het goed te regelen. Jack Baty heeft dat weer <!-- raw HTML omitted -->mooi beschreven op zijn wiki<!-- raw HTML omitted -->. Het blijft een hobby he&hellip;</p>\n",
+				"content_text": "Er gebeurt een hoop in de eerste week van DrummerCMS. Ik <a href=\"http://docserver.scripting.com/drummer/blogging.opml#1628776787000\">lees dat het nu nog eenvoudiger</a> is om je eigen domein aan een Drummer blog te koppelen. Dat was precies wat ik nog voor elkaar wilde krijgen. In combinatie met de PagePark installatie op Glitch heb ik het voor elkaar. Maar het werkt allemaal heel traag. Misschien dat ik nog eens een apart klein servertje optuig om het goed te regelen. Jack Baty heeft dat weer <a href=\"https://rudimentarylathe.wiki/#Using%20a%20custom%20domain%20with%20Drummer\">mooi beschreven op zijn wiki</a>. Het blijft een hobby he...\n",
+				"date_published": "2021-10-14T20:05:31+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/14/er-gebeurt-een.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/13/na-een-dag.html",
+				
+				"content_html": "<p>Na een dag werken bij KLBR toch nog even wat klooien met Drummer :-)</p>\n",
+				"content_text": "Na een dag werken bij KLBR toch nog even wat klooien met Drummer :-) \n",
+				"date_published": "2021-10-13T20:44:12+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/13/na-een-dag.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/13/sinds-drie-dagen.html",
+				
+				"content_html": "<p>Sinds drie dagen had ik al gedoe met mijn <!-- raw HTML omitted -->oude linkblog<!-- raw HTML omitted --> op Radio3. Of in elk geval, ik kreeg hem niet goed gelinkt in de tab die je bovenaan deze pagina ziet. Na allerlei experimenten, zelftwijfel en bezwerende dansen in maanlicht schreef ik toch maar een bugreport op Github. En natuurlijk begint 20 minuten later alles te werken. Blogfather Dave Winer stelt me gerust als ik me vertwijfeld afvraag waarom dit toch altijd gebeurt als ik een bug indien. Alles begint dan plots weer te werken. Hij <!-- raw HTML omitted -->geeft een prachtig mantra<!-- raw HTML omitted --> voor de rest van de dag: &ldquo;Sometimes software or computers feel unloved, and all they want is a little attention and then they start working again.&rdquo;</p>\n",
+				"content_text": "Sinds drie dagen had ik al gedoe met mijn <a href=\"http://radio3.io/users/frankmeeuwsen/\">oude linkblog</a> op Radio3. Of in elk geval, ik kreeg hem niet goed gelinkt in de tab die je bovenaan deze pagina ziet. Na allerlei experimenten, zelftwijfel en bezwerende dansen in maanlicht schreef ik toch maar een bugreport op Github. En natuurlijk begint 20 minuten later alles te werken. Blogfather Dave Winer stelt me gerust als ik me vertwijfeld afvraag waarom dit toch altijd gebeurt als ik een bug indien. Alles begint dan plots weer te werken. Hij <a href=\"https://github.com/scripting/drummerSupport/issues/55#issuecomment-942353593\">geeft een prachtig mantra</a> voor de rest van de dag: \"Sometimes software or computers feel unloved, and all they want is a little attention and then they start working again.\"\n",
+				"date_published": "2021-10-13T15:37:42+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/13/sinds-drie-dagen.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/12/old-school-drummers.html",
+				
+				"content_html": "<p>Old School Drummers Reading List.</p>\n",
+				"content_text": "Old School Drummers Reading List. \n",
+				"date_published": "2021-10-12T12:21:49+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/12/old-school-drummers.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/12/ik-word-er.html",
+				
+				"content_html": "<p>Ik word er toch wel blij van als iemand als <!-- raw HTML omitted -->Jack Baty zegt<!-- raw HTML omitted -->: &ldquo;On the other hand, Drummer does blogging in exactly the way I want to do blogging.&rdquo; Het zou mooi zijn als hij nu een <!-- raw HTML omitted -->webmention<!-- raw HTML omitted --> ontvangt van dit bericht. Om het gesprek aan de gang te krijgen, ieder op zijn eigen blog.</p>\n",
+				"content_text": "Ik word er toch wel blij van als iemand als <a href=\"http://oldschool.scripting.com/jackbaty/2021/10/12.html#a095333\">Jack Baty zegt</a>: \"On the other hand, Drummer does blogging in exactly the way I want to do blogging.\" Het zou mooi zijn als hij nu een <a href=\"https://indieweb.org/Webmention\">webmention</a> ontvangt van dit bericht. Om het gesprek aan de gang te krijgen, ieder op zijn eigen blog. \n",
+				"date_published": "2021-10-12T12:17:58+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/12/ik-word-er.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/11/ik-geef-mezelf.html",
+				
+				"content_html": "<p>Ik geef mezelf nog een half uurtje op de maandagavond om nog wat te klooien met Drummer. Kijken of ik het nu wel op een eigen domein kan laten landen. Ik zie dat <!-- raw HTML omitted -->Jack Baty inmiddels ook een Drummer blog<!-- raw HTML omitted --> heeft. En zijn linkblog vanuit Radio3 heeft gekoppeld!</p>\n",
+				"content_text": "Ik geef mezelf nog een half uurtje op de maandagavond om nog wat te klooien met Drummer. Kijken of ik het nu wel op een eigen domein kan laten landen. Ik zie dat <a href=\"http://oldschool.scripting.com/jackbaty/\">Jack Baty inmiddels ook een Drummer blog</a> heeft. En zijn linkblog vanuit Radio3 heeft gekoppeld! \n",
+				"date_published": "2021-10-11T21:05:54+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/11/ik-geef-mezelf.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/11/een-tip-als.html",
+				
+				"content_html": "<p>Een tip als je in Utrecht wilt lunchen, het <!-- raw HTML omitted -->Ddadi Cafe<!-- raw HTML omitted --> in Zijdebalen heeft prima Club Sandwiches!</p>\n",
+				"content_text": "Een tip als je in Utrecht wilt lunchen, het <a href=\"https://www.ddadi.nl/\">Ddadi Cafe</a> in Zijdebalen heeft prima Club Sandwiches!\n",
+				"date_published": "2021-10-11T12:36:49+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/11/een-tip-als.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/11/een-nieuwe-dag.html",
+				
+				"content_html": "<p>Een nieuwe dag, een nieuwe werkweek. De snelheid waarmee je in Drummer werkt is wel opvallend</p>\n",
+				"content_text": "Een nieuwe dag, een nieuwe werkweek. De snelheid waarmee je in Drummer werkt is wel opvallend\n",
+				"date_published": "2021-10-11T07:46:08+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/11/een-nieuwe-dag.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2021/10/10/update-van-de.html",
+				"title": "Update van de drummer",
+				"content_html": "<p>Inmiddels heb ik een &ldquo;about&rdquo; pagina en een <!-- raw HTML omitted -->oud Radio3 linkblog<!-- raw HTML omitted --> gekoppeld. Bij de about page lukt het me nog niet om headers te maken. Bij de Radio3 linkblog krijg ik nog niets te zien&hellip;</p>\n<p>Ook de koppeling aan eigen domeinnaam lukt nog niet goed. Ik weet niet exact wat ik over het hoofd zie.</p>\n<p>Documentatie</p>\n<p>De documentatie van Drummer opent wel allerlei mogelijkheden en zijpaadjes in mijn hoofd. Want ik kan dus <!-- raw HTML omitted -->andere OPML<!-- raw HTML omitted --> bestanden inlezen</p>\n<p>Mijn gepubliceerde blog is <!-- raw HTML omitted -->als OPML<!-- raw HTML omitted --> beschikbaar</p>\n<p>En met <!-- raw HTML omitted -->Pagepark<!-- raw HTML omitted --> kan ik dit blog op mijn eigen URL publiceren. Laat ik dat een tijdje terug nu eens hebben getest. Eens zien of dat nog werkt.</p>\n<p>Drummer en het Indieweb</p>\n<p>Combineren van blogs en outlines is iets wat eigenlijk al jarenlang een logische combinatie is. Maar wat misschien nu pas met Drummer echt een logische plek krijgt.</p>\n<p>Outlines zijn niets meer dan lijsten. Ingesprongen om sublijsten te maken. Eenvoudige toetsencommando&rsquo;s om ze te verplaatsen en reorganiseren.</p>\n<p>Blogs hoeven ook niets meer te zijn dan een titel, een link en een omschrijving.</p>\n<p><!-- raw HTML omitted -->Drummer<!-- raw HTML omitted --> combineert die twee en zorgt dat je gewoon begint te schrijven en direct daarna publiceert</p>\n<p>Het zou mooi zijn als Drummer als open source ook de mogelijkheden van het indieweb ondersteunt. Zoals webmentions of micropub. Met name webmentions kunnen een interessante aanvulling zijn</p>\n<p>Daarnaast zou je bestaande outlines in Obsidian, Roam of Workflowy eenvoudig kunnen publiceren via Micropub op je eigen Drummer blog.</p>\n<p>Link losse nodes in je outline via webmentions aan andere blogs. Stuur via webmentions notificaties naar andere outlines en <!-- raw HTML omitted -->combineer zo de concepten<!-- raw HTML omitted --> van digital gardens en blogs.</p>\n<p>Drummer komt met <!-- raw HTML omitted -->ingebouwde scripting mogelijkheden<!-- raw HTML omitted --> via Javascript. Dus wie weet wat mogelijk is&hellip;</p>\n",
+				"content_text": "Inmiddels heb ik een \"about\" pagina en een <a href=\"http://radio3.io/users/frankmeeuwsen/\">oud Radio3 linkblog</a> gekoppeld. Bij de about page lukt het me nog niet om headers te maken. Bij de Radio3 linkblog krijg ik nog niets te zien...\n\nOok de koppeling aan eigen domeinnaam lukt nog niet goed. Ik weet niet exact wat ik over het hoofd zie. \n\nDocumentatie\n\nDe documentatie van Drummer opent wel allerlei mogelijkheden en zijpaadjes in mijn hoofd. Want ik kan dus <a href=\"http://docserver.scripting.com/drummer/blogging.opml#1628698676000\">andere OPML</a> bestanden inlezen\n\nMijn gepubliceerde blog is <a href=\"http://drummer.scripting.com/frankmeeuwsen/blog.opml\">als OPML</a> beschikbaar\n\nEn met <a href=\"http://docserver.scripting.com/drummer/blogging.opml#1628776787000\">Pagepark</a> kan ik dit blog op mijn eigen URL publiceren. Laat ik dat een tijdje terug nu eens hebben getest. Eens zien of dat nog werkt. \n\nDrummer en het Indieweb\n\nCombineren van blogs en outlines is iets wat eigenlijk al jarenlang een logische combinatie is. Maar wat misschien nu pas met Drummer echt een logische plek krijgt. \n\nOutlines zijn niets meer dan lijsten. Ingesprongen om sublijsten te maken. Eenvoudige toetsencommando's om ze te verplaatsen en reorganiseren. \n\nBlogs hoeven ook niets meer te zijn dan een titel, een link en een omschrijving. \n\n<a href=\"http://docserver.scripting.com/drummer/about.opml\">Drummer</a> combineert die twee en zorgt dat je gewoon begint te schrijven en direct daarna publiceert\n\nHet zou mooi zijn als Drummer als open source ook de mogelijkheden van het indieweb ondersteunt. Zoals webmentions of micropub. Met name webmentions kunnen een interessante aanvulling zijn \n\nDaarnaast zou je bestaande outlines in Obsidian, Roam of Workflowy eenvoudig kunnen publiceren via Micropub op je eigen Drummer blog. \n\nLink losse nodes in je outline via webmentions aan andere blogs. Stuur via webmentions notificaties naar andere outlines en <a href=\"https://diggingthedigital.com/maak-je-eigen-moederschip/\">combineer zo de concepten</a> van digital gardens en blogs. \n\nDrummer komt met <a href=\"http://docserver.scripting.com/drummer/about.opml#1633704566000\">ingebouwde scripting mogelijkheden</a> via Javascript. Dus wie weet wat mogelijk is...\n",
+				"date_published": "2021-10-10T21:10:58+01:00",
+				"url": "https://frankmeeuwsen.com/2021/10/10/update-van-de.html"
 			},
 			{
 				"id": "http://frank.micro.blog/2018/04/22/do-i-see.html",
