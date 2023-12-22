@@ -7,10 +7,34 @@
 	"items": [
 		
 			{
+				"id": "http://frank.micro.blog/2023/12/22/this-was-quite.html",
+				
+				"content_html": "<p>This was quite the week with highs and lows. But now work is done for 2023. I look forward to 10 days off with the family. We focus on doing not too much. We all need to recharge. Let body and mind come to rest.</p>\n",
+				"content_text": "This was quite the week with highs and lows. But now work is done for 2023. I look forward to 10 days off with the family. We focus on doing not too much. We all need to recharge. Let body and mind come to rest. \n",
+				"date_published": "2023-12-22T19:27:16+01:00",
+				"url": "https://frankmeeuwsen.com/2023/12/22/this-was-quite.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/12/19/i-did-two.html",
+				
+				"content_html": "<p>I did two interviews today for upcoming articles for one of our clients. To be honest, it was quite draining emotionally. The last interview, we touched upon some personal stories regarding current global conflicts. The interviewee had some tough decisions to make and it touched me. I am curious to see what story comes out of it when I start writing tomorrow.</p>\n",
+				"content_text": "I did two interviews today for upcoming articles for one of our clients. To be honest, it was quite draining emotionally. The last interview, we touched upon some personal stories regarding current global conflicts. The interviewee had some tough decisions to make and it touched me. I am curious to see what story comes out of it when I start writing tomorrow. \n",
+				"date_published": "2023-12-19T19:06:32+01:00",
+				"url": "https://frankmeeuwsen.com/2023/12/19/i-did-two.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/12/17/sending-out-christmas.html",
+				
+				"content_html": "<p>Sending out Christmas cards today. I still love this tradition. Thinking of unique messages and wishes for each receiver.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Sending out Christmas cards today. I still love this tradition. Thinking of unique messages and wishes for each receiver. \n\n<img src=\"uploads/2023/9092203dced744c189e0712e17841d91.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-17T18:15:14+01:00",
+				"url": "https://frankmeeuwsen.com/2023/12/17/sending-out-christmas.html"
+			},
+			{
 				"id": "http://frank.micro.blog/2023/12/17/maybe-i-dont.html",
 				
-				"content_html": "<p>Maybe I don’t understand enough of ActivityPub but why can I find Adam Mosseri’s Threads account (<a href=\"https://www.threads.net/@mosseri/\">www.threads.net/@mosseri/</a> or <a href=\"https://micro.blog/mosseri@threads.net\">@mosseri@threads.net</a>) on Mastodon but not on Micro.blog?</p>\n",
-				"content_text": "Maybe I don’t understand enough of ActivityPub but why can I find Adam Mosseri’s Threads account ([www.threads.net/@mosseri/](https://www.threads.net/@mosseri/) or [@mosseri@threads.net](https://micro.blog/mosseri@threads.net)) on Mastodon but not on Micro.blog? \n",
+				"content_html": "<p>Maybe I don’t understand enough of ActivityPub but why can I find Adam Mosseri’s Threads account (<a href=\"https://www.threads.net/@mosseri/\">www.threads.net/@mosseri/</a> or <a href=\"https://micro.blog/mosseri@threads.net\">@mosseri@threads.net</a>) on Mastodon but not on Micro.blog?</p>\n<p>Edit: When I search for just “mosseri” in Gluon I can find his account…weird…I would expect I’d have to search for a full handle.</p>\n",
+				"content_text": "Maybe I don’t understand enough of ActivityPub but why can I find Adam Mosseri’s Threads account ([www.threads.net/@mosseri/](https://www.threads.net/@mosseri/) or [@mosseri@threads.net](https://micro.blog/mosseri@threads.net)) on Mastodon but not on Micro.blog? \n\nEdit: When I search for just “mosseri” in Gluon I can find his account…weird…I would expect I’d have to search for a full handle. \n",
 				"date_published": "2023-12-17T11:31:51+01:00",
 				"url": "https://frankmeeuwsen.com/2023/12/17/maybe-i-dont.html"
 			},
@@ -50,7 +74,7 @@
 				"id": "http://frank.micro.blog/2023/12/06/it-is-that.html",
 				
 				"content_html": "<p>It is that time of year again. When December comes around it is time for the battle of battles. The avoidance of the hymn that lures us into dreams of a snowy Christmas. Only to crudely wake up on a grey and rainy first Christmas day. Well, at least in the Netherlands for the last couple of years. It is time for the annual <a href=\"https://whamageddon.com/\">Whamageddon</a> event!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "It is that time of year again. When December comes around it is time for the battle of battles. The avoidance of the hymn that lures us into dreams of a snowy Christmas. Only to crudely wake up on a grey and rainy first Christmas day. Well, at least in the Netherlands for the last couple of years. It is time for the annual [Whamageddon](https://whamageddon.com/) event!\n\n<img src=\"uploads/2023/a8d6515b847a42ea99912d99e4627f37.jpg\" width=\"1200\" height=\"1190\" alt=\"rules of Whamageddon\">\n",
+				"content_text": "It is that time of year again. When December comes around it is time for the battle of battles. The avoidance of the hymn that lures us into dreams of a snowy Christmas. Only to crudely wake up on a grey and rainy first Christmas day. Well, at least in the Netherlands for the last couple of years. It is time for the annual [Whamageddon](https://whamageddon.com/) event!\n\n<img src=\"https://frankmeeuwsen.com/uploads/2023/a8d6515b847a42ea99912d99e4627f37.jpg\" width=\"1200\" height=\"1190\" alt=\"rules of Whamageddon\">\n",
 				"date_published": "2023-12-06T18:45:12+01:00",
 				"url": "https://frankmeeuwsen.com/2023/12/06/it-is-that.html"
 			},
@@ -66,7 +90,7 @@
 				"id": "http://frank.micro.blog/2023/12/04/well-i-have.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>Well&hellip; I have to be honest, it&rsquo;s very cool to see my <a href=\"https://albumwhale.com/frank-meeuwsen/stuck-on-repeat\">Stuck on Repeat album list</a> on <a href=\"https://albumwhale.com/discover/staff_picks\">the Staff Picks</a> at Album Whale. I know I don&rsquo;t have a really outspoken and contemporary taste in music. I am kinda stuck on repeat for the last 20 years or so musically speaking. But then again, I think that&rsquo;s a thing of every generation.</p>\n<p>Don&rsquo;t forget to check out the <a href=\"https://goodenough.us/\">other projects</a> of Good Enough, who make Album Whale. Or give them a follow on the fediverse! <a href=\"https://micro.blog/goodenoughllc@mastodon.world\">@goodenoughllc@mastodon.world</a> and <a href=\"https://micro.blog/bjhess\">@bjhess</a> ( I can&rsquo;t find the others!)</p>\n",
-				"content_text": "<img src=\"uploads/2023/screenshot-staff-picks-on-album-whale-20231204154740.png\" width=\"1200\" height=\"600\" alt=\"screenshot of the staff picks\">\n\nWell... I have to be honest, it's very cool to see my [Stuck on Repeat album list](https://albumwhale.com/frank-meeuwsen/stuck-on-repeat) on [the Staff Picks](https://albumwhale.com/discover/staff_picks) at Album Whale. I know I don't have a really outspoken and contemporary taste in music. I am kinda stuck on repeat for the last 20 years or so musically speaking. But then again, I think that's a thing of every generation. \n\nDon't forget to check out the [other projects](https://goodenough.us/) of Good Enough, who make Album Whale. Or give them a follow on the fediverse! [@goodenoughllc@mastodon.world](https://micro.blog/goodenoughllc@mastodon.world) and [@bjhess](https://micro.blog/bjhess) ( I can't find the others!)\n\n",
+				"content_text": "<img src=\"https://frankmeeuwsen.com/uploads/2023/screenshot-staff-picks-on-album-whale-20231204154740.png\" width=\"1200\" height=\"600\" alt=\"screenshot of the staff picks\">\n\nWell... I have to be honest, it's very cool to see my [Stuck on Repeat album list](https://albumwhale.com/frank-meeuwsen/stuck-on-repeat) on [the Staff Picks](https://albumwhale.com/discover/staff_picks) at Album Whale. I know I don't have a really outspoken and contemporary taste in music. I am kinda stuck on repeat for the last 20 years or so musically speaking. But then again, I think that's a thing of every generation. \n\nDon't forget to check out the [other projects](https://goodenough.us/) of Good Enough, who make Album Whale. Or give them a follow on the fediverse! [@goodenoughllc@mastodon.world](https://micro.blog/goodenoughllc@mastodon.world) and [@bjhess](https://micro.blog/bjhess) ( I can't find the others!)\n\n",
 				"date_published": "2023-12-04T15:47:51+01:00",
 				"url": "https://frankmeeuwsen.com/2023/12/04/well-i-have.html"
 			},
@@ -74,7 +98,7 @@
 				"id": "http://frank.micro.blog/2023/12/03/sundays-are-a.html",
 				
 				"content_html": "<p>🕹️Sundays are a great day to play some classic Playstation 1 games. Like Tony Hawk Pro Skater 2. The muscle memory is a bit rusty, but it’s still there…</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "🕹️Sundays are a great day to play some classic Playstation 1 games. Like Tony Hawk Pro Skater 2. The muscle memory is a bit rusty, but it’s still there…\n\n<img src=\"uploads/2023/78340ff4824e47379cf7ff497ce008eb.jpg\" width=\"600\" height=\"600\" alt=\"Me trying to get some cool score on screen. Which absolutely doesn't happen. \">\n",
+				"content_text": "🕹️Sundays are a great day to play some classic Playstation 1 games. Like Tony Hawk Pro Skater 2. The muscle memory is a bit rusty, but it’s still there…\n\n<img src=\"https://frankmeeuwsen.com/uploads/2023/78340ff4824e47379cf7ff497ce008eb.jpg\" width=\"600\" height=\"600\" alt=\"Me trying to get some cool score on screen. Which absolutely doesn't happen. \">\n",
 				"date_published": "2023-12-03T12:36:34+01:00",
 				"url": "https://frankmeeuwsen.com/2023/12/03/sundays-are-a.html"
 			},
@@ -122,7 +146,7 @@
 				"id": "http://frank.micro.blog/2023/11/28/the-neverending-story.html",
 				"title": "The Neverending Story revisited",
 				"content_html": "<p>A song that regularly settles into me like an earworm is Limahl&rsquo;s &ldquo;Neverending Story,&rdquo; from the 1984 film of the same name. I was a 10-year-old kid when I saw the movie in the theater, and I was enchanted. <a href=\"https://www.youtube.com/watch?v=lHytjEj7B9g\">See the trailer and listen to the song</a> for yourself.</p>\n<p>Honestly, I don&rsquo;t quite remember the story exactly, but I do remember the feeling the movie gave me in a dark theater. It was as if I was allowed to walk around in a fairy tale world for 90 minutes. Trolls, giants, and of course, that huge dragon, Falkor, that the protagonist flew around on.</p>\n<!-- raw HTML omitted -->\n<p>Those scenes with the dragon have always stayed with me. Especially when I first played the game &ldquo;Space Harrier&rdquo; in an arcade a year later. It was a game like I had never seen before, where you fly through hysterical neon landscapes to shoot down anything that looks dangerous. Especially the dragon endbosses. It&rsquo;s no surprise this game <a href=\"https://www.wikiwand.com/en/Space_Harrier#Development\">was heavily influenced</a> by the movie Neverending Story.  I remember my vacation in Zeeland being mostly spent in that dark arcade. All my vacation money went into &ldquo;Space Harrier.&rdquo;</p>\n<!-- raw HTML omitted -->\n<p>Why am I talking about the movie? I saw this poster today. <a href=\"https://hetfiliaal.nl/voorstellingen/the-neverending-story\">Theater company Het Filiaal</a> is playing the story with the music from the film. I&rsquo;ve never seen the movie since, and besides the title track, I don&rsquo;t know the music at all. I&rsquo;m curious, though. Would it be a nice outing for Christmas? Or would it be like with other, older, music heroes—don&rsquo;t go there again because it may disappoint? The nostalgic memory in sepia tones needs no update or refreshment. And next year, this movie will be 40 years old. I know for sure we will see so much more of it.</p>\n",
-				"content_text": "A song that regularly settles into me like an earworm is Limahl's \"Neverending Story,\" from the 1984 film of the same name. I was a 10-year-old kid when I saw the movie in the theater, and I was enchanted. [See the trailer and listen to the song](https://www.youtube.com/watch?v=lHytjEj7B9g) for yourself.\n\nHonestly, I don't quite remember the story exactly, but I do remember the feeling the movie gave me in a dark theater. It was as if I was allowed to walk around in a fairy tale world for 90 minutes. Trolls, giants, and of course, that huge dragon, Falkor, that the protagonist flew around on.\n\n<div style=\"text-align: center;\">\n<img src=\"uploads/2023/maxresdefault.jpg\" width=\"600\" height=\"337\">\n</div>\n\nThose scenes with the dragon have always stayed with me. Especially when I first played the game \"Space Harrier\" in an arcade a year later. It was a game like I had never seen before, where you fly through hysterical neon landscapes to shoot down anything that looks dangerous. Especially the dragon endbosses. It's no surprise this game [was heavily influenced](https://www.wikiwand.com/en/Space_Harrier#Development) by the movie Neverending Story.  I remember my vacation in Zeeland being mostly spent in that dark arcade. All my vacation money went into \"Space Harrier.\"\n\n<div style=\"text-align: center;\">\n<img src=\"uploads/2023/img-7555.jpeg\" width=\"600\" height=\"1066\">\n</div>\n\nWhy am I talking about the movie? I saw this poster today. [Theater company Het Filiaal](https://hetfiliaal.nl/voorstellingen/the-neverending-story) is playing the story with the music from the film. I've never seen the movie since, and besides the title track, I don't know the music at all. I'm curious, though. Would it be a nice outing for Christmas? Or would it be like with other, older, music heroes—don't go there again because it may disappoint? The nostalgic memory in sepia tones needs no update or refreshment. And next year, this movie will be 40 years old. I know for sure we will see so much more of it.\n",
+				"content_text": "A song that regularly settles into me like an earworm is Limahl's \"Neverending Story,\" from the 1984 film of the same name. I was a 10-year-old kid when I saw the movie in the theater, and I was enchanted. [See the trailer and listen to the song](https://www.youtube.com/watch?v=lHytjEj7B9g) for yourself.\n\nHonestly, I don't quite remember the story exactly, but I do remember the feeling the movie gave me in a dark theater. It was as if I was allowed to walk around in a fairy tale world for 90 minutes. Trolls, giants, and of course, that huge dragon, Falkor, that the protagonist flew around on.\n\n<div style=\"text-align: center;\">\n<img src=\"https://frankmeeuwsen.com/uploads/2023/maxresdefault.jpg\" width=\"600\" height=\"337\">\n</div>\n\nThose scenes with the dragon have always stayed with me. Especially when I first played the game \"Space Harrier\" in an arcade a year later. It was a game like I had never seen before, where you fly through hysterical neon landscapes to shoot down anything that looks dangerous. Especially the dragon endbosses. It's no surprise this game [was heavily influenced](https://www.wikiwand.com/en/Space_Harrier#Development) by the movie Neverending Story.  I remember my vacation in Zeeland being mostly spent in that dark arcade. All my vacation money went into \"Space Harrier.\"\n\n<div style=\"text-align: center;\">\n<img src=\"https://frankmeeuwsen.com/uploads/2023/img-7555.jpeg\" width=\"600\" height=\"1066\">\n</div>\n\nWhy am I talking about the movie? I saw this poster today. [Theater company Het Filiaal](https://hetfiliaal.nl/voorstellingen/the-neverending-story) is playing the story with the music from the film. I've never seen the movie since, and besides the title track, I don't know the music at all. I'm curious, though. Would it be a nice outing for Christmas? Or would it be like with other, older, music heroes—don't go there again because it may disappoint? The nostalgic memory in sepia tones needs no update or refreshment. And next year, this movie will be 40 years old. I know for sure we will see so much more of it.\n",
 				"date_published": "2023-11-28T21:55:59+01:00",
 				"url": "https://frankmeeuwsen.com/2023/11/28/the-neverending-story.html"
 			},
@@ -146,7 +170,7 @@
 				"id": "http://frank.micro.blog/2023/11/22/today-its-election.html",
 				
 				"content_html": "<p>Today it’s Election Day in the Netherlands. We vote for a new government (hopefully…). In my hometown Utrecht you can vote at the concert-venue Tivoli Vredenburg, right next to my hero Mr. Eddie Vedder from Pearl Jam. Let’s hope it helps for a more progressive and future-forward government.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Today it’s Election Day in the Netherlands. We vote for a new government (hopefully…). In my hometown Utrecht you can vote at the concert-venue Tivoli Vredenburg, right next to my hero Mr. Eddie Vedder from Pearl Jam. Let’s hope it helps for a more progressive and future-forward government. \n\n<img src=\"uploads/2023/75398a20e9f149d8b7986a688162c458.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
+				"content_text": "Today it’s Election Day in the Netherlands. We vote for a new government (hopefully…). In my hometown Utrecht you can vote at the concert-venue Tivoli Vredenburg, right next to my hero Mr. Eddie Vedder from Pearl Jam. Let’s hope it helps for a more progressive and future-forward government. \n\n<img src=\"https://frankmeeuwsen.com/uploads/2023/75398a20e9f149d8b7986a688162c458.jpg\" width=\"600\" height=\"599\" alt=\"\">\n",
 				"date_published": "2023-11-22T12:47:10+01:00",
 				"url": "https://frankmeeuwsen.com/2023/11/22/today-its-election.html"
 			},
@@ -162,7 +186,7 @@
 				"id": "http://frank.micro.blog/2023/11/21/walking-to-work.html",
 				
 				"content_html": "<p>Walking to work this morning, so my back gets more exercise. It’s always nice to get a fresh coffee at my favorite <a href=\"https://thevillagecoffee.nl/\">The Village Coffee and Music</a>. Good people, fine coffee and nice music.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Walking to work this morning, so my back gets more exercise. It’s always nice to get a fresh coffee at my favorite [The Village Coffee and Music](https://thevillagecoffee.nl/). Good people, fine coffee and nice music. \n\n<img src=\"uploads/2023/af94137dbfdd49e3ab2039bd535c1bb8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Walking to work this morning, so my back gets more exercise. It’s always nice to get a fresh coffee at my favorite [The Village Coffee and Music](https://thevillagecoffee.nl/). Good people, fine coffee and nice music. \n\n<img src=\"https://frankmeeuwsen.com/uploads/2023/af94137dbfdd49e3ab2039bd535c1bb8.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-11-21T10:14:45+01:00",
 				"url": "https://frankmeeuwsen.com/2023/11/21/walking-to-work.html"
 			},
@@ -340,7 +364,7 @@
 				"id": "http://frank.micro.blog/2023/11/12/hi-sod-what.html",
 				
 				"content_html": "<p>Hi <a href=\"https://micro.blog/sod\">@sod</a>, What am I doing wrong? See <a href=\"https://frankmeeuwsen.com/surprise-me\">frankmeeuwsen.com/surprise-&hellip;</a></p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Hi [@sod](https://micro.blog/sod), What am I doing wrong? See [frankmeeuwsen.com/surprise-...](https://frankmeeuwsen.com/surprise-me)\n\n<img src=\"uploads/2023/screenshot-micro.blog-202311121307112x.png\" width=\"600\" height=\"526\" alt=\"\"><img src=\"uploads/2023/screenshot-surprise-mefrank-meeuwsen-202311121308392x.png\" width=\"600\" height=\"428\" alt=\"\">\n",
+				"content_text": "Hi [@sod](https://micro.blog/sod), What am I doing wrong? See [frankmeeuwsen.com/surprise-...](https://frankmeeuwsen.com/surprise-me)\n\n<img src=\"https://frankmeeuwsen.com/uploads/2023/screenshot-micro.blog-202311121307112x.png\" width=\"600\" height=\"526\" alt=\"\"><img src=\"https://frankmeeuwsen.com/uploads/2023/screenshot-surprise-mefrank-meeuwsen-202311121308392x.png\" width=\"600\" height=\"428\" alt=\"\">\n",
 				"date_published": "2023-11-12T13:09:20+01:00",
 				"url": "https://frankmeeuwsen.com/2023/11/12/hi-sod-what.html"
 			},
@@ -380,7 +404,7 @@
 				"id": "http://frank.micro.blog/2023/11/11/bowie-the-cats.html",
 				
 				"content_html": "<p>Bowie the cat’s first day outside. Freedom awaits!</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Bowie the cat’s first day outside. Freedom awaits!\n\n<img src=\"uploads/2023/1c16c1b96c6f4a25a8fc36a3c10cb9b4.jpg\" width=\"168\" height=\"300\" alt=\"\"><img src=\"uploads/2023/2f45e8cbd4d14a5ca5063b445aeb2f96.jpg\" width=\"168\" height=\"300\" alt=\"\">\n",
+				"content_text": "Bowie the cat’s first day outside. Freedom awaits!\n\n<img src=\"https://frankmeeuwsen.com/uploads/2023/1c16c1b96c6f4a25a8fc36a3c10cb9b4.jpg\" width=\"168\" height=\"300\" alt=\"\"><img src=\"https://frankmeeuwsen.com/uploads/2023/2f45e8cbd4d14a5ca5063b445aeb2f96.jpg\" width=\"168\" height=\"300\" alt=\"\">\n",
 				"date_published": "2023-11-11T12:53:07+01:00",
 				"url": "https://frankmeeuwsen.com/2023/11/11/bowie-the-cats.html"
 			},
@@ -445,7 +469,7 @@
 				"id": "http://frank.micro.blog/2023/11/10/finished-reading-with.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780759523562\">With the Light: Raising an Autistic Child (With the Light, #1)</a> by Keiko Tobe 📚</p>\n<p>I read this first chapter of the extended manga series some time ago. The story still touches me, about a young family in modern Japan raising a child with autism. In a society where there is little support for autism. The mother does everything possible to give her son a good upbringing and education. There is much ignorance in her environment around autism. Slowly, she meets more like-minded people who accept her son as he is.</p>\n<p>I once found the complete series in a Manga and Anime exhibition in our public library. You can see the size of each volume on the picture below. This exhibition was organized with a local Manga shop who, as I <a href=\"https://www.mangakissa.nl/nieuws/2022/10/19/locatie-pauwstraat-permanent-gesloten-per-1-november\">just found out</a>, have gone out of business in 2022.</p>\n<p>More about the series can be found on <a href=\"https://www.wikiwand.com/en/With_the_Light\">WikiWand</a></p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finished reading: [With the Light: Raising an Autistic Child (With the Light, #1)](https://micro.blog/books/9780759523562) by Keiko Tobe 📚\n\nI read this first chapter of the extended manga series some time ago. The story still touches me, about a young family in modern Japan raising a child with autism. In a society where there is little support for autism. The mother does everything possible to give her son a good upbringing and education. There is much ignorance in her environment around autism. Slowly, she meets more like-minded people who accept her son as he is. \n\nI once found the complete series in a Manga and Anime exhibition in our public library. You can see the size of each volume on the picture below. This exhibition was organized with a local Manga shop who, as I [just found out](https://www.mangakissa.nl/nieuws/2022/10/19/locatie-pauwstraat-permanent-gesloten-per-1-november), have gone out of business in 2022. \n\nMore about the series can be found on [WikiWand](https://www.wikiwand.com/en/With_the_Light)\n\n<img src=\"uploads/2023/with-the-light.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"content_text": "Finished reading: [With the Light: Raising an Autistic Child (With the Light, #1)](https://micro.blog/books/9780759523562) by Keiko Tobe 📚\n\nI read this first chapter of the extended manga series some time ago. The story still touches me, about a young family in modern Japan raising a child with autism. In a society where there is little support for autism. The mother does everything possible to give her son a good upbringing and education. There is much ignorance in her environment around autism. Slowly, she meets more like-minded people who accept her son as he is. \n\nI once found the complete series in a Manga and Anime exhibition in our public library. You can see the size of each volume on the picture below. This exhibition was organized with a local Manga shop who, as I [just found out](https://www.mangakissa.nl/nieuws/2022/10/19/locatie-pauwstraat-permanent-gesloten-per-1-november), have gone out of business in 2022. \n\nMore about the series can be found on [WikiWand](https://www.wikiwand.com/en/With_the_Light)\n\n<img src=\"https://frankmeeuwsen.com/uploads/2023/with-the-light.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-11-10T06:39:30+01:00",
 				"url": "https://frankmeeuwsen.com/2023/11/10/finished-reading-with.html"
 			},
@@ -1357,7 +1381,7 @@
 				"id": "http://frank.micro.blog/2018/01/20/finally-visited-the.html",
 				
 				"content_html": "<p>Finally visited the Bonami computer- and consolemuseum in Zwolle today (Netherlands). Had sooooo much fun with my 5 year old son there with both old and new consolegames!</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Finally visited the Bonami computer- and consolemuseum in Zwolle today (Netherlands). Had sooooo much fun with my 5 year old son there with both old and new consolegames! \n\n<img src=\"uploads/2023/img-2729.jpg\" width=\"225\" height=\"300\" alt=\"\">\n",
+				"content_text": "Finally visited the Bonami computer- and consolemuseum in Zwolle today (Netherlands). Had sooooo much fun with my 5 year old son there with both old and new consolegames! \n\n<img src=\"https://frankmeeuwsen.com/uploads/2023/img-2729.jpg\" width=\"225\" height=\"300\" alt=\"\">\n",
 				"date_published": "2018-01-20T22:37:24+01:00",
 				"url": "https://frankmeeuwsen.com/2018/01/20/finally-visited-the.html"
 			},
@@ -1429,7 +1453,7 @@
 				"id": "http://frank.micro.blog/2017/12/26/pretty-happy-with.html",
 				
 				"content_html": "<p>Pretty happy with my new Panobooks from Studio Neat.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Pretty happy with my new Panobooks from Studio Neat. \n\n<img src=\"uploads/2023/img-7503.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n<img src=\"uploads/2023/img-7504.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n<img src=\"uploads/2023/img-7505.jpeg\" width=\"600\" height=\"589\" alt=\"\">\n<img src=\"uploads/2023/img-7506.jpeg\" width=\"600\" height=\"594\" alt=\"\">\n<img src=\"uploads/2023/img-7507.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n<img src=\"uploads/2023/img-7509.jpeg\" width=\"600\" height=\"597\" alt=\"\">\n",
+				"content_text": "Pretty happy with my new Panobooks from Studio Neat. \n\n<img src=\"https://frankmeeuwsen.com/uploads/2023/img-7503.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n<img src=\"https://frankmeeuwsen.com/uploads/2023/img-7504.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n<img src=\"https://frankmeeuwsen.com/uploads/2023/img-7505.jpeg\" width=\"600\" height=\"589\" alt=\"\">\n<img src=\"https://frankmeeuwsen.com/uploads/2023/img-7506.jpeg\" width=\"600\" height=\"594\" alt=\"\">\n<img src=\"https://frankmeeuwsen.com/uploads/2023/img-7507.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n<img src=\"https://frankmeeuwsen.com/uploads/2023/img-7509.jpeg\" width=\"600\" height=\"597\" alt=\"\">\n",
 				"date_published": "2017-12-26T15:09:19+01:00",
 				"url": "https://frankmeeuwsen.com/2017/12/26/pretty-happy-with.html"
 			},
@@ -1493,7 +1517,7 @@
 				"id": "http://frank.micro.blog/2017/12/11/working-at-home.html",
 				
 				"content_html": "<p>Working at home next to the xmas tree. Too much snow on the road&hellip;</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Working at home next to the xmas tree. Too much snow on the road...\n\n<img src=\"uploads/2023/img-7510.jpeg\" width=\"600\" height=\"593\" alt=\"\">\n",
+				"content_text": "Working at home next to the xmas tree. Too much snow on the road...\n\n<img src=\"https://frankmeeuwsen.com/uploads/2023/img-7510.jpeg\" width=\"600\" height=\"593\" alt=\"\">\n",
 				"date_published": "2017-12-11T10:27:32+01:00",
 				"url": "https://frankmeeuwsen.com/2017/12/11/working-at-home.html"
 			},
