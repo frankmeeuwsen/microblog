@@ -7,6 +7,70 @@
 	"items": [
 		
 			{
+				"id": "http://frank.micro.blog/2023/12/28/i-like-what.html",
+				
+				"content_html": "<p>I like what Amit states <a href=\"https://www.amitgawande.com/2023/12/17/every-time-i.html\">here</a>:</p>\n<blockquote>\n<p>Start with titleless posts as the base, making them first-class citizens. Stitch the design around that. And then add support for titles. People latched on to the microblogging phenomenon of Twitter and Facebook because they made posting interfaces frictionless</p>\n</blockquote>\n<p>Well&hellip; let&rsquo;s not forget the network effect of those silo&rsquo;s and how their Like and Tweet buttons showed up overnight in the blogosphere like the zombie fungus in &ldquo;The Last of Us&rdquo;&hellip;</p>\n",
+				"content_text": "I like what Amit states [here](https://www.amitgawande.com/2023/12/17/every-time-i.html):\n\n> Start with titleless posts as the base, making them first-class citizens. Stitch the design around that. And then add support for titles. People latched on to the microblogging phenomenon of Twitter and Facebook because they made posting interfaces frictionless\n\nWell... let's not forget the network effect of those silo's and how their Like and Tweet buttons showed up overnight in the blogosphere like the zombie fungus in \"The Last of Us\"...\n",
+				"date_published": "2023-12-28T06:50:55+01:00",
+				"url": "https://frankmeeuwsen.com/2023/12/28/i-like-what.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/12/26/always-check-the.html",
+				"title": "Always check the keys to your social accounts",
+				"content_html": "<p>What a way to start the day. I got <a href=\"https://indieweb.social/@frank/111645233243571690\">a notification</a> my Mastodon account was hacked. Well, not really my account, but the keys to an app I had authorized to post on the Mastodon timeline on behalf of me. It turned out to be the app Mastochist or Mastodon Super Tools, which I actually never heard of. When I searched the name of the app I got into an old copy of <a href=\"https://web.archive.org/web/20221206200552/https://mastochist.nl/\">a page on the Internet Archive</a>. This app lets you search for Twitter accounts on Mastodon, I think?</p>\n<p>Anyway, it&rsquo;s good to have regular reminders in your calendar/review-schedule to check the apps you authorized to do something with your social account. On Mastodon, you can find this on Settings &gt; Account &gt; Authorized Apps. Remove the ones you haven&rsquo;t used in a period of time you find suitable. Even better would be a setting that revokes the key when it&rsquo;s not used for <em>x</em> months.  Also it would be a great addition if the authorized apps are required to provide a description and home URL that are included on the list of authorized apps.  when you have the opportunity in app to give granular access to your account, choose the least amount of access for the app to work. Sometimes reading your timeline is more than enough instead of full access.</p>\n",
+				"content_text": "What a way to start the day. I got [a notification](https://indieweb.social/@frank/111645233243571690) my Mastodon account was hacked. Well, not really my account, but the keys to an app I had authorized to post on the Mastodon timeline on behalf of me. It turned out to be the app Mastochist or Mastodon Super Tools, which I actually never heard of. When I searched the name of the app I got into an old copy of [a page on the Internet Archive](https://web.archive.org/web/20221206200552/https://mastochist.nl/). This app lets you search for Twitter accounts on Mastodon, I think? \n\nAnyway, it's good to have regular reminders in your calendar/review-schedule to check the apps you authorized to do something with your social account. On Mastodon, you can find this on Settings > Account > Authorized Apps. Remove the ones you haven't used in a period of time you find suitable. Even better would be a setting that revokes the key when it's not used for _x_ months.  Also it would be a great addition if the authorized apps are required to provide a description and home URL that are included on the list of authorized apps.  when you have the opportunity in app to give granular access to your account, choose the least amount of access for the app to work. Sometimes reading your timeline is more than enough instead of full access. \n",
+				"date_published": "2023-12-26T08:26:36+01:00",
+				"url": "https://frankmeeuwsen.com/2023/12/26/always-check-the.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/12/25/i-am-very.html",
+				
+				"content_html": "<!-- raw HTML omitted -->\n<p>I am delighted with my new Midori A6 blank notebook. To celebrate Midori MD&rsquo;s 15th anniversary, <a href=\"https://md.midori-japan.co.jp/15th/en/products/collaboration/lindsay-arakawa/\">they invited</a> Lindsay Arakawa to get creative with the notebook cover. The text she created is embossed on the cover. I wanted to try the brand of notebooks and this is a great start to see how they feel, write and perform.</p>\n<p>See Lindsay&rsquo;s other work on <a href=\"https://www.lindsayarakawa.com/\">her website</a> and <a href=\"https://www.instagram.com/blindsaay/\">Instagram</a></p>\n",
+				"content_text": "\n<img src=\"uploads/2023/img-7725.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n\nI am delighted with my new Midori A6 blank notebook. To celebrate Midori MD's 15th anniversary, [they invited](https://md.midori-japan.co.jp/15th/en/products/collaboration/lindsay-arakawa/) Lindsay Arakawa to get creative with the notebook cover. The text she created is embossed on the cover. I wanted to try the brand of notebooks and this is a great start to see how they feel, write and perform. \n\nSee Lindsay's other work on [her website](https://www.lindsayarakawa.com/) and [Instagram](https://www.instagram.com/blindsaay/)\n",
+				"date_published": "2023-12-25T10:52:02+01:00",
+				"url": "https://frankmeeuwsen.com/2023/12/25/i-am-very.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/12/24/tree-and-gifts.html",
+				
+				"content_html": "<p>Tree and gifts are ready. Food is almost. Happy Festivus all.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Tree and gifts are ready. Food is almost. Happy Festivus all. \n\n<img src=\"uploads/2023/d4c01631526f4a819282463412b7ba68.jpg\" width=\"337\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-24T18:04:18+01:00",
+				"url": "https://frankmeeuwsen.com/2023/12/24/tree-and-gifts.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/12/24/funkopop-yourself.html",
+				"title": "Funkopop yourself",
+				"content_html": "<p>Yes&hellip; totally getting into the &ldquo;<a href=\"https://designer.microsoft.com/image-creator?p=Funko+figure+of+a+male%2C+smiling%2C+called+%5BFrank+Meeuwsen%5D%2C+wearing+%5Bglasses%2C+a+yellow+and+brown+flannel+Vans+shirt%2C+dark+blue+Levis+501+jeans+%5Dand+%5BBlack+Vans+skater+shoes%5D%2C+%5Bclean+cut+hair%5D%2C+%5Ba+medium+long+black+beard+with+touches+of+grey+in+the+front%5D.+The+Funko+is+displayed+%5Binside+and+outside%5D+a+limited+edition+%5Bgreen+and+yellow%5D+Funko+box+with+%5BBlogger%5D+text%2C+allowing+visibility+of+the+figure%2C+typography%2C+3D+render.+%5BWhite%5D+background&amp;referrer=PromptTemplate\">Funkopop yourself</a>&rdquo; AI hypemachinery. You need to login and tweak the prompt. Maybe Funko already ceased and desisted the possibility, but hey&hellip;we all love AI right&hellip;</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Yes... totally getting into the \"[Funkopop yourself](https://designer.microsoft.com/image-creator?p=Funko+figure+of+a+male%2C+smiling%2C+called+%5BFrank+Meeuwsen%5D%2C+wearing+%5Bglasses%2C+a+yellow+and+brown+flannel+Vans+shirt%2C+dark+blue+Levis+501+jeans+%5Dand+%5BBlack+Vans+skater+shoes%5D%2C+%5Bclean+cut+hair%5D%2C+%5Ba+medium+long+black+beard+with+touches+of+grey+in+the+front%5D.+The+Funko+is+displayed+%5Binside+and+outside%5D+a+limited+edition+%5Bgreen+and+yellow%5D+Funko+box+with+%5BBlogger%5D+text%2C+allowing+visibility+of+the+figure%2C+typography%2C+3D+render.+%5BWhite%5D+background&referrer=PromptTemplate)\" AI hypemachinery. You need to login and tweak the prompt. Maybe Funko already ceased and desisted the possibility, but hey...we all love AI right...\n\n<img src=\"uploads/2023/designer-funkopop.jpeg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-24T12:00:26+01:00",
+				"url": "https://frankmeeuwsen.com/2023/12/24/funkopop-yourself.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/12/24/one-thing-i.html",
+				
+				"content_html": "<p>One thing I plan to do today is configure <a href=\"https://github.com/joch/dayone-to-obsidian\">this script</a> to export 10+ years of <a href=\"https://dayoneapp.com/\">Day One</a> posts in Obsidian. I will not stop using Day One, far from it, but I am very curious to see what sort of connections I can make from within Obsidian with those private messages.</p>\n<p><strong>Update</strong>: <a href=\"https://github.com/quantumgardener/dayone-to-obsidian\">This script</a> might be more to my liking. I can better change the template and I love how it helps me import the thousands of photos I have in Day One.</p>\n",
+				"content_text": "One thing I plan to do today is configure [this script](https://github.com/joch/dayone-to-obsidian) to export 10+ years of [Day One](https://dayoneapp.com/) posts in Obsidian. I will not stop using Day One, far from it, but I am very curious to see what sort of connections I can make from within Obsidian with those private messages.\n\n**Update**: [This script](https://github.com/quantumgardener/dayone-to-obsidian) might be more to my liking. I can better change the template and I love how it helps me import the thousands of photos I have in Day One. \n",
+				"date_published": "2023-12-24T07:46:23+01:00",
+				"url": "https://frankmeeuwsen.com/2023/12/24/one-thing-i.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/12/24/obsidian-sync-is.html",
+				"title": "Obsidian Sync is the way to go in 2024",
+				"content_html": "<p>I just purchased Obsidian Sync for the coming year. Last Monday I attended the <a href=\"https://start.digitalefitheid.nl/c/agenda/de-pkm-meetup-show-tell-over-persoonlijk-kennis-management\">Obsidian Meetup</a> in Utrecht, where synchronisation with mobile was discussed. Several attendees were pleased with the paid synchronisation option Obsidian offers. On top of that, Obsidian now <a href=\"https://obsidian.md/blog/new-sync-plans/\">has a promotion</a>. If you purchase Obsidian Sync before Jan. 1, you get more vaults to sync, you can upload larger files and you get more disk space to sync.</p>\n<p>Once purchased you create a <em>sync vault</em> and it just works. I love that. The data is end-to-end encrypted with a strong password.</p>\n<p>Obsidian&rsquo;s iPhone app is not yet where it needs to be, but I hope my modest subscription makes a small contribution to the continued development of the ecosystem.</p>\n<p><a href=\"https://obsidian.md/blog/new-sync-plans/\">Obsidian&rsquo;s action</a> ends on Jan. 1, 2024.</p>\n",
+				"content_text": "I just purchased Obsidian Sync for the coming year. Last Monday I attended the [Obsidian Meetup](https://start.digitalefitheid.nl/c/agenda/de-pkm-meetup-show-tell-over-persoonlijk-kennis-management) in Utrecht, where synchronisation with mobile was discussed. Several attendees were pleased with the paid synchronisation option Obsidian offers. On top of that, Obsidian now [has a promotion](https://obsidian.md/blog/new-sync-plans/). If you purchase Obsidian Sync before Jan. 1, you get more vaults to sync, you can upload larger files and you get more disk space to sync.\n\nOnce purchased you create a *sync vault* and it just works. I love that. The data is end-to-end encrypted with a strong password.\n\nObsidian's iPhone app is not yet where it needs to be, but I hope my modest subscription makes a small contribution to the continued development of the ecosystem. \n\n[Obsidian's action](https://obsidian.md/blog/new-sync-plans/) ends on Jan. 1, 2024.\n",
+				"date_published": "2023-12-24T07:43:01+01:00",
+				"url": "https://frankmeeuwsen.com/2023/12/24/obsidian-sync-is.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2023/12/23/very-happy-to.html",
+				
+				"content_html": "<p>Very happy to see that <a href=\"https://bsky.app/profile/bsky.app/post/3kh5rjl6bgu2i\">Bluesky now supports RSS for profiles</a>. It would be great to be able to follow Bluesky profiles within your own Fediverse account (Mastodon, micro.blog, etc.), but I see this as a positive step. I am excited for 2024 and hope to see increased interoperability between platforms in daily use. I am still optimistic about it.</p>\n",
+				"content_text": "Very happy to see that [Bluesky now supports RSS for profiles](https://bsky.app/profile/bsky.app/post/3kh5rjl6bgu2i). It would be great to be able to follow Bluesky profiles within your own Fediverse account (Mastodon, micro.blog, etc.), but I see this as a positive step. I am excited for 2024 and hope to see increased interoperability between platforms in daily use. I am still optimistic about it.\n",
+				"date_published": "2023-12-23T09:08:50+01:00",
+				"url": "https://frankmeeuwsen.com/2023/12/23/very-happy-to.html"
+			},
+			{
 				"id": "http://frank.micro.blog/2023/12/22/this-was-quite.html",
 				
 				"content_html": "<p>This was quite the week with highs and lows. But now work is done for 2023. I look forward to 10 days off with the family. We focus on doing not too much. We all need to recharge. Let body and mind come to rest.</p>\n",
@@ -26,7 +90,7 @@
 				"id": "http://frank.micro.blog/2023/12/17/sending-out-christmas.html",
 				
 				"content_html": "<p>Sending out Christmas cards today. I still love this tradition. Thinking of unique messages and wishes for each receiver.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sending out Christmas cards today. I still love this tradition. Thinking of unique messages and wishes for each receiver. \n\n<img src=\"uploads/2023/9092203dced744c189e0712e17841d91.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
+				"content_text": "Sending out Christmas cards today. I still love this tradition. Thinking of unique messages and wishes for each receiver. \n\n<img src=\"https://frankmeeuwsen.com/uploads/2023/9092203dced744c189e0712e17841d91.jpg\" width=\"600\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-12-17T18:15:14+01:00",
 				"url": "https://frankmeeuwsen.com/2023/12/17/sending-out-christmas.html"
 			},
