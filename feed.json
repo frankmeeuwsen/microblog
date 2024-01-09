@@ -7,10 +7,36 @@
 	"items": [
 		
 			{
+				"id": "http://frank.micro.blog/2024/01/09/erik-geeft-een.html",
+				
+				"content_html": "<p>Erik geeft een mooi voorbeeld van een <a href=\"https://rkvssr.nl/2024/01/05/het-internet-weer-van-en-voor-jou-maken/\">homegrown</a> personal feedreader en mastodon client. Om zo weer meer eigenaarschap op je omline consumptie te krijgen. Mooi.</p>\n",
+				"content_text": "Erik geeft een mooi voorbeeld van een [homegrown](https://rkvssr.nl/2024/01/05/het-internet-weer-van-en-voor-jou-maken/) personal feedreader en mastodon client. Om zo weer meer eigenaarschap op je omline consumptie te krijgen. Mooi. \n",
+				"date_published": "2024-01-09T18:37:20+01:00",
+				"url": "https://frankmeeuwsen.com/2024/01/09/erik-geeft-een.html",
+				"tags": ["micropost"]
+			},
+			{
+				"id": "http://frank.micro.blog/2024/01/06/im-listening-to.html",
+				"title": "I'm listening to literature",
+				"content_html": "<p>I decided to start with audiobooks again. In the past, I listened to audiobooks and I quite liked it. Then podcasts took over, but I find myself listening to those less and less. Audiobooks help me enjoy great stories and literature more. So I&rsquo;m currently listening to <a href=\"https://micro.blog/books/9780385545143\">Harlem Shuffle: A Novel</a> by Colson Whitehead, <a href=\"https://micro.blog/books/9780547249643\">1984</a> by George Orwell and <a href=\"https://micro.blog/books/9783986478421\">Finnegan&rsquo;s Wake</a> by James Joyce 📚. I listened for 10 - 30 minutes of each to get the hang of it, see how it is to listen to stories in English and Dutch while doing my daily walk.</p>\n",
+				"content_text": "I decided to start with audiobooks again. In the past, I listened to audiobooks and I quite liked it. Then podcasts took over, but I find myself listening to those less and less. Audiobooks help me enjoy great stories and literature more. So I'm currently listening to [Harlem Shuffle: A Novel](https://micro.blog/books/9780385545143) by Colson Whitehead, [1984](https://micro.blog/books/9780547249643) by George Orwell and [Finnegan's Wake](https://micro.blog/books/9783986478421) by James Joyce 📚. I listened for 10 - 30 minutes of each to get the hang of it, see how it is to listen to stories in English and Dutch while doing my daily walk. \n",
+				"date_published": "2024-01-06T15:10:57+01:00",
+				"url": "https://frankmeeuwsen.com/2024/01/06/im-listening-to.html"
+			},
+			{
+				"id": "http://frank.micro.blog/2024/01/03/our-daughter-came.html",
+				
+				"content_html": "<p>Our daughter (17) came to me this afternoon and asked &ldquo;Can I get into the 1Password Family account?&rdquo; I did a little victory dance in my heart. About a year ago I told her we have a family account she can join to store her passwords, use passwords in shared vaults and make her online life more safe. She wasn&rsquo;t interested, she had her own solutions like storing passwords in the browser. But I knew she would turn around. It just takes time. I want my kids to be safe offline and online and I do the most to make sure they do. But sometimes you have to let them explore it for themselves instead of directing them. I&rsquo;m glad it worked out.</p>\n",
+				"content_text": "Our daughter (17) came to me this afternoon and asked \"Can I get into the 1Password Family account?\" I did a little victory dance in my heart. About a year ago I told her we have a family account she can join to store her passwords, use passwords in shared vaults and make her online life more safe. She wasn't interested, she had her own solutions like storing passwords in the browser. But I knew she would turn around. It just takes time. I want my kids to be safe offline and online and I do the most to make sure they do. But sometimes you have to let them explore it for themselves instead of directing them. I'm glad it worked out. \n",
+				"date_published": "2024-01-03T17:42:44+01:00",
+				"url": "https://frankmeeuwsen.com/2024/01/03/our-daughter-came.html",
+				"tags": ["micropost"]
+			},
+			{
 				"id": "http://frank.micro.blog/2024/01/03/im-mulling-in.html",
 				
-				"content_html": "<p>I&rsquo;m mulling in my brain about a new blogpost. On how I think <a href=\"https://obsidian.md/\">Obsidian</a> is the more modern successor of <a href=\"https://www.gnu.org/software/emacs/\">Emacs</a>. Based on extensibility, openness, community etc. I still need to think things through. If you have fiest thoughts on this, let me know!</p>\n",
-				"content_text": "I'm mulling in my brain about a new blogpost. On how I think [Obsidian](https://obsidian.md/) is the more modern successor of [Emacs](https://www.gnu.org/software/emacs/). Based on extensibility, openness, community etc. I still need to think things through. If you have fiest thoughts on this, let me know! \n",
+				"content_html": "<p>I&rsquo;m mulling in my brain about a new blogpost. On how I think <a href=\"https://obsidian.md/\">Obsidian</a> is the more modern successor of <a href=\"https://www.gnu.org/software/emacs/\">Emacs</a>. Based on extensibility, openness, community etc. I still need to think things through. If you have first thoughts on this, let me know!</p>\n",
+				"content_text": "I'm mulling in my brain about a new blogpost. On how I think [Obsidian](https://obsidian.md/) is the more modern successor of [Emacs](https://www.gnu.org/software/emacs/). Based on extensibility, openness, community etc. I still need to think things through. If you have first thoughts on this, let me know! \n",
 				"date_published": "2024-01-03T09:02:19+01:00",
 				"url": "https://frankmeeuwsen.com/2024/01/03/im-mulling-in.html",
 				"tags": ["micropost"]
