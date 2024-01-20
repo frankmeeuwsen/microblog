@@ -7,6 +7,42 @@
 	"items": [
 		
 			{
+				"id": "http://frank.micro.blog/2024/01/19/finished-reading-harlem.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780385545143\">Harlem Shuffle: A Novel</a> by Colson Whitehead 📚</p>\n",
+				"content_text": "Finished reading: [Harlem Shuffle: A Novel](https://micro.blog/books/9780385545143) by Colson Whitehead 📚\n",
+				"date_published": "2024-01-19T14:20:37+01:00",
+				"url": "https://frankmeeuwsen.com/2024/01/19/finished-reading-harlem.html",
+				"tags": ["micropost"]
+			},
+			{
+				"id": "http://frank.micro.blog/2024/01/19/the-day-starts.html",
+				
+				"content_html": "<p>The day starts with the streets full of snow here in Utrecht. Unfortunately my head feels like it&rsquo;s stuffed with cotton. The flu has hit me hard after a few days of lingering inside of me. It is time to take a break and rest. Thanks <a href=\"https://micro.blog/jean\">@jean</a> for the nice snail mail I received this week. These small presents really make my day.</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "The day starts with the streets full of snow here in Utrecht. Unfortunately my head feels like it's stuffed with cotton. The flu has hit me hard after a few days of lingering inside of me. It is time to take a break and rest. Thanks [@jean](https://micro.blog/jean) for the nice snail mail I received this week. These small presents really make my day.\n\n<img style=\"display:block; margin-left:auto; margin-right:auto;\" src=\"https://frankmeeuwsen.com/uploads/2024/888bb6172f.jpeg\" alt=\"snail mail from micro.blog. A postcard and some stickers\" title=\"IMG_7918.jpeg\" border=\"0\" width=\"300\" height=\"300\" /> \n",
+				"date_published": "2024-01-19T11:00:11+01:00",
+				"url": "https://frankmeeuwsen.com/2024/01/19/the-day-starts.html",
+				"tags": ["micropost"]
+			},
+			{
+				"id": "http://frank.micro.blog/2024/01/14/finished-reading-de.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9789025472832\">De diepst verborgen herinnering van de mens</a> (The Most Secret Memory of Man) by Mohamed Mbougar Sarr 📚. It&rsquo;s not an easy story, with a lot of substories and key players. I like the main premise of the story, on what is &ldquo;original&rdquo; in literature. But to be honest, it is not a book I would recommend a lot.</p>\n",
+				"content_text": "Finished reading: [De diepst verborgen herinnering van de mens](https://micro.blog/books/9789025472832) (The Most Secret Memory of Man) by Mohamed Mbougar Sarr 📚. It's not an easy story, with a lot of substories and key players. I like the main premise of the story, on what is \"original\" in literature. But to be honest, it is not a book I would recommend a lot.\n",
+				"date_published": "2024-01-14T20:13:46+01:00",
+				"url": "https://frankmeeuwsen.com/2024/01/14/finished-reading-de.html",
+				"tags": ["micropost"]
+			},
+			{
+				"id": "http://frank.micro.blog/2024/01/14/my-sunday-evening.html",
+				
+				"content_html": "<p>My Sunday evening is quite chill, thank you very much. Yet, I am in doubt what to do. I can browse through my feedreader and enjoy all the great writings of people I follow (see my <a href=\"http://my.feedland.org/frankmeeuwsen\">blogroll</a> on Feedland), I could write some more blog posts, or just fiddle away in some note-taking apps. As one does for a hobby. Or try to combine the three…</p>\n",
+				"content_text": "My Sunday evening is quite chill, thank you very much. Yet, I am in doubt what to do. I can browse through my feedreader and enjoy all the great writings of people I follow (see my [blogroll](http://my.feedland.org/frankmeeuwsen) on Feedland), I could write some more blog posts, or just fiddle away in some note-taking apps. As one does for a hobby. Or try to combine the three…\n",
+				"date_published": "2024-01-14T20:05:19+01:00",
+				"url": "https://frankmeeuwsen.com/2024/01/14/my-sunday-evening.html",
+				"tags": ["micropost"]
+			},
+			{
 				"id": "http://frank.micro.blog/2024/01/14/the-newsletter-own.html",
 				
 				"content_html": "<p>The newsletter Own Your Web (<a href=\"https://buttondown.email/ownyourweb/archive/issue-07/\">email</a>/<a href=\"https://buttondown.email/ownyourweb/rss\">RSS</a>) is once again a treat to read and click through. I love how <a href=\"https://mastodon.social/@matthiasott\">Mattias</a> collects, curates and creates every issue. A must-read subscription if you believe in a bright future for the open web!</p>\n",
@@ -19,7 +55,7 @@
 				"id": "http://frank.micro.blog/2024/01/14/the-astronomy-picture.html",
 				
 				"content_html": "<!-- raw HTML omitted -->\n<p>The astronomy picture of the day <a href=\"https://apod.nasa.gov/apod/ap240114.html\">is just stunning</a>! I love how the editors add lots of background to the picture, with links to deeper information. In this case, the link underneath the word &ldquo;enthralling&rdquo; got me curious. And I love the editors even more now&hellip;</p>\n",
-				"content_text": "<img src=\"uploads/2024/dragonaurora-zhang-960.jpg\" width=\"600\" height=\"863\" alt=\"\">\r\n\r\nThe astronomy picture of the day [is just stunning](https://apod.nasa.gov/apod/ap240114.html)! I love how the editors add lots of background to the picture, with links to deeper information. In this case, the link underneath the word \"enthralling\" got me curious. And I love the editors even more now...\n",
+				"content_text": "<img src=\"https://frankmeeuwsen.com/uploads/2024/dragonaurora-zhang-960.jpg\" width=\"600\" height=\"863\" alt=\"\">\r\n\r\nThe astronomy picture of the day [is just stunning](https://apod.nasa.gov/apod/ap240114.html)! I love how the editors add lots of background to the picture, with links to deeper information. In this case, the link underneath the word \"enthralling\" got me curious. And I love the editors even more now...\n",
 				"date_published": "2024-01-14T14:21:34+01:00",
 				"url": "https://frankmeeuwsen.com/2024/01/14/the-astronomy-picture.html",
 				"tags": ["micropost"]
