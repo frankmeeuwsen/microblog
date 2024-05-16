@@ -25,6 +25,159 @@
 	  <div class="h-entry">
 		
 
+		<a href="https://frankmeeuwsen.com/2024/05/16/on-my-day.html" class="u-url"><time class="dt-published" datetime="2024-05-16 06:12:18 &#43;0200">May 16, 2024</time></a>
+
+		<div class="e-content">
+			 <p>On my day off I did what I wanted to do. Build robots out of old stuff. It’s a fun way to keep myself entertained and learn <a href="https://en.m.wikipedia.org/wiki/Kitbashing">kitbashing</a> along the way. The final result will be be up in a few days.</p>
+<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://frankmeeuwsen.com/2024/05/11/pearl-jam-is.html" class="u-url"><time class="dt-published" datetime="2024-05-11 08:41:04 &#43;0200">May 11, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Pearl Jam is on tour again and of course there are tons of fans livestreaming every show. I’m watching them play live in Portland right now thanks to Instagram. While our cat Bowie has his morning nap Eddie Vedder belches out the lyrics to Do the Evolution.</p>
+<blockquote>
+<p><a href="https://genius.com/2949319/Pearl-jam-do-the-evolution/Im-ahead-im-a-man-im-the-first-mammal-to-wear-pants-yeah">I’m ahead, I&rsquo;m a man. I’m the first mammal to wear pants, yeah</a></p>
+</blockquote>
+<p><img src="https://frankmeeuwsen.com/uploads/2024/signal-2024-05-11-083020-008.jpeg" alt="A cat sleeps on a yellow couch cushion beside a smartphone displaying a live concert while a bookshelf and drumkit are in the background."></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://frankmeeuwsen.com/2024/05/11/een-kleine-stap.html" class="u-url"><time class="dt-published" datetime="2024-05-11 07:41:32 &#43;0200">May 11, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Een kleine stap brengt veel vooruit.</p>
+<p>Een six word story, iets dat me de laatste twee weken bezighoudt. Binnen ons team van Kaliber Studio oefenen we met dit format. Eén van ons geeft op donderdag een prompt of thema, de maandag er op delen we onze Six Word Stories bij de start van ons wekelijks overleg.</p>
+<p>Ik was daarom blij verrast om te zien dat Remco van den Akker een verwoed Six Word Story schrijver is! Ik ontmoette Remco online, omdat ik op zoek was naar een goede lamp bij mijn tweede scherm. Hij heeft me daar uitstekend mee geholpen en we raakten aan de praat over bloggen. Hij wilde al een tijd zijn blog starten, had al wel wat staan maar wist niet goed hoe verder. Ik <a href="https://remcovandenakker.nl/2024/04/25/wie-schrijft-die.html">lees zojuist</a> dat mijn tips hem dat zetje hebben gegeven om daadwerkelijk te publiceren. Daarom speciaal voor hem deze Six Word Story! Het maakt me blij dat ik door kleine zetjes iemand vooruit kan helpen. Vooral als het gaat om online publiceren en je eigenaarschap online omarmen.</p>
+<p>Die tips zou ik weer eens als blogpost moeten delen. Ik heb in het verleden genoeg van dat soort posts geschreven. <a href="https://diggingthedigital.com/een-open-einde/">Hier een voorbeeld</a>. Vooruit, <a href="https://diggingthedigital.com/bloggen-advies/">nog eentje dan</a>. Ik kan er inmiddels wel een mooie verzameling van maken. Maar eerst ga ik van een zonnig weekend genieten en Remco’s <a href="https://remcovandenakker.nl/categories/sixword/">Six Word Stories</a> lezen!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://frankmeeuwsen.com/2024/05/10/how-to-create.html">How to create a stylized RSS feed on micro.blog</a></h1>
+		
+
+		<a href="https://frankmeeuwsen.com/2024/05/10/how-to-create.html" class="u-url"><time class="dt-published" datetime="2024-05-10 10:06:43 &#43;0200">May 10, 2024</time></a>
+
+		<div class="e-content">
+			 <p>One of the most influential and robust protocols on the web is RSS. There, I said it. without RSS, we wouldn&rsquo;t have known the social timelines, podcasts would cease to exist and we wouldn&rsquo;t have an extra reason to hate Google for abandoning a great product (Google Reader that is&hellip;)</p>
+<p>But RSS-feeds have a big flaw: They are <em>impossible</em> to read and understand for a normal human being. RSS is meant <a href="https://rss.softwaregarden.com/aboutrss.html">to be read by machines</a> and not by us mere mortals. But if you want to get started with RSS, you will visit a link to a feed and be all like &ldquo;WTF is thís garbled mess of code and letters? I don&rsquo;t understand, bring me back to my pristine algorithmic timeline! I shant visit such a feed-page again!&rdquo;</p>
+<p><img src="https://frank-test.micro.blog/uploads/2024/20240510095305-sourcehttpsfrankmeeuwsencomfeed.png" alt="A screenshot displays XML code for an RSS feed with textual descriptions and links related to website content creation."></p>
+<p>Anyway&hellip;</p>
+<p>Time to get this fixed.</p>
+<p>Since I have some control over the templates on my blog, I can create a stylesheet to make the RSS-feed more readable for humans, yet keep it machine-readable under water. This is all done by the magic power of XSLT. Yes, another abbreviation, I can&rsquo;t help this. The technologists need some proper copywriters and productmanagers to make this all a bit more inclusive for&hellip;you know&hellip;all of us.<br>
+<a href="https://en.wikipedia.org/wiki/XSLT">XSLT</a> stands for Extensible Stylesheet Language Transformations. It is used to transform machine-readable documents into human-readable documents. With specific rules you can reorder and manipulate the contents of the original document without actually changing this source for the machines. Sounds like something we can use!</p>
+<p>I added an XSLT-file to <a href="https://frankmeeuwsen.com/feed.xml">my RSS feed</a>, in which I also explain what RSS is and show the last 25 posts. Just by giving it some styling we fix a <em>major</em> user experience problem for those who are new to RSS and it makes your webfeed feel part of the open web. And it has no impact on those who already use RSS. What a win!</p>
+<h2 id="how-to-style-your-rss-feed-at-microblog">How to style your RSS feed at Micro.blog</h2>
+<p>These next steps will help you to create a human-readable RSS feed for your <a href="https://micro.blog">micro.blog</a>-based website. The steps are relatively the same for other blogplatforms, as long as you have access to the templating engine.</p>
+<h3 id="step-1-create-a-custom-theme-to-work-in">Step 1: Create a custom theme to work in</h3>
+<p>Go to the admin-section of Micro.blog &gt; Design  and pick <em>Edit Themes</em> button below &ldquo;Hugo Version&rdquo;
+For this post, I use my test site with the default theme from Micro.blog. You need to make a custom theme. Don&rsquo;t worry, I&rsquo;ll guide you through it. It&rsquo;s just a few steps. Click the blue &ldquo;New Theme&rdquo; button on top.
+Give your own theme a name and click Add Theme. You don&rsquo;t need to clone a github URL.</p>
+<p><img src="https://frank-test.micro.blog/uploads/2024/20240509122958-addtheme.png" alt="A webpage form with fields Title filled with My custom theme for the default theme and Clone URL empty, buttons Back and Add Theme. Text above reads Create a new theme to provide custom templates for your blog."></p>
+<h3 id="step-2-create-your-first-xslt-file">Step 2: Create your first XSLT file</h3>
+<p>Now click on the name of your new custom theme, in the list of Themes.
+You&rsquo;ll get to a page with templates. On top, click the blue button &ldquo;New Template&rdquo;
+Create a new file called &ldquo;static/css/rss.xsl&rdquo; (without the quotation marks)</p>
+<p>Copy the raw text from <a href="https://gist.github.com/frankmeeuwsen/8da48d27f011d7e2a09e015627e522d8">this file</a> (tip: click the button &ldquo;raw&rdquo; and select all the text you see), paste it in the editor and click &ldquo;Update template&rdquo;</p>
+<p><img src="https://frank-test.micro.blog/uploads/2024/20240509121229-xslt.png" alt="Computer screen displaying code for an XML stylesheet surrounded by the software user interface, with a message on the right about previewing a blog theme."></p>
+<p>Click &ldquo;Back&rdquo;</p>
+<p>You will now see the file <em>static/css/rss.xsl</em> under the header &ldquo;Custom Templates&rdquo;. Hurrah! You created your first custom template. Celebrate.</p>
+<h3 id="step-3-connect-your-xslt-file-with-your-rss-feed">Step 3: Connect your XSLT file with your RSS feed</h3>
+<p>Again click on &ldquo;New Template&rdquo;. Name this one &ldquo;layouts/index.xml&rdquo;. Get the raw text from <a href="https://gist.github.com/frankmeeuwsen/dd84d96a6efcfd317055fe78968fdc72">this file</a> and paste it in the file. Update template and click &ldquo;Back&rdquo; again.
+You now have two files under Custom Templates: layouts/index.xml and static/css/rss.xsl.</p>
+<p><img src="https://frank-test.micro.blog/uploads/2024/20240510100125-custom.png" alt="A user interface displays buttons for Back, Delete Theme, Duplicate, and New Template, and editable fields titled My custom theme for th and Update Title above a section labeled Custom Templates with listed files layouts/index.xml and static/css/rss.xsl."></p>
+<p>You have effectively created a duplicate of the original template for an RSS feed. Which is exactly what should have happened. Celebrate again.</p>
+<h3 id="step-4-update-your-blog-with-your-new-template">Step 4: Update your blog with your new template</h3>
+<p>Go back to Design and select your custom theme. Click &ldquo;Update blog settings&rdquo;
+You might have to rebuild the complete blog for everything to settle in. Go to Account &gt; Logging &gt; View Logs and click &ldquo;Rebuild <em>your sitename</em>&rdquo;</p>
+<h3 id="step-5-check-your-hard-work-on-the-internet">Step 5: Check your hard work on the internet</h3>
+<p>Now go to the RSS-feed page of your site (yoururl.com/feed.xml) and tadaa! Here is your stylized feedpage. Isn&rsquo;t that wonderful!</p>
+<h3 id="step-6-some-explanation-how-the-feed-is-shown">Step 6: Some explanation how the feed is shown</h3>
+<p>Most of the XSLT file is styling of the page. There is a small part that actually takes the machine-readable contents of your RSS feed and displays it in a specific way. I made a choice to show only the title and the  published date. I don&rsquo;t always use titles. When this happens, I want to show the first 30 characters of the blogpost, without any HTML-output like paragraphs, links or images. In the XSL file (see the <a href="https://gist.github.com/frankmeeuwsen/8da48d27f011d7e2a09e015627e522d8#file-rss-xsl-L106">gist file</a> again) I have the following logic built in</p>
+<ul>
+<li>When the title of the item is longer than 0 zero characters (so there is a title), show the title</li>
+<li>If not, get the description and take everything after the first opening paragraph tag. I have this extra check, because I found out I had two posts starting with an img tag. I only want the text of the post.</li>
+<li>After that, I call the extra template &ldquo;remove-html&rdquo; (you can find this at the bottom of the file). This is a sort of function to strip all HTML from the description and give this back. Thanks to <a href="https://maulikdhorajia.blogspot.com/2011/06/removing-html-tags-using-xslt.html">Maulik</a> for providing the necessary code!</li>
+<li>Get the first 30 characters of the returned, cleaned text and use this as a title. End it with three ellipses so the reader understands there is more.</li>
+</ul>
+<p>In <a href="https://gist.github.com/frankmeeuwsen/dd84d96a6efcfd317055fe78968fdc72">the custom template</a> for the RSS-feed, I added a link to the XSL-file for styling and I added the information to show your avatar in the styled feed. This should not impact your current readers.</p>
+<p>Now go out and make RSS great again!</p>
+<p>All the styling is done in the XSLT file. Other authors created their own styling for the RSS feed. A few examples:</p>
+<ul>
+<li><a href="https://lepture.com/feed.xml">Hsiaoming Yang</a></li>
+<li><a href="https://daverupert.com/atom.xml">Dave Rupert</a></li>
+<li><a href="https://thepcspy.com/feeds/full.xml">Oli Warner</a></li>
+<li><a href="https://chrismorgan.info/feed.xml">Chris Morgan</a></li>
+<li><a href="https://karmanyaah.malhotra.cc/feed.xml">Karmanyaah Malhotra</a></li>
+<li><a href="https://sachachua.com/blog/feed/">Sacha Chua</a></li>
+</ul>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://frankmeeuwsen.com/2024/05/09/it-turns-out.html" class="u-url"><time class="dt-published" datetime="2024-05-09 06:40:37 &#43;0200">May 9, 2024</time></a>
+
+		<div class="e-content">
+			 <p>It <a href="https://help.micro.blog/t/how-to-style-the-rss-feed/2833/2">turns out</a> my idea how to add a stylesheet to my RSS feed was right. Now I need to get it working. I <em>think</em> I have all the elements in place, yet somehow <a href="https://frankmeeuwsen.com/feed.xml">the feed</a> doesn’t show any other styling or new elements I added to the template.</p>
+<!-- raw HTML omitted -->
+<p>Maybe I should add a new post to have the underlying machines create a new feed where it will use my new template. So that’s what this post is, next to a small update.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://frankmeeuwsen.com/2024/05/08/added-this-to.html" class="u-url"><time class="dt-published" datetime="2024-05-08 21:49:42 &#43;0200">May 8, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Added this to the public <a href="https://help.micro.blog/t/how-to-style-the-rss-feed/2833">micro.blog forum</a>, but perhaps I can find help here as well:
+In accordance to the idea to <a href="https://darekkay.com/blog/rss-styling/">make an RSS feed more pleasing to the eye</a>, I want to add an XSL stylesheet to my feed. I use the Tiny Theme. What would be the best way to do this? Should I create a copy of layouts/_default/rss.xml and add the reference to the XSL stylesheet in there? And how would I create a XSL stylesheet in the directory structure? Is this also like layouts/_default/rss.xsl or could this better be static/css/rss.xsl?</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://frankmeeuwsen.com/2024/05/08/just-browsing-through.html" class="u-url"><time class="dt-published" datetime="2024-05-08 20:05:20 &#43;0200">May 8, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Just browsing through my bookmarks and I came across <a href="https://phanpy.social">Phanpy.social</a>, a nice client for Mastodon. I like their catch-up functionality where you can filter and tweak what you want to see from your timeline at any given moment. It also has some great shortcuts to browse through the timeline by just using your keyboard. They instantly feel familiair to me.</p>
+<!-- raw HTML omitted -->
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://frankmeeuwsen.com/2024/05/08/i-took-the.html" class="u-url"><time class="dt-published" datetime="2024-05-08 19:39:33 &#43;0200">May 8, 2024</time></a>
+
+		<div class="e-content">
+			 <p>I took the plunge and decided to give the <a href="https://arc.net/gift/ff5d7883">Arc browser</a> another try. It is such a different way of browsing the web and working on the web. But it is enticing. I feel like I can do more by just using another browser.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
 		<a href="https://frankmeeuwsen.com/2024/05/02/als-de-sterren.html" class="u-url"><time class="dt-published" datetime="2024-05-02 08:19:10 &#43;0200">May 2, 2024</time></a>
 
 		<div class="e-content">
@@ -137,7 +290,7 @@ My search for miniature toys for my own craft- and kitbashing yielded nothing. W
 
 		<div class="e-content">
 			 <p>&ldquo;we&rsquo;ll meet at Miffy&rdquo;, Peter said and I knew exactly <a href="https://ruk.ca/content/boxplanation">where that was</a>. They had just come back from Roy Scholten&rsquo;s printing atelier in Hilversum to pick up the new edition of <a href="https://ruk.ca/">Peter</a>, <a href="https://lisachandler.is/">Lisa</a> and their daughter L. ‘s project This Box is for Good. A fantastic idea to spread connection, inspiration, fun and ideas around the world. Or as they say themselves <a href="https://thisbox.info/">on the website</a>: creative social interventions.</p>
-<p><img src="https://frankmeeuwsen.com/uploads/2024/img-8811.jpeg" alt="Four similar cardboard boxes are aligned, each with the text &ldquo;THIS BOX IS FOR GOOD&rdquo; and colorful abstract designs. They sit on a dark surface with items in the background."></p>
+<p><img src="https://frankmeeuwsen.com/uploads/2024/img-8811.jpeg" alt="Four similar cardboard boxes are aligned, each with the text THIS BOX IS FOR GOOD and colorful abstract designs. They sit on a dark surface with items in the background."></p>
 <p>I now have four boxes waiting to be filled with something special for anyone else. My wife and I think about who we should give a box to both enjoy the contents and to better solidify the idea these boxes will travel the world in due time.
 Equal the fun is thinking about what the box should contain to give joy and delight. I am pondering the idea of all four of us making something to add to the box. But are we creative enough? (Yes, silly yet unrelenting voice inside my head, everyone is a creative!) And since we have four boxes, maybe each one of should give a box away to someone in their circle.</p>
 <p>The creative cranks are cranking again, I&rsquo;m feeling the joy of this project and what it can do moving forward. Thank you Peter, Lisa and L. for including us in your creative social interventions!</p>
