@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://frank.micro.blog/2024/07/18/i-know-im.html",
+				
+				"content_html": "<p>I know I&rsquo;m not alone in my worries of VC&rsquo;s endorsing Trump. But Joan Westenberg describes it so much better in her piece <a href=\"https://joanwestenberg.com/macro-morons-with-micro-visions-the-vc-disaster-tour\">Macro-Morons with Micro-Visions: The VC Disaster Tour</a> than I can.</p>\n<blockquote>\n<p>The same guys who couldn’t predict a housing market crash if it danced naked in front of them wearing nothing but a sign saying “I’m a fucking housing market crash” are now playing political kingmakers.\n[&hellip;] They’re playing economic Jenga, and they’ve decided that the best move is to take a sledgehammer to the whole fucking tower. It’s a bet on chaos.</p>\n</blockquote>\n",
+				"content_text": "I know I'm not alone in my worries of VC's endorsing Trump. But Joan Westenberg describes it so much better in her piece [Macro-Morons with Micro-Visions: The VC Disaster Tour](https://joanwestenberg.com/macro-morons-with-micro-visions-the-vc-disaster-tour) than I can. \n\n> The same guys who couldn’t predict a housing market crash if it danced naked in front of them wearing nothing but a sign saying “I’m a fucking housing market crash” are now playing political kingmakers.\n> [...] They’re playing economic Jenga, and they’ve decided that the best move is to take a sledgehammer to the whole fucking tower. It’s a bet on chaos.\n",
+				"date_published": "2024-07-18T06:28:20+02:00",
+				"url": "https://frankmeeuwsen.com/2024/07/18/i-know-im.html",
+				"tags": ["micropost"]
+			},
+			{
 				"id": "http://frank.micro.blog/2024/07/17/a-large-group.html",
 				
 				"content_html": "<p>A large group of Silicon Valley VC&rsquo;s backs Trump financially. I already knew about Musk, but the a16z founders also decide to endorse the Republican nominee. It&rsquo;s gonna be a hot summer. I am curious how these moves will affect European and Dutch regulations on tech, AI, data, privacy in the long run. <a href=\"https://techcrunch.com/2024/07/16/andreessen-horowitz-co-founders-explain-why-theyre-supporting-trump/\">techcrunch.com/2024/07/1&hellip;</a></p>\n",
