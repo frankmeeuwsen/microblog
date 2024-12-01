@@ -24,6 +24,55 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://frankmeeuwsen.com/2024/12/01/ik-liet-ai.html">Ik liet AI een adventskalender maken</a></h1>
+		
+
+		<a href="https://frankmeeuwsen.com/2024/12/01/ik-liet-ai.html" class="u-url"><time class="dt-published" datetime="2024-12-01 10:47:37 &#43;0100">Dec 1, 2024</time></a>
+
+		<div class="e-content">
+			 <p>De afgelopen weken liep ik met wat ideeën in mijn hoofd die nu samen zijn gekomen in een klein project wat ik zojuist live zette. <a href="http://aidventskalender.nl/">De AIdventskalender 2024</a>. Een persoonlijk project om AI en programmeren samen te brengen. Wat bracht me hiertoe? Drie losse momenten.</p>
+<ol>
+<li>Terwijl ik met iemand praatte over adventskalenders, vroeg ik me af of het domein AIdventskalender.nl nog vrij zou zijn. Ja dus.</li>
+<li>Mijn oude blog <a href="https://diggingthedigital.com">Digging the Digital</a> draait nog altijd op WordPress, maar liever wil ik die omzetten in een statische site, zodat het minder resources kost. En eenvoudiger is te hosten ergens. Ik wil daarom kijken hoe ik die site in <a href="https://gohugo.io/">Hugo</a> kan omzetten, een framework voor statische sites</li>
+<li>In <a href="https://art19.com/shows/poki/episodes/b9c86c37-8ea1-49d5-8ba2-adb8121d480c">POKI</a>, de Podcast over Kunstmatige Intelligentie, hoorde ik Wietse praten over manieren om programmeerwerk over te laten nemen.</li>
+</ol>
+<p>Breng dat allemaal bij elkaar&hellip; en ik heb weer een projectje!</p>
+<p><img src="https://frankmeeuwsen.com/uploads/2024/aidvent-calendar.jpg" alt="Screenshot van de AIdventskalender"></p>
+<p>In een aantal avonden maakte ik de <a href="http://aidventskalender.nl/">AIdventskalender</a>. Ik heb geen letter code zelf geschreven. Alles is door AI gegenereerd, ik heb het eenvoudigweg steeds geknipt en geplakt. Krijg ik een foutmelding? Dan geef ik de foutmelding aan de chatbot (Claude Pro in dit geval) en die ging aan de slag om het te verbeteren. Ik heb wel meer dan alleen Claude gebruikt. De allereerste versie van de site kwam uit <a href="https://github.com/All-Hands-AI/OpenHands?tab=readme-ov-file">Open Hands</a>, een platform met software development agents. Met behulp van AI kun je met prompts een eerste ruwe versie van een app laten maken. Die versie heb ik overgenomen in VSCode en ben daarna met behulp van de chatbot <a href="https://claude.ai/new">Claude</a> stap voor stap alles gaan verbeteren.</p>
+<p>Je kunt een groot deel meelezen in <a href="https://gist.github.com/frankmeeuwsen/8dcf5c0e13975b009a995e0c518b3ff9">het chatverslag</a> dat ik op Github heb gepubliceerd.</p>
+<p>Wat me zoal opviel in het hele proces:</p>
+<ul>
+<li>Ik moest sowieso een hoop troubleshooten rondom de lokale installatie van Hugo. Tenminste, dat dacht ik. Maar Claude ging in een <em>rabbit-hole</em> van versies en plugins die uiteindelijk niet nodig bleek te zijn. Door zelf goed op te letten.</li>
+<li>Wat me brengt bij: <em>Enige kennis is wel handig</em>. Zowel van programmeren als van verschillende pakketten. De code die ik kreeg was soms verouderd, soms besloot Claude andere variabelen te gebruiken. Of het vergat hele stukken opnieuw aan te bieden.</li>
+<li>Een <em>systeem prompt</em> is daarom handig. Daarmee geef je basis instructies aan de chatsessie. Hier kon ik steeds mee tweaken zoals de opdracht om <em>altijd</em> de volledige code plus eventuele aanpassingen terug te geven.</li>
+<li>Claude is heel vriendelijk. Aan de hand van de code en de werking had het al snel door dat ik een adventskalender maakte. Daarop kwam het met <em>suggesties</em> om de kalender wat meer aan te kleden. Niet alle suggesties waren even waardevol, maar er zat soms wat aardigs tussen.</li>
+<li>Met <em>logisch nadenken</em> kom je best ver. Als ik zelf het idee had dat we onnodige code maakte, dan vroeg ik dat, stelde een alternatief voor en hoe Claude dat zou oppakken. Soms gingen we dan de goede kant op, soms gaf Claude aan waarom het wel handig is om een bepaalde keuze te maken.</li>
+<li>Je <em>eigen creativiteit</em> helpt. Bijvoorbeeld, ik wilde een Javascript om de deur van elke dag echt als deur te openen en sluiten. Na wat iteraties met Claude had ik een versie waar ik tevreden over ben. Claude had dit zelf (nog) niet bedacht.</li>
+<li>Ik liet Claude <a href="https://gist.github.com/frankmeeuwsen/d0b4e6f52a6fdbfcaae76c28c7ee2bca">een eenvoudig Bash-script schrijven</a> om direct 24 dagen aan ideeën te genereren, rondom Kerstmis en AI. en om deze direct in het juiste bestandsformat op te slaan. Om eerlijk te zijn, het was allemaal te generiek. Voor elk deurtje heb ik <em>de tekst zelf herschreven</em> en er eigen links bij gezocht. Dus eigenlijk is de content is van mij, de code van Claude.</li>
+<li>Er zaten steeds een paar dagen tussen de sessies dat ik met Claude werkte. Ik kon soms met de bestaande chatsessie doorgaan. Maar door de populariteit van Claude, kreeg ik meldingen dat chatsessies niet té lang moesten worden en ik beter een nieuwe sessie kon beginnen. Dat betekende dat ik weer allerlei kennis moest overhevelen, zoals bestanden en afspraken.</li>
+<li>Sowieso helpt het om bestanden te uploaden met je code. HTML, Javascript, CSS, Claude eet alles en kan je dan veel gerichter helpen. Zelfs screenshots van mijn browser-console met debug-berichten konden Claude de goede kant op sturen.</li>
+</ul>
+<p>Ik had nog geen ervaring met Github Actions, een manier om automatisch taken en workflows uit te voeren in Github repositories. Met behulp van Claude kreeg ik alle uitleg, achtergrondinformatie en stappenplan. Toegepast op mijn situatie. Door iets nieuws te leren (Github Actions in dit geval) en het direct in een lopend project toe te passen, geeft mij meer voldoening dan eerst alle achtergronden te kennen en het stapje voor stapje via een Hello World voorbeeld te leren. Zo ook met het werken in Hugo templates, de projectstructuur en hoe content en templates samen tot een site leiden.</p>
+<p>Ik ben over de afgelopen 2 weken zo&rsquo;n 6 uur met dit project bezig geweest. Van registratie van de domeinnaam tot publicatie van <a href="http://aidventskalender.nl/">de huidige versie</a>. Leuk om hier eens mee bezig te zijn. Ik heb geen ambitie om software engineer te worden, of een full stack developer. Maar soms heb je van die ideeën die je wel zelf tot leven wil brengen. De code die ik door Claude heb laten maken zal door menselijke intelligentie en kennis zeker sneller, compacter en efficiënter kunnen. Als dit een proof of concept is, dan zou ik het vervolg zeker door een menselijke developer laten oppakken.</p>
+<p>Geniet de komende maand van de AIdventskalender! Alles is statisch gehost, je kunt <a href="https://github.com/frankmeeuwsen/adventskalender">de broncode zelf bekijken</a> en verbeteren als je wilt.</p>
+<p>Wat vind je er van?</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://frankmeeuwsen.com/2024/11/29/een-vrolijke-en.html" class="u-url"><time class="dt-published" datetime="2024-11-29 07:49:29 &#43;0100">Nov 29, 2024</time></a>
+
+		<div class="e-content">
+			 <p>Een vrolijke en gezegende <a href="https://nl.wikipedia.org/wiki/Sint_Pannekoek">Sint Pannekoek</a> vandaag!</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://frankmeeuwsen.com/2024/11/24/bookmark-leaving-and.html">Bookmark - Leaving and waving</a></h1>
 		
 
