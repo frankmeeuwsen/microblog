@@ -24,6 +24,147 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://frankmeeuwsen.com/2025/01/10/spark-toon-random-kennis-in.html">SPARK! Toon random kennis in Obsidian</a></h1>
+		
+
+		<a href="https://frankmeeuwsen.com/2025/01/10/spark-toon-random-kennis-in.html" class="u-url"><time class="dt-published" datetime="2025-01-10 13:47:10 &#43;0100">Jan 10, 2025</time></a>
+
+		<div class="e-content">
+			 <p>Boven de multi-kolom layout op mijn Obsidian homepage laad ik continu een random paragraaf uit de Tao Te Ching. Door op een button te klikken verandert de paragraaf en kan ik naar het origineel doorklikken voor verdere studie. Ik <a href="https://frankmeeuwsen.com/2024/11/16/hoe-ziet-mijn.html">maakte hiervoor een eigen script</a>, in samenspraak met de chatbot Claude van Anthropic.</p>
+<p><img src="https://frankmeeuwsen.com/uploads/2024/20241116150645-obsidian-homefrankopediaobsidian-v1.7.601.gif" alt="Animatie van de veranderende tekst"></p>
+<p>Hier kreeg ik best wat vragen over, &ldquo;hoe kan ik dat script zelf gebruiken? Welke onderdelen moet ik aanpassen?&rdquo;</p>
+<p>Om dat op te lossen én een eigen micro-obsessie te beantwoorden, ben ik weer samen met mijn buddy Claude aan de slag gegaan. In deze blogpost leg ik je uit hoe je dit script kunt installeren, hoe je het op een pagina plaatst én ik vraag je om feedback!</p>
+<p>PS: De micro-obsessie is &ldquo;Hoe kan ik met AI een ruw idee voor een script vormgeven en verder brengen?&rdquo;</p>
+<h2 id="wat-doet-spark">Wat doet SPARK?</h2>
+<p>Allereerst, de naam ✨ SPARK! Die staat voor</p>
+<ul>
+<li><strong>S</strong>ummoning</li>
+<li><strong>P</strong>aragraphs</li>
+<li><strong>A</strong>s</li>
+<li><strong>R</strong>andom</li>
+<li><strong>K</strong>nowledge</li>
+</ul>
+<p>Met dank aan Claude voor het zetje in de juiste richting met deze naam. Ik stuurde het deze kant op, Claude kwam met de juiste volgorde van de woorden.</p>
+<p>Met Spark kun je op elke pagina in Obsidian een random deel van een tekst uit je Obsidian vault halen. Je kunt zelf instellen uit welke folder de teksten komt, hoeveel paragrafen je wilt tonen, de tekst en styling van de Spark-button en eventuele emoji.</p>
+<h2 id="installatie">Installatie</h2>
+<p>Uiteindelijk maak ik van dit script een plugin, maar ik wil graag met mijn lezers en de <a href="https://start.digitalefitheid.nl/home">Digitale Fitheid community</a> eerst wat proefdraaien, daarom is het nu nog wat handwerk en moet je een beetje meer je best doen. Ik heb geprobeerd de installatie voor nu zo eenvoudig mogelijk te maken. De installatie bestaat uit 3 delen:</p>
+<ul>
+<li>Het script installeren</li>
+<li>Het script aanroepen en configureren</li>
+<li>Er is geen stap 3</li>
+</ul>
+<p>Het is een vereiste dat je <a href="https://blacksmithgu.github.io/obsidian-dataview/">de Dataview plugin</a> (<a href="obsidian://show-plugin?id=dataview">Obsidian</a> / <a href="https://github.com/blacksmithgu/obsidian-dataview">Github</a>) hebt geïnstalleerd en je in de instellingen de optie &ldquo;Enable Javascript queries&rdquo; aan hebt staan.</p>
+<h3 id="script-installeren">Script installeren</h3>
+<p>Ik heb de volledige code van <a href="https://github.com/frankmeeuwsen/spark/tree/main">het script op Github gezet</a>, inclusief tekstbestanden om mee te testen. Je kunt er een kijkje onder <a href="https://github.com/frankmeeuwsen/spark/blob/main/spark.js">de motorkap</a> nemen, of direct het complete pakket <a href="https://github.com/frankmeeuwsen/spark/releases/tag/v1.0.2">downloaden als zipfile</a>.
+Als je het hebt gedownload, unzip het en plaats alle mappen en bestanden in je vault. Doe dit niet in Obsidian zelf, maar via de Finder of Windows Verkenner. Maak een map <em><strong>demofolder</strong></em> in je vault en zet daar de submappen en de losse bestanden in. Het belangrijkste is dat er een bestand genaamd &ldquo;<em><strong>spark.js</strong></em>&rdquo; aanwezig is. Hernoem het eventueel naar deze naam als nodig. De map <em><strong>demofolder</strong></em> in je vault ziet er dan als volgt uit:</p>
+<p><img src="https://frankmeeuwsen.com/uploads/2025/20250110132504-finder-demovault.png" alt="mappen staan geordend binnen een digitale omgeving verschillende bestandsnamen tonen hun inhoud en structuur de achtergrond toont een overzicht van een computerinterface"></p>
+<p>Het maakt niet uit waar je <em><strong>spark.js</strong></em> plaatst in Obsidian, maar het is slim om dit bestand <em><strong>spark.js</strong></em> in een map /scripts te plaatsen, waar je al je scripts bij elkaar houdt. Of zet het in een eigen structuur met een  templates map, of een andere map waar je alles bij elkaar houdt wat betreft automatisering en scripting in Obsidian. Heb je zo&rsquo;n map nog niet, maak dan gewoon een map &ldquo;scripts&rdquo; en plaats hem daar.</p>
+<h3 id="script-aanroepen-en-configuren">Script aanroepen en configuren</h3>
+<p>Je hebt waarschijnlijk al een idee hebt waar je dit script voor wilt gebruiken en dat je een map hebt met bestanden die je wilt aanroepen. Zo niet, dan help ik je wat op weg. Ik heb drie mappen toegevoegd met voorbeeld teksten:</p>
+<ul>
+<li>/alice: De volledige tekst van Alice in Wonderland, in afzonderlijke hoofdstukken. Met dank aan <a href="https://github.com/GITenberg/Alice-s-Adventures-in-Wonderland_19033/tree/master">Project Gutenberg</a></li>
+<li>/tao te ching: De vertaling van dit belangrijke boek is van Ursula K. Le Guin. Gedownload van <a href="https://github.com/seancswanson/the-way-and-its-virtue/blob/main/source-text/reformatted/leguin-translation-reformatted.txt">The Way and it&rsquo;s Virtue</a> en opnieuw opgemaakt voor persoonlijk gebruik.</li>
+<li>/bloghelden: Mijn eigen boek uit 2010 over de geschiedenis van de Nederlandse blogosfeer. Ook vrij te gebruiken via <a href="https://bloghelden.nl">mijn github repo</a>.</li>
+</ul>
+<p>De map /tags kun je gebruiken om te testen met verplichte of uitgesloten tags.</p>
+<p>Met de standaard configuratie werkt SPARK al direct met de bijgesloten Tao Te Ching. Je roept het script als volgt aan:</p>
+<ul>
+<li>Maak een nieuw bestand in Obsidian.</li>
+<li>Plaats hier de volgende code</li>
+</ul>
+<pre tabindex="0"><code class="language-dataviewjs" data-lang="dataviewjs">dv.view(&#34;spark&#34;);
+</code></pre><ul>
+<li>En zet de pagina in Reading mode, of als je Live Preview aan hebt staan, zie je direct het resultaat.</li>
+</ul>
+<p><img src="https://frankmeeuwsen.com/uploads/2025/20250110133056-obsidian-demo-scriptdemovaultobsidian-v1.8.1.png" alt="Een tekstuele inhoud beschrijft de zachte en taaie aard van levende dingen en de tegenstelling met dode zaken omringd door een donkere achtergrond met opvallende kleuren. Er is tekst aanwezig."></p>
+<h3 id="configuratie-van-spark">Configuratie van Spark</h3>
+<p>In het script staan een aantal standaard instellingen. Van de naam van de folder om te gebruiken tot het aantal paragrafen en de styling van de button.</p>
+<p>Ik heb nu de volgende instellingen gemaakt die je kunt aanpassen.</p>
+<ul>
+<li><strong>sourceFolder</strong>: De map waar je bestanden in zijn te vinden. Default:  &lsquo;demofolder/tao te ching&rsquo;</li>
+<li><strong>buttonText</strong>: De tekst die op de button staat. Default: &lsquo;✨ Spark Knowledge&rsquo;</li>
+<li><strong>buttonStyle</strong>: De CSS om je button vorm te geven. Default: `
+- background-color: var(&ndash;interactive-accent);
+- color: var(&ndash;text-on-accent);
+- padding: 8px 16px;
+- border: none;
+- border-radius: var(&ndash;radius-s);
+- margin-bottom: 1em;
+- cursor: pointer;
+- font-size: var(&ndash;font-ui-small);
+- transition: all 0.2s ease;</li>
+<li>
+<pre><code>   `, 
+</code></pre>
+</li>
+<li><strong>linkEmoji</strong>: Een emoji voorafgaand aan de linktekst onder de paragraaf. Default: &lsquo;✨&rsquo;</li>
+<li><strong>showTitle</strong>: Laat de titel van het bestand zien voorafgaand aan de random paragraaf. Default: false</li>
+<li><strong>maxParagraphs</strong>: Kies het maximaal aantal paragrafen om te tonen. Default: 1</li>
+<li><strong>addDividers</strong>: Bij meer dan één paragraaf (zie maxParagraphs), plaats een horizontale lijn tussen de paragrafen. Default: false</li>
+<li><strong>excludeTags</strong>: Bestanden met deze tags worden niet meegenomen in de random knowledge. Default: [&rsquo;exclude&rsquo;, &lsquo;private&rsquo;],</li>
+<li><strong>requireTags</strong>: Alleen bestanden met deze tags tonen in de random knowledge. Default: [],</li>
+<li><strong>excludePatterns</strong>: Hou specifieke tekstpatronen weg uit de keuze van paragrafen. Default: [ &lsquo;&gt; <strong>Note</strong>&rsquo;, &lsquo;&gt; <strong>note</strong>&rsquo;]</li>
+</ul>
+<p>In het bestand Demo Script.md dat is toegevoegd kun je een aantal voorbeelden vinden van configuraties.</p>
+<p><strong>Voorbeelden</strong></p>
+<pre tabindex="0"><code class="language-dataviewjs" data-lang="dataviewjs">await dv.view(&#34;spark&#34;,{
+sourceFolder:&#34;demofolder/alice&#34;,
+showTitle: true,
+});
+</code></pre><pre tabindex="0"><code class="language-dataviewjs" data-lang="dataviewjs">await dv.view(&#34;spark&#34;,{
+buttonText:&#34;🌟 More wisdom!&#34;,
+linkEmoji: &#34;🪄&#34;,
+showTitle: true,
+maxParagraphs: 1,
+addDividers: true
+});
+</code></pre><pre tabindex="0"><code class="language-dataviewjs" data-lang="dataviewjs">await dv.view(&#34;spark&#34;,{
+sourceFolder:&#34;demofolder/tags&#34;,
+includedTags: [&#34;tonen&#34;],
+});
+</code></pre><h2 id="feedback">Feedback</h2>
+<p>Ik hoop dat deze uitleg je voldoende handvatten geeft om dit script eens te testen in je eigen vault. Dit script leest alleen bestaande bestanden. Het schrijft niets weg, houdt geen statistieken bij, stuurt niets naar LLM modellen of maakt andere mensen slimmer anders dan jezelf.</p>
+<p>Ik stel het op prijs als je me wilt helpen met verbeterde versies van het script. Mijn verlanglijst voor volgende versies is nu al:</p>
+<ul>
+<li>Dataview-query&rsquo;s als bron gebruiken</li>
+<li>CSS linken aan een extern bestand (beter beheerbaar)</li>
+<li>Conversie naar plugin</li>
+</ul>
+<p>Wat ik graag aan feedback zou willen ontvangen:</p>
+<ul>
+<li>Kun je hier iets mee? Zo ja, waar gebruik je het nu voor?</li>
+<li>Zo nee, wat mis je nog om het bruikbaar te maken?</li>
+<li>Welke functionaliteit zou het voor jou onmisbaar maken?</li>
+<li>En met welke functionaliteit ga je het actief aan anderen tonen of doorvertellen?</li>
+<li>Wat kan beter in bovenstaande uitleg?</li>
+<li>Wat kan beter in de uitleg in het Readme bestand op Github?</li>
+</ul>
+<p>Dank je wel voor je tijd en aandacht. Laat je kennis ✨SPARKEN!</p>
+<p><a href="https://github.com/frankmeeuwsen/spark/"><strong>SPARK op Github</strong></a></p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+			<h1><a href="https://frankmeeuwsen.com/2025/01/05/een-technicolor-sneeuwstorm.html">Een technicolor sneeuwstorm</a></h1>
+		
+
+		<a href="https://frankmeeuwsen.com/2025/01/05/een-technicolor-sneeuwstorm.html" class="u-url"><time class="dt-published" datetime="2025-01-05 10:33:51 &#43;0100">Jan 5, 2025</time></a>
+
+		<div class="e-content">
+			 <p>De confetti tijdens Oud en Nieuw, op Times Square New York is fantastisch om te zien. Wist je dat  tientallen vrijwilligers elk jaar die 1500 kilo aan milieuvriendelijke confetti met de hand naar beneden gooien? Of eigenlijk, volgens de officiële onboarding die er aan vooraf gaat:</p>
+<blockquote>
+<p>&ldquo;Probeer een handvol confetti naar de overkant van de straat te gooien en dan nog een. En dan nog een. Zo snel mogelijk&rdquo;.</p>
+</blockquote>
+<!-- raw HTML omitted -->
+<p>Een <a href="https://www.youtube.com/watch?v=KAG_0hWBqpY">heerlijke video</a> die opbouwt naar het moment supreme, de technicolor sneeuwstorm van confetti. Prachtig in beeld gebracht.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://frankmeeuwsen.com/2025/01/04/hoe-maak-je-kolommen-in.html">Hoe maak je 3 kolommen in Obsidian?</a></h1>
 		
 
