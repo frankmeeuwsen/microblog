@@ -24,6 +24,76 @@
 	
 	  <div class="h-entry">
 		
+			<h1><a href="https://blog.frankmeeuwsen.com/2026/07/11/ik-leerde-hoe-ik-russische.html">Ik leerde hoe ik Russische spam beter buiten de deur kan houden (een les in self-hosting)</a></h1>
+		
+
+		<a href="https://blog.frankmeeuwsen.com/2026/07/11/ik-leerde-hoe-ik-russische.html" class="u-url"><time class="dt-published" datetime="2026-07-11 13:43:34 &#43;0200">Jul 11, 2026</time></a>
+
+		<div class="e-content">
+			 <p>Ik klik op een artikel op de site van CreativeNotes en beland op een Russische gokwebsite. Niet één keer, elke keer.</p>
+<p>De voorpagina van <a href="https://notes.frankmeeuwsen.com/">CreativeNotes</a> laat gewoon alles netjes zien, maar zodra ik doorklik naar een los artikel, word ik weggestuurd. Soms naar die goksite, soms naar een wat vage Amazon-productpagina. Ik dacht eerst dat mijn browser iets geks deed, maar een check op mijn telefoon en in een paar andere browsers liet precies hetzelfde zien. Mijn site was gehackt.</p>
+<p>Dit is niet de eerste keer dat een account van mij buiten mijn medeweten om iets deed wat ik niet had goedgekeurd. In 2023 ontdekte ik al dat een <a href="https://frankmeeuwsen.com/2023/12/26/always-check-the.html">vergeten app-koppeling mijn Mastodon-account had overgenomen</a>. Deze keer ging het net weer even anders.</p>
+<p>CreativeNotes draait op Ghost, een open source CMS met ingebouwde nieuwsbrief-functionaliteit en veel koppelingsmogelijkheden. <a href="https://frankmeeuwsen.com/2025/05/31/principes.html">Daar koos ik destijds bewust voor</a>, zodat ik zelf de regie hield over mijn boekproject. Die regie voelde nu ineens een stuk minder vanzelfsprekend.</p>
+<h2 id="op-zoek-naar-de-oplossing">Op zoek naar de oplossing</h2>
+<p>Ik dook in de logfiles van het CMS-beheer, maar veel wijzer werd ik er niet van. Wel zag ik dat er ooit was ingelogd met een Zapier-account. Zapier? Ik kon me niet herinneren dat ik ooit een Zapier-koppeling had gemaakt, en de systeemlogs waren verder minimaal, zeg maar gerust afwezig.</p>
+<p>Voor ik op de server zelf ging graven, legde ik het probleem voor aan Claude. Die kwam meteen met een duidelijke diagnose:</p>
+<blockquote>
+<p>[&hellip;] kwaadaardige code op de site zelf. Dit is een bekend patroon: iemand voegt via Ghost Admin (Settings → Code injection, header of footer) of via een gecompromitteerd thema een script toe dat kliks op links onderschept en herschrijft naar affiliate- of scamsites.</p>
+</blockquote>
+<p>Bij de header en footer van de site vond ik niks, maar ik wist dat <em>code injection</em> in Ghost ook per post en pagina mogelijk is. Ik checkte de instellingen van een van de artikelen en bingo, daar stond het: een stukje kwaadaardige Javascript.</p>
+<!-- raw HTML omitted -->
+<p>Nu moest ik nog uitzoeken hoe dit was gebeurd, wat ik beter moest afschermen en hoe ik in één keer alle geïnjecteerde code uit mijn posts kreeg. Ook daar hielp Claude Cowork me goed bij. Stap één was alle API-keys vernieuwen en mijn wachtwoord wijzigen. Ondertussen bouwde Claude een script dat ik lokaal op mijn Mac draaide: het gebruikt de officiële Ghost-API, loopt alle posts en pagina&rsquo;s langs, checkt op kwaadaardige code en verwijdert die meteen als hij iets vindt. Binnen twee minuten was de site weer schoon en gewoon bereikbaar.</p>
+<h2 id="beveiliging">Beveiliging</h2>
+<p>Toen werd het tijd om de site en de server structureel beter te beveiligen. Ik ben geen senior developer en heb weinig verstand van het echt dichttimmeren van servers, maar Claude legt me prima uit wat nodig is, waarom het nodig is en hoe ik het instel.</p>
+<p>Zo bleken de logfiles van mijn server maar minimale informatie te bewaren. Dat is nu anders: ik zie tot in detail wie welke pagina opvraagt, vanaf welk IP-adres en hoe vaak er wordt geprobeerd om beveiligingen te omzeilen of API&rsquo;s te benaderen. Vervolgens bouwden we een script dat me via Telegram een seintje stuurt zodra een pagina op CreativeNotes wordt aangepast door iemand anders dan ikzelf, zodat ik een volgende poging meteen in de kiem kan smoren.</p>
+<p>Tot slot staat er nu een klein dashboard waar ik de logfiles visueel terugzie in grafieken. Dat dashboard geeft best wel veel informatie, dus die moet ik nog scherper filteren, maar het belangrijkste staat er: de server is beter afgeschermd, ik krijg een signaal zodra er iets misgaat, en een eventuele nieuwe code-injectie los ik binnen een paar minuten op met mijn eigen script.</p>
+<h2 id="ai-als-assistent-in-dit-alles">AI als assistent in dit alles</h2>
+<p>Na dertig jaar weet ik best wat van programmeren, van hoe computers en servers werken, van waar je bij beveiliging op moet letten, maar ik ben er geen bedreven uitvoerder van. Ik spreek de taal niet vloeiend, zeg maar, en ik weet ook niet altijd welke term of instelling nou precies de juiste is. Voor grote taalmodellen als Claude maakt dat weinig meer uit.</p>
+<p>Door een gestructureerde aanpak loste ik het probleem in zo&rsquo;n drie uur op. Ik beveiligde mijn werk beter en snap nu redelijk goed hoe en waarom dit is gebeurd, door te vragen waarom iets nodig is, door af en toe een tegenidee te opperen, door een foutmelding gewoon in het opdrachtveld te plakken met de simpele vraag: los dit voor me op.</p>
+<p>Ik schreef eerder al <a href="https://blog.frankmeeuwsen.com/2025/12/18/agents-en-skills.html">over het verschil tussen agents en skills</a> in Claude Code. Dit hele avontuur was typisch skill-werk: ik zat aan het stuur, Claude was mijn copiloot, en bij elke stap kon ik meekijken en bijsturen.</p>
+<p>Kan het allemaal nog steviger en robuuster? Vast wel. Claude opperde zelf CrowdSec, een soort actieve waakhond die continu logfiles analyseert en zelfstandig beslissingen neemt, maar het advies was om eerst te kijken hoe de huidige beveiliging bevalt, voor ik er nog een laag bovenop leg.</p>
+<p>De Russische spammer heeft niets persoonlijks tegen mij. Het is geautomatiseerd, uitbesteed werk: op grote schaal zoeken naar sites met een Ghost-installatie, kijken waar de zwakke plekken zitten en daar massaal spam-links plaatsen. Ik was er even het toevallige slachtoffer van.</p>
+<p>Balen is het wel, maar het is meteen ook weer een les: zelf hosten is een leuke hobby, maar je draagt er wel wat petten bij. Updates, beveiliging, het is allemaal jouw verantwoordelijkheid. Ik vind dat prima, het is mijn hobby en ik leer er telkens weer wat bij. Voor de meeste mensen is dat anders, en dat hoeft ook niet. Juist om deze reden.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.frankmeeuwsen.com/2026/07/09/the-sneakerweb-is-a-peertopeer.html" class="u-url"><time class="dt-published" datetime="2026-07-09 10:46:40 &#43;0200">Jul 9, 2026</time></a>
+
+		<div class="e-content">
+			 <p><strong><a href="https://sneakerweb.org/">sneakerweb</a></strong></p>
+<blockquote>
+<p>The sneakerweb is a peer-to-peer protocol for web publishing without permission: there are no DNS servers, domain registrars, or web hosts.</p>
+<p>Instead, websites are stored directly on user devices, and transferred between them through the ultimate fallback infrastructure: physical storage media.</p>
+</blockquote>
+<p>Ik weet nog niet wat het exact is en hoe het werkt, maar ik wil dit best eens proberen…</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
+
+		<a href="https://blog.frankmeeuwsen.com/2026/07/09/mr-penumbra-is-up-all.html" class="u-url"><time class="dt-published" datetime="2026-07-09 10:05:22 &#43;0200">Jul 9, 2026</time></a>
+
+		<div class="e-content">
+			 <p><strong><a href="https://www.robinsloan.com/newsletters/penumbra-is-up-all-night/">Mr. Penumbra is up all night</a></strong></p>
+<blockquote>
+<p>I have to add: this paper SMELLS amazing (!) and I hope it main­tains some of its aroma in transit.</p>
+<p>Okay — The Writer &amp; the Witch is the story you’ll receive immediately. And the one you’ll smell immediately.</p>
+<p>The second book will ship later this summer:</p>
+<p>Mr. Penumbra&rsquo;s All-Night Reading Room</p>
+</blockquote>
+<p>Ik heb de bundel direct besteld. Ik <a href="https://blog.frankmeeuwsen.com/search-space/?q=sloan">blijf een groot fan</a> van Robin Sloan. Niet alleen zijn boeken, maar juist het creatieve werk wat hij er bij doet. Een voorbeeld om naar te leven.</p>
+
+		</div>
+	  </div>
+	
+	  <div class="h-entry">
+		
 			<h1><a href="https://blog.frankmeeuwsen.com/2026/07/09/om-malik-is-overleden.html">Om Malik is overleden</a></h1>
 		
 
